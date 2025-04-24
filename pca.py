@@ -7,6 +7,7 @@ from matplotlib import pyplot as plt
 import argparse
 import yaml
 import os
+import requests
 
 def main(config):
 
@@ -17,6 +18,8 @@ def main(config):
     NORM_METHOD = config["NORM_METHOD"]
     NORM_TRANSFORM = config["NORM_TRANSFORM"]
     COMPONENTS = config['COMPONENTS']
+    LOADINGS = config['LOADINGS']
+    SUSDAT = config['SUSDAT']
     PLOT = config['PLOT']
 
     os.makedirs(FILEPATH, exist_ok=True)
@@ -58,6 +61,48 @@ def main(config):
                 ax.set_title(f'{COLLECTION_ID} PCA plot: PC{i}/PC{j}')
                 plt.savefig(f'{FILEPATH}/PC{i}_PC{j}.svg', bbox_inches='tight')
                 plt.close()
+
+    #save loadings plots
+    for i in range(0,COMPONENTS):
+        top_N_idx = np.argsort(abs(pca_model.components_[i,:]))[-LOADINGS:]
+        scores = pca_model.components_[i,:][top_N_idx]
+        mols = ordinationData.columns[top_N_idx]
+        argidx = np.argsort(scores)
+        scores = scores[argidx]
+        mols = mols[argidx]
+        loadings= pd.DataFrame()
+        loadings['scores'] = scores
+
+        if (SUSDAT == 'Compound name'): 
+            sus = []
+            for m in mols:
+                try: 
+                    # convert mols to IUPAC using susdat look up
+                    url = f"https://www.norman-network.com/nds/api/susdat/nsid/{m}/JSON"
+                    r = requests.get(url)
+                    json = r.json()
+                    print(json)
+                    sus.append(json[SUSDAT])
+                except KeyError:
+                    sus.append(m)
+            loadings['mols'] = sus
+        else:
+            loadings['mols'] = mols
+
+        loadings.to_csv(f"{FILEPATH}/PC{i+1}_loadings.csv")
+        if PLOT:
+            if i % 2 == 0:
+                ax = sns.stripplot(x=f'PC{i+1}',data=plotData, alpha=.4, marker='X', legend=False,c='grey')
+                sns.stripplot(x="scores",ax=ax, hue="mols", palette='coolwarm',legend=True,data=loadings)
+            else:
+                ax = sns.stripplot(y=f'PC{i+1}',data=plotData, alpha=.4, marker='X', legend=False,c='grey')
+                sns.stripplot(y="scores",ax=ax, hue="mols", palette='coolwarm',legend=True, data=loadings)
+            # Adjusting the legend
+            handles, labels = ax.get_legend_handles_labels()
+            ax.legend(handles, labels, loc='upper center', bbox_to_anchor=(0.5, -0.15), ncol=2, title='loadings')
+            ax.set_title(f'PC{i+1} loading plot')
+            plt.savefig(f'{FILEPATH}/PC{i+1}_loadings.svg', bbox_inches='tight')
+            plt.close()
 
 #COMMAND LINE
 if __name__ == "__main__":

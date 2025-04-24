@@ -15,7 +15,8 @@ METAPATH: "metadata/"
 NORM_METHOD: "sum"
 NORM_TRANSFORM: "power3"
 COMPONENTS: 4
-LOADINGS: 10
+LOADINGS: 50
+SUSDAT: "Compound name"
 PLOT: True
 HUE: 'Instrument setup used'
 STYLE: 'Species group'

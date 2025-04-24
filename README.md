@@ -37,3 +37,8 @@ The ```config.yaml``` file contains the following relevant parameters:
 * ```STYLE: 'Species group'``` - Column of the metadata file to style the points by. 
 * ```PCAPATH: "pca/"``` - File path to save the pca data/plots. 
 
+## To do
+* cache download of norman susdat data
+* parallelise susdat download
+* missingno analysis
+* random forest predictions
