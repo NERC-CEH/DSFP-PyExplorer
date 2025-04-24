@@ -10,27 +10,28 @@ import os
 
 def main(config):
 
-    FILEPATH = config['PCAPATH']
+    FILEPATH = f"{config['PCAPATH']}{config['COLLECTION_ID']}"
     COLLECTION_ID = config['COLLECTION_ID']
     ORDPATH = config["ORDPATH"]
     METAPATH = config["METAPATH"]
     NORM_METHOD = config["NORM_METHOD"]
     NORM_TRANSFORM = config["NORM_TRANSFORM"]
     COMPONENTS = config['COMPONENTS']
+    PLOT = config['PLOT']
 
     os.makedirs(FILEPATH, exist_ok=True)
 
     #read the ordination data 
-    ordinationData = pd.read_csv(f"{ORDPATH/{COLLECTION_ID}}_ordination.csv",index_col=0)
+    ordinationData = pd.read_csv(f"{ORDPATH}/{COLLECTION_ID}_ordination.csv",index_col=0)
 
     #zero-fill the ordination data 
     zeroFill = ordinationData.fillna(0)
 
     #normalise the ordination data
-    normalise = pk.normalise_intensity(zeroFill,NORM_METHOD=NORM_METHOD,norm_transform=NORM_TRANSFORM)
+    normalise = pk.normalise_intensity(zeroFill,norm_method=NORM_METHOD,norm_transform=NORM_TRANSFORM)
 
     #read the metadata
-    metaData = pd.read_csv(f"{METAPATH/{COLLECTION_ID}}_metadata.csv",index_col=0)
+    metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0)
 
     #create an empty dataframe to make the pca plots in
     plotData = pd.DataFrame()
@@ -43,15 +44,20 @@ def main(config):
     pca_result = pca_model.transform(normalise)
 
     #plot data update 
-    for i in range (0,len(COMPONENTS)):
+    for i in range (0,COMPONENTS):
         plotData[f'PC{i+1}'] = pca_result[:,i]
-    plotData.to_csv(f"{FILEPATH}/{COLLECTION_ID}_pca_data.csv")
+    plotData.to_csv(f"{FILEPATH}/pca_data.csv")
 
-    ax = sns.scatterplot(x='PC1',y='PC2',data=plotData, hue='Instrument setup used', style='Species group')
-    ax.set_xlabel(f'PC1 ({np.round(pca_model.explained_variance_ratio_[0],3)}%)')
-    ax.set_ylabel(f'PC2 ({np.round(pca_model.explained_variance_ratio_[1],3)}%)')
-    plt.savefig(f'{FILEPATH}{COLLECTION_ID}_pca_plot.svg')
-
+    #save svg biplots
+    if PLOT: 
+        for i in range (1,COMPONENTS):
+            for j in range(i+1,COMPONENTS+1):
+                ax = sns.scatterplot(x=f'PC{i}',y=f'PC{j}',data=plotData, hue='Instrument setup used', style='Species group')
+                ax.set_xlabel(f'PC{i} ({np.round(pca_model.explained_variance_ratio_[i-1],3)}%)')
+                ax.set_ylabel(f'PC{j} ({np.round(pca_model.explained_variance_ratio_[j-1],3)}%)')
+                ax.set_title(f'{COLLECTION_ID} PCA plot: PC{i}/PC{j}')
+                plt.savefig(f'{FILEPATH}/PC{i}_PC{j}.svg', bbox_inches='tight')
+                plt.close()
 
 #COMMAND LINE
 if __name__ == "__main__":

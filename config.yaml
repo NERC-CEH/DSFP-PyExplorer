@@ -14,8 +14,9 @@ METAPATH: "metadata/"
 #pca
 NORM_METHOD: "sum"
 NORM_TRANSFORM: "power3"
+COMPONENTS: 4
+LOADINGS: 10
+PLOT: True
 HUE: 'Instrument setup used'
 STYLE: 'Species group'
 PCAPATH: "pca/"
-COMPONENTS: 2
-LOADINGS: 10
