@@ -1,5 +1,5 @@
-# EEx-NTA
-A repository for storing mass-spectrometry non-target analysis (NTA) code linked to the Environmental Exposure Hub. 
+# DSFP-PyExplorer
+A Python package for doing exploratory data analysis of collections on the [NORMAN Digital Sample Freezing Platform](https://dsfp.norman-data.eu/). This work is linked to the UKCEH Environmental Exposure Hub Project. 
 
 ## ```python ordination_mat.py config.yaml```
 
