@@ -36,9 +36,20 @@ The ```config.yaml``` file contains the following relevant parameters:
 * ```HUE: 'Instrument setup used'``` - Column of the metadata file to colour the points by. 
 * ```STYLE: 'Species group'``` - Column of the metadata file to style the points by. 
 * ```PCAPATH: "pca/"``` - File path to save the pca data/plots. 
+* ```SUBSET: "Instrument type"``` - Whether to subset the data before performing PCA. Set to False to do PCA on all the data. 
+
+## ```susdat.py```
+
+This Python module can convert NS Ids into compound names or any other ID returned by the susdat database. It is used by ```pca.py``` to rename the loadings.
+The ```config.yaml``` - file contains the following relevant parameters: 
+* ```SUSDAT: "Compound name"``` - which field in the SUSDAT json file to replace the NSID with. Set to "None" if you don't want to change the IDs. 
+* ```CACHE: True``` - whether or not to use the downloaded susdat json files cached locally
+* ```SUSPATH: "susdata/"``` - where to save/read the json files
+
 
 ## To do
-* cache download of norman susdat data
-* parallelise susdat download
+* constrained ordination
 * missingno analysis
 * random forest predictions
+* better documentation
+* requirements file

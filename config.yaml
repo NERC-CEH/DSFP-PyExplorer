@@ -1,6 +1,6 @@
 #ordination_mat
 DOWNLOAD: False
-METHOD: 'max'
+METHOD: "max"
 THREADS: 10
 ORDPATH: "ordination/"
 DOWNLOAD_DIR: "downloads/"
@@ -12,12 +12,17 @@ NS_MAX: 120000
 METAPATH: "metadata/"
 
 #pca
+SUBSET: "Instrument setup used"
 NORM_METHOD: "sum"
 NORM_TRANSFORM: "power3"
 COMPONENTS: 4
 LOADINGS: 50
-SUSDAT: "Compound name"
 PLOT: True
-HUE: 'Instrument setup used'
-STYLE: 'Species group'
+HUE: "Species group"
+STYLE: "Tissue"
 PCAPATH: "pca/"
+
+#sudat
+SUSDAT: "Compound name"
+CACHE: True
+SUSPATH: "susdat/"
