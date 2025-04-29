@@ -1,51 +1,51 @@
 ,scores,mols
-0,-0.04069019647125178,"Pyrimidine, 1,4,5,6-tetrahydro-1,2-dimethyl-"
-1,-0.04069019647125178,"Hexanenitrile, 6-amino-"
-2,-0.040635105475955925,2-Fluoropropene
-3,-0.034738030752444214,4-(Dimethylamino)butyronitrile
-4,-0.034738030752444214,3-Fluoropropene
-5,-0.033069310731312,Ethyl 3-hydroxycyclohexanecarboxylate
-6,-0.033069310731312,"5,5-Dimethyl-1,3-dioxane-2-propionaldehyde"
-7,-0.033069310731312,Ethyl 4-hydroxycyclohexanecarboxylate
-8,-0.033069310731312,Allyl 6-hydroxyhexanoate
-9,-0.0327881276164471,"TP1/2,2-Dimethylpropane-1,3-diyl bis(2-methylprop-2-enoate)"
-10,-0.03276990548410935,Benserazide
-11,-0.03276990548410935,TP2/3-[(3Z)-Hex-3-en-1-yloxy]propanenitrile
-12,0.03271335862036385,"1,2-Dihydropyridazine-3,6-dione, compound with diethylamine (1:1)"
-13,0.03271335862036385,2-Hydroxyethyl cyclohexanecarboxylate
-14,0.03271335862036385,"2-Chloro-N,N,N',N'-tetraethylpropane-1,3-diamine monohydrochloride"
-15,0.033308777818099426,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.,.alpha.'-(2,2-dimethyl-1,3-propanediyl)bis[.omega.-hydroxy-"
-16,0.03361040164642902,"(Z)-2-amino-1,5-dihydro-1-(9-octadecenyl)-4H-imidazol-4-one"
-17,0.03361040164642902,Diethyl (3-aminopropyl)phosphonate
-18,0.03590389133264602,2'-C-Methylcytidine
-19,0.036888254734265234,Carpronium chloride
-20,0.03988717424994446,L-tyrosinohydrazide
-21,0.04048737511985719,"2-Ethyl-2-[[2-(hydroxymethyl)butoxy]methyl]propane-1,3-diol"
-22,0.04058347816422417,1-(Allyloxy)-3-(dimethylamino)propan-2-ol hydrochloride
-23,0.040680978755146376,2-(Methylamino)butan-1-ol
-24,0.040680978755146376,"(2S)-2-Amino-3-hydroxy-N'-[(2,3,4-trihydroxyphenyl)methyl]propanehydrazide (non-preferred name)"
-25,0.040680978755146376,1-(Ethylamino)propan-2-ol
-26,0.04100966277078778,Trimethyl[2-(1-oxopropoxy)ethyl]ammonium chloride
-27,0.047567857298111714,4-Aminopentan-1-ol
-28,0.047567857298111714,1-Amino-2-methylbutan-2-ol
-29,0.048704530930781656,"Ethane, nitroso-"
-30,0.048704530930781656,5-Aminopentan-1-ol
-31,0.048704530930781656,(R)-1-(methoxymethyl)propylamine
-32,0.048704530930781656,2-(Dimethylamino)propan-1-ol
-33,0.048704530930781656,"1-Amino-2,2-dimethylpropan-1-ol"
-34,0.048704530930781656,"1-Propanamine, 3-ethoxy-"
-35,0.048704530930781656,"Ethanol, 2-(propylamino)-"
-36,0.048704530930781656,L-2-amino-3-methylbutan-1-ol
-37,0.048704530930781656,2-(Isopropylamino)ethanol
-38,0.048704530930781656,L-valinol | L-(+)-valinol
-39,0.048704530930781656,Choline
-40,0.048704530930781656,TP1/N-(Butoxymethyl)acrylamide
-41,0.048704530930781656,"1-Propanol, 3-(dimethylamino)-"
-42,0.048704530930781656,NS00014224
-43,0.048704530930781656,"Methanol, (diethylamino)-"
-44,0.048704530930781656,Methacholine chloride
-45,0.048704530930781656,"2,2,4,4,6,6-Hexamethyl-1,3,5-trithiane"
-46,0.048704530930781656,Dimepranol
-47,0.048704530930781656,"9,10-Anthracenedione, 1,4-bis(pentylamino)-"
-48,0.05215134078656874,1-(Methoxymethyl)propylamine
-49,0.07011812979158986,Bis(2-ethylhexyl) isophthalate
+0,-0.05605778118963999,M-Ethoxybenzamide
+1,-0.05420459683554454,"Lauric acid, compound with diethylamine (1:1)"
+2,-0.04802180571361546,P-Ethoxybenzamide
+3,-0.04623116104205716,N-(5-hydroxy-2-methylphenyl)acetamide
+4,-0.04623116104205716,"Ethanol, 2,2'-(octylimino)bis-"
+5,-0.04181158651213869,Dimethyl(3-mercaptopropyl)ammonium chloride
+6,-0.03993964505993815,Decylammonium acetate
+7,-0.03985008518502773,Ethyl 2-methylnicotinate
+8,-0.03602832580185805,Dibutylammonium isobutyrate
+9,-0.0354081721331944,"2-Propanamine, 2-methyl-1-(methylthio)-"
+10,-0.03459472931315104,"Phenol, 2-ethoxy-5-propyl-"
+11,-0.034540128095479385,"1,1'-(Octylimino)dipropan-2-ol"
+12,-0.03450628582036279,Ethylideneaniline
+13,-0.03273146634017288,Valeranilide
+14,-0.03243002742086942,P-(tert-Butyl)benzamide
+15,-0.03215892061592901,"Benzamide, N-butyl-"
+16,-0.031884165855606925,1-(2-Pyridyl)cyclohexan-1-ol
+17,-0.031884165855606925,(2-Neopentylallyl)succinic acid
+18,-0.031884165855606925,"3-Ethyl-2-methyl-4,5,6,7-tetrahydroindol-4-one"
+19,-0.031884165855606925,"N-(a,a-dimethylphenethyl)formamide"
+20,-0.03144354802168892,Dodecanedioic acid
+21,-0.03144354802168892,13-Hexyloxacyclotridec-10-en-2-one
+22,-0.03144354802168892,"Methanamine, N-(phenylmethylene)-"
+23,-0.03143123538558659,(9Z)-Octadec-9-enamide
+24,-0.031336071494595844,N-methyl-N-(1-phenylpropan-2-yl)formamide
+25,-0.031308098223528064,Pivalanilide
+26,-0.030502364093849002,"6,7-Dihydro-5H-2-pyrindine"
+27,-0.028511038741349595,2-Methyl-5-vinylpyridine
+28,-0.027965968200700516,"Pyridine, 2-ethenyl-6-methyl-"
+29,-0.02625784528582671,"6,7-Dihydro-5H-cyclopenta(b)pyridine"
+30,-0.025626188854804322,Indoline
+31,-0.025621129597652482,4-Vinylaniline
+32,-0.025621129597652482,"(5-Ethyl-2,2-dimethyl-1,3-dioxan-5-yl)methyl acrylate"
+33,-0.025621129597652482,4-(Diethylamino)benzaldehyde
+34,-0.025621129597652482,2-[2-(Tetrahydro-2-furyl)ethyl]pyridine
+35,-0.025621129597652482,"Decanoic acid, compound with dibutylamine (1:1)"
+36,-0.025621129597652482,"N,N-Diethylbenzamide"
+37,-0.025276148316738613,"Ethanol, 2-(octylamino)-"
+38,-0.02496313733094531,2-[(2-Ethylhexyl)amino]ethanol
+39,-0.02496313733094531,Metformin hydrochloride
+40,0.025819818921676035,Cyclohexyldimethylammonium dibutyldithiocarbamate
+41,0.02672015778887268,"2(1H)-Pyrimidinone, tetrahydro-1,3-dimethyl-"
+42,0.027746710048262083,2-Ethylhexylamine
+43,0.027746710048262083,3-(2-(Dodecyloxy)ethoxy)propylamine
+44,0.029865868790957095,NS00023551
+45,0.029865868790957095,Carboxin
+46,0.030429102445874445,Dimethylaminoacetonitrile
+47,0.031829163129505705,"Acetonitrile, (diethylamino)-"
+48,0.03252824488532285,"Acetonitrile, (ethylamino)-"
+49,0.04971369407746677,"2,5-Dimethyl-1-(2-thienylmethyl)pyrrole-3-carboxylic acid"

@@ -1,51 +1,51 @@
 ,scores,mols
-0,0.047903847162927934,A-propoxyphenethyl alcohol
-1,0.047903847162927934,Ethyl 3-methylbicyclo[2.2.1]hept-5-ene-2-carboxylate
-2,0.047903847162927934,"Octahydro-4,7-methano-1H-indenecarboxylic acid"
-3,0.047903847162927934,4-(1-Methylvinyl)cyclohex-1-ene-1-methyl formate
-4,0.047903847162927934,4-Methyl-4-(5-methyl-2-furyl)pentan-2-one
-5,0.047903847162927934,"3-Acetyl-2,4,4-trimethylcyclohex-2-en-1-one"
-6,0.047903847162927934,"1,1-Dimethoxy-3-phenylpropane"
-7,0.047903847162927934,"Methyl 3,3-dimethylbicyclo[2.2.1]hept-5-ene-2-carboxylate"
-8,0.047903847162927934,"P-(2,2-Dimethyloxyethyl)toluene"
-9,0.047903847162927934,4-(4-Methoxyphenyl)butan-1-ol
-10,0.047903847162927934,P-tert-Butoxybenzyl alcohol
-11,0.047903847162927934,"3,4-Diethoxytoluene"
-12,0.047903847162927934,2-Methyl-5-(1-methylvinyl)cyclohex-2-en-1-yl formate
-13,0.047903847162927934,"Phenol, 3-(1,1-dimethylethyl)-4-methoxy-"
-14,0.04808779383326017,2-Isobutyl-5-methoxyphenol
-15,0.048439894235253474,NS00006719
-16,0.048439894235253474,4-(P-methoxyphenyl)butan-2-ol
-17,0.048439894235253474,"Tricyclo(3.3.1.1'3,7)decane-1-carboxylic acid"
-18,0.048439894235253474,3-Tert-Butyl-6-methylpyrocatechol
-19,0.048439894235253474,"Phenol, 4-(pentyloxy)-"
-20,0.048439894235253474,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-yl formate"
-21,0.048439894235253474,"(6,6-Dimethylbicyclo[3.1.1]hept-2-en-2-yl)methyl formate"
-22,0.048439894235253474,4-Tert-butylphenol-formaldehyde copolymer
-23,0.048439894235253474,"Benzene, (diethoxymethyl)-"
-24,0.048439894235253474,5-Tert-Butyl-3-methylpyrocatechol
-25,0.04901826059173247,1-Methoxybicyclo[2.2.2]oct-5-en-2-yl methyl ketone
-26,0.05005472476701188,"1-Amino-2,2-dimethylpropan-1-ol"
-27,0.050550050926463905,Dimepranol
-28,0.06958331587556518,"1-Propanamine, 3-ethoxy-"
-29,0.06958331587556518,"Ethanol, 2-(propylamino)-"
-30,0.06958331587556518,4-Aminopentan-1-ol
-31,0.06958331587556518,L-valinol | L-(+)-valinol
-32,0.06958331587556518,2-(Isopropylamino)ethanol
-33,0.06958331587556518,"Methanol, (diethylamino)-"
-34,0.06958331587556518,1-Bicyclo[2.2.1]hept-5-en-2-yl-4-hydroxybutan-2-one
-35,0.06958331587556518,TP1/N-(Butoxymethyl)acrylamide
-36,0.06958331587556518,"5,6,7,7A-tetrahydro-4,4,7a-trimethylbenzofuran-2(4H)-one"
-37,0.06958331587556518,2-(Dimethylamino)propan-1-ol
-38,0.06958331587556518,L-2-amino-3-methylbutan-1-ol
-39,0.06958331587556518,1-(Methoxymethyl)propylamine
-40,0.06958331587556518,"1-Propanol, 3-(dimethylamino)-"
-41,0.06958331587556518,Choline
-42,0.06958331587556518,(R)-1-(methoxymethyl)propylamine
-43,0.06958331587556518,NS00014224
-44,0.06958331587556518,(9Z)-Octadec-9-enamide
-45,0.06958331587556518,2-(Methylamino)butan-1-ol
-46,0.06958331587556518,"Ethane, nitroso-"
-47,0.08179976128177611,1-Amino-2-methylbutan-2-ol
-48,0.16772570061863176,5-Aminopentan-1-ol
-49,0.16772570061863176,1-(Ethylamino)propan-2-ol
+0,-0.08507489140821504,"Ethane, nitroso-"
+1,-0.08507489140821504,NS00014224
+2,-0.050179846032564784,(3-Aminopropyl)carbamic acid
+3,-0.04872505261030037,Dibutylammonium isobutyrate
+4,-0.04851398843108861,"Ethanol, 2,2'-(octylimino)bis-"
+5,-0.04844700557236774,Decylammonium acetate
+6,-0.04822327225154094,N-(2-Aminoethyl)glycine
+7,-0.048118874592971754,Ethyl hydrazinoacetate hydrochloride
+8,-0.04798051169667492,Threoninamide
+9,-0.047977220947618984,"L-2,4-Diaminobutyric acid"
+10,-0.045771855770701524,"1,1'-(Octylimino)dipropan-2-ol"
+11,-0.04543027280861243,2-Fluoropropene
+12,-0.04542003414577903,4-(Dimethylamino)butyronitrile
+13,-0.04526569021378952,"Hexanenitrile, 6-amino-"
+14,-0.03421230349608344,3-Fluoropropene
+15,-0.03421230349608344,"Pyrimidine, 1,4,5,6-tetrahydro-1,2-dimethyl-"
+16,-0.03419589356952295,"1,2,2,6,6-Pentamethyl-4-(vinyloxy)piperidine"
+17,-0.034167278680729794,Ethyl 3-hydroxycyclohexanecarboxylate
+18,-0.034167278680729794,Allyl 6-hydroxyhexanoate
+19,-0.03354990451689074,Ethyl 4-hydroxycyclohexanecarboxylate
+20,-0.033436649221352845,TP2/3-[(3Z)-Hex-3-en-1-yloxy]propanenitrile
+21,-0.033436649221352845,"TP1/2,2-Dimethylpropane-1,3-diyl bis(2-methylprop-2-enoate)"
+22,-0.033436649221352845,"5,5-Dimethyl-1,3-dioxane-2-propionaldehyde"
+23,-0.033436649221352845,2-Hydroxyethyl cyclohexanecarboxylate
+24,-0.03320619066171369,Beta-N-Methylamino-L-alanine
+25,-0.03320619066171369,NS00077167
+26,-0.03319120758764801,"2,4-Diaminobutyric acid"
+27,-0.033126334970228946,1-Ethyl-2-methylquinolinium iodide
+28,-0.032807530458926835,"2,3-Diaminobutanoic acid"
+29,-0.032807530458926835,Ethyl 1-hydroxycyclohexane-1-carboxylate
+30,-0.03268735169029541,6-Oxo-3-methylhexyl acetate
+31,-0.03268735169029541,Isobutyl 4-oxovalerate
+32,-0.03268735169029541,1-Ethyl-4-methylquinolinium toluene-p-sulphonate
+33,-0.03255198460825398,2-Methoxybutyl methacrylate
+34,-0.03255198460825398,Butyl 4-oxopentanoate
+35,-0.03255198460825398,L-tyrosinohydrazide
+36,-0.03251055401541895,Diethyl (3-aminopropyl)phosphonate
+37,-0.03251055401541895,Trimethyl[2-(1-oxopropoxy)ethyl]ammonium chloride
+38,-0.03251055401541895,Carpronium chloride
+39,-0.03251055401541895,Methacholine chloride
+40,-0.03251055401541895,1-(Allyloxy)-3-(dimethylamino)propan-2-ol hydrochloride
+41,-0.03251055401541895,Ethyl 3-isopropoxy-2-butenoate
+42,-0.03251055401541895,5-Oxo-2-propylhexanoic acid
+43,-0.03251055401541895,6-Hydroxyhexyl acrylate
+44,0.03449413811703066,"3-Hydroxy-2,2-dimethylpropyl methacrylate"
+45,0.03530897120131107,"Propanoic acid, 2-hydroxy-, (3Z)-3-hexen-1-yl ester"
+46,0.03557864079997085,"(E)-2-(3-hexenyloxy)-1,3-dioxolane"
+47,0.03557864079997085,2-Methylpropyl 2-hydroxy-2-methylbut-3-enoate
+48,0.03557864079997085,Ethyl 7-oxoheptanoate
+49,0.03584625330166203,Ethyl 2-acetyl-3-methylbutyrate

@@ -35,7 +35,6 @@ def main(config):
 
     # Read files and save in a list object
     local_urls = [os.path.join(DOWNLOAD_DIR, file) for file in os.listdir(DOWNLOAD_DIR)]
-    print(local_urls)
     data_as_list = []
     pbar = tqdm.tqdm(total=len(local_urls), desc='load')  # Init pbar
     with ThreadPoolExecutor(max_workers=THREADS) as executor:

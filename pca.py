@@ -7,8 +7,8 @@ from matplotlib import pyplot as plt
 import argparse
 import yaml
 import os
-import requests
 from susdat import susdat
+
 def main(config):
 
     FILEPATH = f"{config['PCAPATH']}{config['COLLECTION_ID']}"
@@ -16,8 +16,11 @@ def main(config):
     ORDPATH = config["ORDPATH"]
     METAPATH = config["METAPATH"]
     SUBSET = config["SUBSET"]
-    NORM_METHOD = config["NORM_METHOD"]
-    NORM_TRANSFORM = config["NORM_TRANSFORM"]
+    NORM_ORDER = config["NORM_ORDER"]
+    ROW_METHOD = config["ROW_METHOD"]
+    ROW_TRANSFORM = config["ROW_TRANSFORM"]
+    COL_METHOD = config["COL_METHOD"]
+    COL_TRANSFORM = config["COL_TRANSFORM"]
     COMPONENTS = config['COMPONENTS']
     LOADINGS = config['LOADINGS']
     SUSDAT = config['SUSDAT']
@@ -87,7 +90,7 @@ def main(config):
     
     os.makedirs(FILEPATH, exist_ok=True)
     #subset the data 
-    if SUBSET != 'None':
+    if SUBSET != 'none':
         #read the metadata
         metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0)
         #determine the groupings
@@ -106,17 +109,41 @@ def main(config):
             #zero-fill the ordination data 
             zeroFill = ordinationData.fillna(0)
             #normalise the ordination data
-            normalise = pk.normalise_intensity(zeroFill,norm_method=NORM_METHOD,norm_transform=NORM_TRANSFORM)
+            if NORM_ORDER == 'None':
+                normalise = zeroFill
+            elif NORM_ORDER == 'row':
+                normalise = pk.normalise_intensity(zeroFill,norm_method=ROW_METHOD,norm_transform=ROW_TRANSFORM,norm_direction='rows')
+            elif NORM_ORDER == 'col':
+                normalise = pk.normalise_intensity(zeroFill,norm_method=COL_METHOD,norm_transform=COL_TRANSFORM,norm_direction='columns')
+            elif NORM_ORDER == 'rowcol':
+                normalise = pk.normalise_intensity(zeroFill,norm_method=ROW_METHOD,norm_transform=ROW_TRANSFORM,norm_direction='rows')
+                normalise = pk.normalise_intensity(zeroFill,norm_method=COL_METHOD,norm_transform=COL_TRANSFORM,norm_direction='columns')
+            elif NORM_ORDER == 'colrow':
+                normalise = pk.normalise_intensity(zeroFill,norm_method=COL_METHOD,norm_transform=COL_TRANSFORM,norm_direction='columns')
+                normalise = pk.normalise_intensity(zeroFill,norm_method=ROW_METHOD,norm_transform=ROW_TRANSFORM,norm_direction='rows')
             #do the PCA
             PCA_ROUTINE(g=f"{g}/")
 
     else: 
+        #read the metadata
+        metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0)
         #read the ordination data 
         ordinationData = pd.read_csv(f"{ORDPATH}/{COLLECTION_ID}_ordination.csv",index_col=0)
         #zero-fill the ordination data 
         zeroFill = ordinationData.fillna(0)
         #normalise the ordination data
-        normalise = pk.normalise_intensity(zeroFill,norm_method=NORM_METHOD,norm_transform=NORM_TRANSFORM)
+        if NORM_ORDER == 'None':
+            normalise = zeroFill
+        elif NORM_ORDER == 'row':
+            normalise = pk.normalise_intensity(zeroFill,norm_method=ROW_METHOD,norm_transform=ROW_TRANSFORM,norm_direction='rows')
+        elif NORM_ORDER == 'col':
+            normalise = pk.normalise_intensity(zeroFill,norm_method=COL_METHOD,norm_transform=COL_TRANSFORM,norm_direction='columns')
+        elif NORM_ORDER == 'rowcol':
+            normalise = pk.normalise_intensity(zeroFill,norm_method=ROW_METHOD,norm_transform=ROW_TRANSFORM,norm_direction='rows')
+            normalise = pk.normalise_intensity(zeroFill,norm_method=COL_METHOD,norm_transform=COL_TRANSFORM,norm_direction='columns')
+        elif NORM_ORDER == 'colrow':
+            normalise = pk.normalise_intensity(zeroFill,norm_method=COL_METHOD,norm_transform=COL_TRANSFORM,norm_direction='columns')
+            normalise = pk.normalise_intensity(zeroFill,norm_method=ROW_METHOD,norm_transform=ROW_TRANSFORM,norm_direction='rows')
         #do the PCA
         PCA_ROUTINE()
 

@@ -24,23 +24,35 @@ The ```config.yaml``` file contains the following relevant parameters:
 
 ## ```python pca.py config.yaml``` 
 
-This script performs PCA on the ordination matrix produced by ```ordination_mat.py``` and collates the results with the metadata downloaded by ```metadata.py``` to allow PCA biplots to be created. 
+This script performs principal component analysis (PCA) on the ordination matrix produced by ```ordination_mat.py``` and collates the results with the metadata downloaded by ```metadata.py``` to allow PCA biplots to be created. 
 
 The ```config.yaml``` file contains the following relevant parameters: 
-* ```COLLECTION_ID: 2380``` - Which collection ID to plot
-* ```NORM_METHOD: "sum"``` - How to row-normalise the ordination data before doing PCA. See PyKrev.normalise_intensity() for more info. 
-* ```NORM_TRANSFORM: "power3"```- How to row-transform the ordination data before doing PCA. See PyKrev.normalise_intensity() for more info.
+* ```COLLECTION_ID: 2380``` - Which collection ID to analyse.
+* ```NORM_ORDER: "rowcol"``` - What order to normalise the data in. One of ```row```, ```col```, ```rowcol```, ```colrow``` or ```none```.
+* ```ROW_METHOD: "sum"``` - How to row-normalise the ordination data before doing PCA. See PyKrev.normalise_intensity() for more info. 
+* ```ROW_TRANSFORM: "power3"```- How to row-transform the ordination data before doing PCA. See PyKrev.normalise_intensity() for more info.
+* ```COL_METHOD: "sum"``` - How to col-normalise the ordination data before doing PCA. See PyKrev.normalise_intensity() for more info. 
+* ```COL_TRANSFORM: "power3"```- How to col-transform the ordination data before doing PCA. See PyKrev.normalise_intensity() for more info.
 * ```COMPONENTS: 4``` - Number of principal components to keep.
 * ```LOADINGS: 10``` - Number of loadings to keep/plot. 
 * ```PLOT: True``` - Save biplot svgs?
 * ```HUE: 'Instrument setup used'``` - Column of the metadata file to colour the points by. 
 * ```STYLE: 'Species group'``` - Column of the metadata file to style the points by. 
 * ```PCAPATH: "pca/"``` - File path to save the pca data/plots. 
-* ```SUBSET: "Instrument type"``` - Whether to subset the data before performing PCA. Set to False to do PCA on all the data. 
+* ```SUBSET: "Instrument type"``` - Whether to subset the data before performing PCA. Set to ```none``` to do PCA on all the data. 
+
+## ```python lda.py config.yaml``` 
+
+This script performs linear discriminant analysis (LDA) on the ordination matrix and collates the results with the metadata downloaded by ```metadata.py``` to allow LDA biplots to be created. 
+
+In addition to the parameters shown above for PCA, the ```config.yaml``` file contains the following relevant parameters: 
+* ```LDAPATH: "lda/"``` - File path to save the lda data/plots
+* ```LDACLASS: "Species group"``` - Categorical variable to use as the basis of the linear discriminant analysis. 
+
 
 ## ```susdat.py```
 
-This Python module can convert NS Ids into compound names or any other ID returned by the susdat database. It is used by ```pca.py``` to rename the loadings.
+This Python module can convert NS Ids into compound names or any other ID returned by the susdat database. It is used by ```pca.py``` and ```lda.py``` to rename the loadings.
 The ```config.yaml``` - file contains the following relevant parameters: 
 * ```SUSDAT: "Compound name"``` - which field in the SUSDAT json file to replace the NSID with. Set to "None" if you don't want to change the IDs. 
 * ```CACHE: True``` - whether or not to use the downloaded susdat json files cached locally
@@ -48,7 +60,6 @@ The ```config.yaml``` - file contains the following relevant parameters:
 
 
 ## To do
-* constrained ordination
 * missingno analysis
 * random forest predictions
 * better documentation

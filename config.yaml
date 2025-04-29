@@ -12,15 +12,22 @@ NS_MAX: 120000
 METAPATH: "metadata/"
 
 #pca
-SUBSET: "Instrument setup used"
-NORM_METHOD: "sum"
-NORM_TRANSFORM: "power3"
+SUBSET: "none"
+NORM_ORDER: "rowcol"
+ROW_METHOD: "sum"
+ROW_TRANSFORM: "none"
+COL_METHOD: "center"
+COL_TRANSFORM: "power3"
 COMPONENTS: 4
 LOADINGS: 50
 PLOT: True
 HUE: "Species group"
 STYLE: "Tissue"
 PCAPATH: "pca/"
+
+#lda
+LDAPATH : "lda/"
+LDALABEL: "Species group"
 
 #sudat
 SUSDAT: "Compound name"

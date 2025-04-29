@@ -1,51 +1,51 @@
 ,scores,mols
-0,-0.06059849046665187,"Grayanotox-15-ene-3,5,6,10,14-pentol (Grayanotoxin VI)"
-1,-0.05997539091349069,"5-(3,5-Di-sec-butylcyclopent-1-enyl)-2,3,5-trihydroxyvaleric acid"
-2,-0.05991288104327587,Isograyanotoxin II
-3,-0.059287764632589515,Grayanotoxin II
-4,-0.05894817193100238,Prostaglandin D2
-5,-0.05894817193100237,"Prosta-5,13-dien-1-oic acid, 6,9-epoxy-11,15-dihydroxy-, (5E,9alpha,11alpha,13E,15S)-"
-6,-0.05894817193100237,15-Epi-Prostaglandin E2
-7,-0.058891531085770686,Alprostadil
-8,-0.05878189702126503,"(6R,8xi)-11,15-Dihydroxy-6,9-epoxyprost-13-en-1-oic acid"
-9,-0.05833745964353676,Corchorifatty acid F
-10,-0.056605429993881115,"8-Hydroxy-6-oxooctadeca-9,12-dienoic acid"
-11,-0.056545509100334505,"10-Hydroxy-6-oxooctadeca-8,12-dienoic acid"
-12,-0.05626991410745769,"(9Z,11E,15Z)-13-Hydroperoxy-9,11,15-octadecatrienoic acid"
-13,-0.05617442566393705,Tetradecyl hydrogen fumarate
-14,-0.05598645524076801,"5-(3,5-Di-sec-butylcyclopent-1-enyl)-5-hydroxy-3-oxovaleric acid"
-15,-0.052320127399337536,"5,6,10,14,16-Pentahydroxygrayanotoxan-3-one (Grayanotoxin V)"
-16,-0.05215275910057335,Rhodojaponin III
-17,-0.05163951342282297,"Grayanotox-10-ene-2,3,5,6,14,16-hexol (Rhodomollein I)"
-18,-0.05162849509353508,Kalmitoxin II
-19,-0.05136877622705754,Dicyclohexyl adipate
-20,-0.051218972696166584,Divalproex sodium [USAN:USP]
-21,-0.05014292577604641,Propanthelin
-22,-0.050055397868773194,NS00024354
-23,-0.04958845780746573,Methyldipropyl[2-[(9H-xanthen-9-ylcarbonyl)oxy]ethyl]ammonium hydroxide
-24,-0.048897747423136254,"9-Hydroxy-2,6,12-trimethyl-12-[2-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyethyl]-15-oxatetracyclo[8.4.1.01,10.02,7]pentadecane-6-carboxylic acid"
-25,-0.043448634455405526,Cobalt bis(nonylphenolate)
-26,-0.04041039219369061,Isoandrographolide
-27,-0.04039458894400186,Resolvin e1
-28,0.04046636128871654,"(E,E)-tetradeca-9,11-dienyl acetate"
-29,0.041189974530999374,Tetrahydro-6-undecyl-2H-pyran-2-one
-30,0.04120017541075817,Isotridecyl mercaptoacetate
-31,0.0418886672357595,"(Z,E)-tetradeca-9,11-dienyl acetate"
-32,0.04213350239758509,"Oxacycloheptadec-​10-​en-​2-​one, (10E)​-"
-33,0.04249254237284129,Difluoro(trifluoromethoxy)acetic acid--piperazine (1/1)
-34,0.042498063655702176,Oxacycloheptadec-13-en-2-one
-35,0.042598999881490726,1-(2-Cyclohexylethyl)cyclohexyl acetate
-36,0.043246578389832493,NS00079002
-37,0.04344213821532704,Oxacycloheptadec-7-en-2-one
-38,0.04409567200380671,"4-(But-1-en-1-yl)-15-methyltetracyclo[8.7.0.0²,?.0¹¹,¹?]heptadeca-2,4,6-triene-5,14-diol"
-39,0.04413309830501953,2-Naphthyl laurate
-40,0.04415277472940346,"Peroxide, 1-methyl-1-[4-methyl-2(or 3)-(1-methylethyl)phenyl]ethyl 1-methyl-1-phenylethyl"
-41,0.04415337889574676,"4,4'-Decylidenebisphenol"
-42,0.04656681838566645,"Citric acid, monoester with glycerol"
-43,0.04926469661318928,Inosine
-44,0.06329210377186509,9-Cis Retinoic acid
-45,0.06329210377186509,4-Oxoretinol
-46,0.06329210377186509,"3,7-Dimethyl-9-(2,6,6-trimethylcyclohex-1-en-1-yl)nona-2,4,6,8-tetraenoic acid"
-47,0.06329210377186509,NS00077187
-48,0.06329210377186509,Tretinoin
-49,0.06330142389595991,Dehydroabietic acid
+0,-0.047113978641953144,"3-(P-nonylphenoxy)propane-1,2-diol"
+1,-0.047100851739957116,"9-Oxo-10(E),12(E)-octadecadienoic acid"
+2,-0.04705344750560579,"Dihydro-3-tetradecylfuran-2,5-dione"
+3,-0.04703501290361597,"Dihydro-3-(2-tetradecenyl)furan-2,5-dione"
+4,-0.04703501290361597,"3,7-Dimethyl-1-(2-phenylethoxy)octane-1,7-diol"
+5,-0.04703501290361597,Octylphenol diethoxylates (OP2EO)
+6,-0.04703501290361597,"(9Z,11E,15Z)-13-Hydroperoxy-9,11,15-octadecatrienoic acid"
+7,-0.046160384940087534,"2-[2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy]ethanol"
+8,-0.04614170146819441,"10-Hydroxy-6-oxooctadeca-8,12-dienoic acid"
+9,-0.045700576970218225,"5-(3,5-Di-sec-butylcyclopent-1-enyl)-5-hydroxy-3-oxovaleric acid"
+10,-0.04501550974351306,Tetradecyl hydrogen fumarate
+11,-0.04497774149727344,"Prosta-5,13-dien-1-oic acid, 6,9-epoxy-11,15-dihydroxy-, (5E,9alpha,11alpha,13E,15S)-"
+12,-0.043346657327996745,"5-(3,5-Di-sec-butylcyclopent-1-enyl)-2,3,5-trihydroxyvaleric acid"
+13,-0.04148085224382989,"8-Hydroxy-6-oxooctadeca-9,12-dienoic acid"
+14,-0.04117214060126572,"(6R,8xi)-11,15-Dihydroxy-6,9-epoxyprost-13-en-1-oic acid"
+15,-0.04080420235856519,Alprostadil
+16,-0.04080420235856519,Dicyclohexyl adipate
+17,-0.04080420235856512,Prostaglandin D2
+18,-0.040554813313156905,Oxymesterone
+19,-0.040331124342377775,"(5S,9R)-14-(hydroxymethyl)-5,9-dimethyltetracyclo[11.2.1.01,10.04,9]hexadec-14-ene-5-carboxylic acid"
+20,-0.040325892572402475,"2,5-Dibutoxy-4-(pyrrolidinyl)benzenediazonium tetrachlorozincate (2:1)"
+21,-0.040297183952434104,"Grayanotox-15-ene-3,5,6,10,14-pentol (Grayanotoxin VI)"
+22,-0.0394760743592315,Isoandrographolide
+23,-0.03927910080859623,Isograyanotoxin II
+24,-0.03800493488383395,Grayanotoxin II
+25,-0.03725043724801043,"Hexadeca-7,11-dienyl acetate"
+26,-0.037248470652572516,"Isobutyl 1,2,3,4,5,6,7,8-octahydro-2,8,8-trimethyl-2-naphthoate"
+27,-0.03716398456179189,Corchorifatty acid F
+28,-0.03679452978639557,2-Methylpropyl 1-methyl-4-(4-methyl-3-pentenyl)cyclohex-3-ene-1-carboxylate
+29,-0.0366652145819747,Resolvin e1
+30,-0.03665648687768802,Phenylacetaldehyde diisoamyl acetal
+31,-0.03664060866577312,"Octadeca-9,12,15-trienoic acid"
+32,-0.03664060866577312,Ximenynic acid
+33,-0.03664060866577312,Linolenic acid
+34,-0.03664060866577312,15-Epi-Prostaglandin E2
+35,-0.03664060866577312,1-(4-Nonylphenoxy)propan-2-ol
+36,-0.03664060866577312,4-Dodecylresorcinol
+37,-0.03664060866577312,Dinoprostone
+38,-0.03664060866577312,Gamolenic acid
+39,-0.03664060866577312,"Ethane, nitroso-"
+40,-0.03664060866577312,2-Methylpropyl 1-methyl-3-(4-methyl-3-pentenyl)cyclohex-3-ene-1-carboxylate
+41,-0.03664060866577312,Alpha-Eleostearic acid
+42,-0.03664060866577312,"Lauric acid, compound with diethylamine (1:1)"
+43,-0.03664060866577312,Pinolenic acid
+44,-0.03664060866577312,"9Z,12Z,15E-octadecatrienoic acid"
+45,-0.03664060866577312,"11-Hydroxy-9,15-dioxoprosta-5,13-dien-1-oic acid"
+46,-0.03664060866577312,NS00014224
+47,0.036727682566208064,NS00003807
+48,0.03994326312423942,(9Z)-9-Octadecen-17-ynoic acid
+49,0.03994326312423942,"2,5-Bis(1,1-dimethylbutyl)hydroquinone"
