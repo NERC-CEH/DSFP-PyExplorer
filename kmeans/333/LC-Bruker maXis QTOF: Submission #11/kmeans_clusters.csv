@@ -1,0 +1,806 @@
+compounds,cluster,compound_name
+NS00010903,1,Daidzein
+NS00054786,0,4-Amino-a-methylbenzyl alcohol
+NS00030317,1,3'-Methoxypropiophenone
+NS00088411,0,Bis(2-hydroxyethyl)ammonium tetradecyl sulphate
+NS00059360,0,4-Amino-3-(isopropyl)phenol
+NS00069682,1,"1,1'-Thiodipropan-2-ol"
+NS00047778,1,"5,6-Dimethoxyindole"
+NS00024685,1,Tandutinib
+NS00070952,0,"17-(Methoxymethyl)-15-methyltetracyclo[8.7.0.0²,?.0¹¹,¹?]heptadeca-2,4,6-triene-5,14-diol"
+NS00097330,1,"3,12-Dihydroxy-13-methoxypodocarpa-8,11,13-trien-7-one"
+NS00094676,1,1'(Or 2')-(isopropylidene)isonicotinohydrazide
+NS00061416,1,1-Hydroxy-2-methoxyanthraquinone
+NS00019931,0,3-Oxo-N-[2-(trifluoromethyl)phenyl]butyramide
+NS00031766,0,"1,4-Benzenediol, 2-bromo-"
+NS00033915,1,4-Ethyl-4-formylhexanenitrile
+NS00028682,0,"2,5-Dimethylpyridine"
+NS00022441,0,3-[(Acetyl-methyl-amino)-methyl]-4-amino-n-methyl-n-(1-methyl-1h-indol-2-ylmethyl)-benzamide
+NS00068327,1,NS00047421
+NS00047421,1,5-Ethyl-2-methylpyridine
+NS00028509,0,3-(3-Pyridyl)-1-propanol
+NS00027186,1,1-(6-Methylpyridin-2-yl)propan-1-ol
+NS00086219,0,"Dibenz[a,j]anthracene"
+NS00051204,1,Tonapofylline
+NS00091267,1,"1-Ethyl 3-methyl 4-oxopiperidine-1,3-dicarboxylate"
+NS00048707,1,2-Acetyl-4-tert-butylcyclohexan-1-one
+NS00009431,1,"Lithium 3,7,12-trioxo-5ß-cholan-24-oate"
+NS00052575,1,5-Chloro-N-[(1-ethyl-2-pyrrolidinyl)methyl]-3-methoxy-1H-indole-2-carboxamide hydrochloride
+NS00068373,1,2-[3-(Mercaptomethyl)phenoxy]propionic acid
+NS00048543,1,"2-Cyclohexen-1-one, 2,5,6-trimethyl-"
+NS00063787,1,5-Amino-2-[(methylsulphonyl)oxy]benzoic acid hydrochloride
+NS00080641,1,"5,​8,​11,​14-​Eicosatetraenoic acid"
+NS00034574,0,Telinavir
+NS00114099,1,A-620223
+NS00025694,1,"2,2-Dimethylsuccinic anhydride"
+NS00069562,1,"3-[(1S,2R)-1-Methyl-1-oxidopyrrolidin-2-yl]pyridine"
+NS00072044,0,"3,5,5-Trimethylhexyl hydrogen maleate"
+NS00085324,1,Butroxydim
+NS00049831,1,3-(Perfluoroisopropyl)-(2E)-difluoropropenoic acid
+NS00050122,1,Ammonium decyl sulphate
+NS00041780,1,"N,N-Dimethylpentylone"
+NS00009016,1,Procaine hydrochloride
+NS00014875,1,2-Methylbutyl 3-methylbutenoate
+NS00110543,1,6-Methylhept-5-en-2-one oxime
+NS00068953,1,"Ethanone, 1-bicyclo[2.2.1]hept-5-en-2-yl-, oxime"
+NS00018413,1,"1,3-Diazaspiro[4.5]decane-2,4-dione"
+NS00078836,1,"8,9-Dichloro-2,3,4,5-tetrahydro-1H-2-benzazepine"
+NS00012014,0,1-Benzyl-4-((4-chlorophenyl)amino)piperidine-4-carboxamide
+NS00023308,1,N-methyl Bentazone
+NS00067139,1,"3,4-Dimethoxy-N-methylphenethylamine hydrochloride"
+NS00065926,1,2-Methylenequinuclidin-3-one hydrochloride
+NS00102927,0,"Benzenemethanol, .alpha.-[(1R)-1-aminoethyl]-, (.alpha.R)-rel- (Ephedrine-Nor)"
+NS00047652,0,"Glycine, N-benzoyl-, methyl ester"
+NS00024326,1,Methyl p-tolylacetate
+NS00037031,1,Benzo(b)chrysene
+NS00081972,1,"Pyrido(2,3-b)pyrazine"
+NS00098695,0,LY294002
+NS00084914,1,Undecylbenzene sulfonic acid
+NS00076666,1,"Benzofuran, 2,3-dihydro-2,2-dimethyl-7-nitro-"
+NS00079213,1,Pactimibe
+NS00090226,1,Methyl ß-L-arabinopyranoside
+NS00068117,1,"7-(2-Aminoethyl)-3,7-dihydro-1,3-dimethyl-1H-purine-2,6-dione hydrochloride"
+NS00027482,1,"1,4-Benzenediamine, N-(2-methoxyethyl)-"
+NS00029241,1,"Benzenamine, N,2-dimethyl-"
+NS00084658,1,Cyclohexyldiethylammonium chloride
+NS00093192,1,TP2/Tribenzylamine
+NS00013895,1,"Cyclohexanol, 2-methyl-5-(1-methylethenyl)-, 1-acetate"
+NS00012231,1,Sodium pyruvate
+NS00068626,1,"7,7-Dihydroebuloside"
+NS00099319,1,"3-[3-(Prop-2-en-1-yl)hexa-2,5-dien-1-yl]oxolane-2,5-dione"
+NS00049856,1,Phenylalaninol
+NS00093648,1,Sodium hexadecenyl sulphate
+NS00087741,1,5-Sulphamoyl-o-anisic acid
+NS00031966,1,1-[(4-Aminophenyl)amino]propan-2-ol
+NS00081945,0,"2,3,6-Trimethylpyridine"
+NS00093971,0,Artemisin
+NS00001042,1,"Bicyclo[2.2.1]heptane-1-methanesulfonic acid, 7,7-dimethyl-2-oxo-, sodium salt (1:1)"
+NS00030839,1,Deoxyglucose
+NS00030988,0,Bicuculline
+NS00060325,1,"1-Tetradecanol, phosphate, potassium salt"
+NS00049127,1,"1,3,5-Tri(tert-butyl)-2-nitrobenzene"
+NS00103013,0,"Phenol, 2-amino-4,6-dimethyl-"
+NS00024781,0,1-S-octyl-beta-d-thioglucopyranoside
+NS00088187,1,Ethyl 2-methyl-2-(methylthio)propionate
+NS00029002,0,"TP2/N-(2,4-Dimethylphenyl)-3-oxobutanamide"
+NS00078824,1,"Dihydrocarvyl acetate, (+/-)-"
+NS00070373,1,"Hexafluoro-1,3-butadiene"
+NS00031807,0,"Pyridine-3,5-dicarboxylic acid"
+NS00039746,0,P-propylphenyl trans-p-(4-pentylcyclohexyl)benzoate
+NS00068162,1,"7-Pentofuranosyl-7H-pyrrolo[2,3-d]pyrimidin-4-amine"
+NS00033445,1,"Dodecanoic acid, 2-sulfoethyl ester"
+NS00025381,0,"9-Hydroxy-2-(2-hydroxypropan-2-yl)-2,3-dihydro-7H-furo[3,2-g][1]benzopyran-7-one (Rutaretin)"
+NS00019208,1,"3aS,5aR,6R,9bS)-3a,5,5a,6,7,9b-Hexahydro-6-hydroxy-5a,9-dimethyl-3-methylenenaphtho[1,2-b]furan-2,8(3H,4H)-dione"
+NS00056436,1,NS00088436
+NS00094036,1,2-Ethylpyridine
+NS00034930,0,"4-Amino-2,3-xylenol"
+NS00043069,1,4-Methoxy-2-methylaniline
+NS00058675,1,"Ethanol, 2-(methylphenylamino)-"
+NS00094522,1,"Dibutyl cyclohex-4-ene-1,2-dicarboxylate"
+NS00021433,0,"(1S,2S,5R)-2-Hydroxy-5-isopropenyl-2-methylcyclohexyl benzoate"
+NS00088436,0,Astemizole
+NS00008521,1,"3,3'-Thiodipropanol"
+NS00023153,0,Bucillamine
+NS00041477,1,3-Ethoxyaniline
+NS00056307,1,1-Nitro-2-methylnaphthalene
+NS00044832,1,"11Beta,17,21-Trihydroxypregn-4-ene-3,20-dione 17-acetate"
+NS00097438,1,Picene
+NS00063762,1,"Pentane-2,3-dione 2-oxime"
+NS00088595,0,2-Ethylundecyl propionate
+NS00015780,1,"Pyridine, 4-ethyl-2-methyl-"
+NS00055555,1,"3-(4,5-Dihydro-1H-imidazol-2-yl)aniline monohydrochloride"
+NS00039239,1,Methyl 3-phenyl-2-(phenylformamido)propanoate
+NS00051541,1,"[1,1'-Biphenyl]-4-carbonitrile, 4'-(pentyloxy)-"
+NS00037260,1,3-Palmitoylcatechin
+NS00032813,0,TP1/p-((2-Chloroethyl)ethylamino)benzaldehyde
+NS00096502,1,"TP1/Acetamide, 2,2,2-trifluoro-"
+NS00004880,0,Dimethylamine sulphate (2:1)
+NS00097319,0,NS00066789
+NS00036921,1,4-Dimethylaminophenol
+NS00032491,1,"1,2,3,4-Tetrahydrobenzo[h]quinolin-3-ol"
+NS00012629,1,"Benzenepropanol, 1-formate"
+NS00045013,1,"3,4,5-Triethoxybenzoic acid"
+NS00103566,0,"2,4,6-Tris(morpholino)-1,3,5-triazine"
+NS00092713,1,2-Chloro-1-methylethyl(dimethyl)amine hydrochloride
+NS00103909,1,Methyl 7-{4-[2-(2-methoxy-2-oxoethoxy)ethoxy]phenyl}heptanoate
+NS00088500,1,Diethyl 2-[(3-cyclohexyl-3-oxopropyl)amino]nonanedioate
+NS00066789,1,"7-Carboxy-12,17-diethyl-3,8,13,18-tetramethyl-21H,23H-porphine-2-propionic acid"
+NS00014551,1,"18-Carboxy-8,12-diethyl-3,7,13,17-tetramethyl-21H,23H-porphine-2-propionic acid"
+NS00001078,0,"2,4-Dimethylaniline"
+NS00022469,0,"7,12-Dioxaspiro[5.6]dodecane"
+NS00054919,0,Alpha-sulfophenylacetic acid
+NS00007481,0,2-Phenylisobutyric acid
+NS00034927,0,4-(2-Methoxyethyl)aniline
+NS00087739,1,NS00034927
+NS00068725,1,N-(4-Acetylphenyl)-2-(4-{[(4-acetylphenyl)carbamoyl]methyl}piperazin-1-yl)acetamide
+NS00050038,1,Isononyl anthranilate
+NS00025966,1,Potassium 3-mercaptopropionate
+NS00037236,1,Ethyl isobutyrylacetate
+NS00048824,0,"Benzenemethanamine, 4-methoxy-"
+NS00038660,0,2-Oxocyclohexanepropiononitrile
+NS00008935,1,2-Methyl-4-oxo-4H-pyran-3-yl 2-methylbutyrate
+NS00030119,1,Perfluoropentanoic acid (PFPeA)
+NS00041762,1,"Pyridine, 3-ethyl-4-methyl-"
+NS00031906,1,"Dibenz[a,c]anthracene"
+NS00064683,1,"Hexadecanoic acid, 2-sulfoethyl ester, sodium salt"
+NS00017606,1,Safrole
+NS00032614,0,N-Methyl-4-anisidine
+NS00073379,0,"5-(3-{1-[(2-Hydroxyethyl)amino]-2,3-dihydro-1h-inden-4-yl}-1,2,4-oxadiazol-5-yl)-2-(propan-2-yloxy)benzonitrile"
+NS00033537,0,Indicine
+NS00046894,1,4-Morpholineethanethiol
+NS00000365,1,"Methyl 3-methoxy-O,ß-dimethyl-L-tyrosinate"
+NS00031527,1,"Cinnamic acid, compound with 2,2'-iminodiethanol (1:1)"
+NS00036865,1,3-Hydroxy-1-methylpropyl salicylate
+NS00094751,1,2-Methyltetradecyl acrylate
+NS00064390,1,"2,2'-[(1-Methylethylidene)bis(4,1-phenyleneoxy)]bisethyl diacetate"
+NS00027132,0,Potassium p-acetylphenyl sulphate
+NS00057255,1,TP2/Diglycidyl resorcinol ether
+NS00064916,1,"Acetic acid, sulfo-, 1-octadecyl ester, sodium salt"
+NS00047555,1,"2,3,4-Trimethylpyridine"
+NS00037795,0,"4,5-Dimethoxyanthranilic acid"
+NS00036139,1,4-Methylaniline
+NS00048441,1,Succinimido (((benzyloxy)carbonyl)amino)acetate
+NS00067085,1,Phenylpropanolamine
+NS00080042,0,3-Nitrobenzaldehyde
+NS00028595,0,"Benzoic acid, 2-chloro-4-(methylsulfonyl)-"
+NS00102929,1,Hydrocortamate
+NS00102633,0,N-Benzoyl-D-Alanine
+NS00003075,0,3-Methoxy-4-methylaniline
+NS00003434,1,Chalcogran
+NS00051270,1,TP1/Phenylethyl isocyanate
+NS00072987,1,TP1/Phenacetin
+NS00001222,1,"1,3-Dioxolane, 2-(phenylmethyl)-"
+NS00012470,1,Methyl ß-D-ribofuranoside
+NS00049178,1,4-Hydroxy-alpha-(4-hydroxynaphthyl)-alpha-phenylnaphthalene-1-methanol
+NS00104016,0,Diperoxydecanedioic acid
+NS00025771,0,N-(4-(Piperidin-1-ylsulphonyl)phenyl)acetamide
+NS00025379,0,Undecylbenzenesulphonic acid
+NS00089300,1,"4,7,7-Trimethylbicyclo[4.1.0]hept-3-yl acetate"
+NS00048098,1,"2-(Hydroxymethyl)-2-[[(2-methyl-1-oxoallyl)oxy]methyl]-1,3-propanediyl bismethacrylate"
+NS00013133,1,N-[N-[(benzyloxy)carbonyl]-L-valyl]-L-tyrosinohydrazide
+NS00047473,1,4-Formylaminoantipyrine
+NS00033632,1,Glycerol monolactate
+NS00000329,1,"Furan, 2-ethyl-"
+NS00022047,1,Methyl 5-oxodecanoate
+NS00033551,0,"4,4'-Methylenebis(2-(methylthio)aniline)"
+NS00031655,1,"3-Cyclopentene-1-acetic acid, 2,2,3-trimethyl-, ethyl ester"
+NS00063730,1,"Benzenemethanol, .alpha.-[(1S)-1-aminoethyl]-, (.alpha.R)-"
+NS00042184,1,2-Benziloyloxyethylethyldimethylammonium chloride
+NS00007879,0,Pyridine-2-carbaldehyde oxime
+NS00045983,1,1-(Tert-butylamino)-3-[2-(6-chloropyridazin-3-yl)phenoxy]propan-2-ol
+NS00034500,1,"(1R*,2S*,5Z*,9E)-5,9-cyclododecadiene-1,2-diol"
+NS00065939,1,Phorone
+NS00088096,1,2-Methoxy-p-toluidine
+NS00035934,1,NS00103704
+NS00004523,1,"Acetic acid, sulfo-, 1-dodecyl ester"
+NS00022246,1,4-Nitrosoaniline
+NS00061454,1,"1,2-Dihydropyridazine-3,6-dione, compound with dimethylamine (1:1)"
+NS00083933,1,"1,3-Dioxan-5-yl 3-pyridyl ketone"
+NS00103704,1,"Ethanone, 1-(6-methyl-3-pyridinyl)-"
+NS00034002,0,2-Phenoxyethanamine
+NS00030596,0,3-Ethylaniline
+NS00014068,1,"(1R*,2S*,5E,9Z)-5,9-cyclododecadien-1,2-diol"
+NS00044701,1,P-(1-Piperazinyl)phenol
+NS00030025,1,"Octanoic acid, magnesium salt, basic"
+NS00092957,0,Penicillic acid
+NS00057013,1,(R)-beta-Aminophenethyl alcohol
+NS00033553,1,NS00000062
+NS00030645,1,1-(3-Aminophenyl)ethanol
+NS00000062,1,(+/-)-Alpha-Methylbenzyl acetate
+NS00012936,1,O-Aminophenethyl alcohol
+NS00005938,1,Sodium 5-(aminosulphonyl)-4-chloro-2-(furan-2-ylmethyl)anthranilate
+NS00046090,0,"4-Amino-2,6-xylenol hydrochloride"
+NS00039346,0,3-Ethylaminophenol
+NS00053962,0,"Benzoic acid, 3,4-dimethoxy-, ethyl ester"
+NS00020085,1,Milbemectin
+NS00032746,0,1-Methyl-4-(1-methylvinyl)cyclohexyl acetate
+NS00030576,1,4-{2-Hydroxy-3-[(propan-2-yl)amino]propoxy}benzoic acid
+NS00006874,1,"Hexahydro-2H-azepin-2-one, sodium salt"
+NS00100050,1,NS00100050
+NS00094252,0,3-Hydroxy-2-(1-iminopropyl)-5-(tetrahydropyran-4-yl)cyclohex-2-en-1-one
+NS00067773,1,Dimethyl 2-fluoroterephthalate
+NS00043707,0,"1,2,3-Trihydroxy-1,2,3,4-Tetrahydrobenzo[a]pyrene"
+NS00006565,0,"(1E)-2,6-Dimethylhepta-1,5-dien-1-yl phenylacetate"
+NS00003532,1,"CP 47,497-C8-Homolog C-8-hydroxy metabolite"
+NS00012504,1,NS00020085
+NS00032617,0,"3,4-Dimethylaniline"
+NS00078224,1,"Ethyl 3-(3,4-dihydroxyphenyl)propionate"
+NS00051669,1,Acetylfawcettiine
+NS00017265,1,3-[(2-Cyanoethyl)thio]propanesulphonic acid
+NS00068784,1,Ethyl 5-acetamido-4-cyano-3-methylthenoate
+NS00090963,1,"2-Acetyl-5,6,7,8-tetrahydroquinoxaline"
+NS00113863,0,"2,6-Dimethylpyridine"
+NS00033404,0,N-formyl-3-phenyl-L-alanine
+NS00027507,1,2-Methylallyl 2-nitrophenyl ether
+NS00063539,1,"2,5-Dimethyl-3-isovaleroyl-6-propionylpyrazine"
+NS00024325,1,3-Dimethylaminophenol
+NS00094180,1,"(E)-3,7-dimethyloct-2-enyl acetate"
+NS00053700,1,"Benzeneethanamine, 4-methoxy-"
+NS00014687,1,O-(Ethylamino)phenol
+NS00113850,1,Butyl 3-mercaptopropionate
+NS00010862,0,Rinderine
+NS00001143,0,"2,2'-[(1-Methylethylene)bis(thio)]dianiline"
+NS00034695,0,"Benzenemethanamine, 2-methyl-"
+NS00077378,0,(R)-(+)-1-(4-Methoxyphenyl)ethylamine
+NS00065046,1,Benzylidene-D-glucitol
+NS00085617,0,Methyl ß-D-xylopyranoside
+NS00046990,0,NS00085617
+NS00021467,1,"Furancarboxylic acid, pentyl ester"
+NS00020591,1,2-Dimethylamino-p-cresol
+NS00029689,1,"2,5,7-Trimethyl-2,6-dihydro-1H-pyrrolo[3,4-d]pyridazin-1-one"
+NS00010833,0,"9-(Cyclopropylmethyl)-7-[(3-hydroxy-2-phenylpropanoyl)oxy]-9-methyl-3-oxa-9-azatricyclo[3.3.1.0²,?]nonan-9-ium"
+NS00103955,0,NS00103955
+NS00014088,1,"Benzoic acid, 2-hydroxy-, 2-propenyl ester"
+NS00079824,1,3-Methylhippuric acid
+NS00068729,0,N-piperidin-4-ylacetamide dihydrochloride
+NS00050408,0,Ethyl 3-(4-pyridyl)-3-oxopropionate
+NS00021608,1,1-(4-Methoxyphenyl)ethanamine
+NS00016990,0,4-Hydroxy-dextroamphetamine
+NS00028096,1,D-fucose
+NS00073716,1,6-(Isopropyl)-3-methylcyclohex-2-en-1-yl acetate
+NS00044766,1,A-[(methylamino)methyl]benzyl alcohol
+NS00009703,0,Isocarboxazid
+NS00070015,1,"N,N-Dimethylaniline"
+NS00053831,1,(9Z)-17-carboxy-9-heptadecene-1-sulfonic acid
+NS00083126,1,"[(2,3,4,6-Tetrahydroxyhexyl)oxy]phosphonic acid"
+NS00007049,1,Etamiphyllin hydrochloride
+NS00087132,1,3-[(1S)-1-(methylamino)ethyl]phenol
+NS00008987,1,"Benzoic acid, 2-[(octadecylamino)carbonyl]-, monosodium salt"
+NS00009101,0,Moxonidine
+NS00041765,1,4-Isopropoxyaniline
+NS00037822,0,Tetramethyl ethylenetetracarboxylate
+NS00025684,1,Zolazepam
+NS00033919,1,"7,10-Dihydro-7-methyl-10-oxo-1H-(1,3)dioxino(5,4-f)quinoline-9-carboxylic acid"
+NS00039330,1,"2(3H)-Furanone, 5-(1,5-dimethyl-4-hexen-1-yl)dihydro-"
+NS00007154,1,"Benzenamine, N,4-dimethyl-"
+NS00024914,1,2-(Methylamino)-5-sulphobenzoic acid
+NS00029663,1,"2,4-Dimethylpyridine"
+NS00012337,0,3-Hydroxyestran-17-one
+NS00015380,1,N-Methyltrimethylenethiourea
+NS00012305,1,1-Bicyclo[2.2.1]hept-2-ylethan-1-one
+NS00010272,1,"3-Cyclohexene-1-methanol, 2,4-dimethyl-"
+NS00020530,0,1-(3-Hydroxyphenyl)acetone
+NS00053136,1,"Ethyl 2,3-anhydro-4,5-dideoxy-3-C-methylpentonate"
+NS00096360,1,N'-Nitrosonornicotine
+NS00036357,1,Benzo[a]naphthacene
+NS00027648,1,"Acetamide, N-[4-[(2-hydroxyethyl)sulfonyl]-2,5-dimethoxyphenyl]-"
+NS00073882,0,P-(tert-Butyl)benzamide
+NS00021567,0,2-((Dimethylamino)methyl)phenol
+NS00012281,0,"Sodium (E,E)-hexa-2,4-dienoate"
+NS00021211,1,Pentacene
+NS00048418,1,Beta-Methylenepyridine-2-ethanol
+NS00020432,1,"1,2,4-Triaminobenzene"
+NS00081667,1,Chrysin
+NS00024390,1,"1,2:3,4-Di-O-Isopropylidene-D-galactopyranose"
+NS00034730,1,"1,3-Benzenediol, 2,4-bis[(2,4-dimethylphenyl)azo]-"
+NS00054806,1,NS00102046
+NS00102046,1,"2-Methyl-4-phenyl-1,3-dioxolane"
+NS00008874,1,N-Allylsalicylamide
+NS00015514,1,2-Naphthylpyridine
+NS00009062,1,3-Hydroxy-2-naphtho-o-phenetidide
+NS00070057,1,4-Imino-5-Methidyl-2-Methylpyrimidine
+NS00023819,1,Norborn-5-en-2-ylacrylic acid
+NS00078477,1,(Pivaloyloxy)methyl (6R-trans)-7-amino-3-methyl-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate
+NS00022790,1,"2-Naphthalenecarboxamide, 3-hydroxy-7-methoxy-N-(2-methylphenyl)-"
+NS00084010,1,2-Chloro-5-methoxy-4-(2-pyridylamino)aniline
+NS00058179,1,N-Methylbenzylamine
+NS00039088,1,TP1/N-Phenyldiethanolamine
+NS00070364,1,Isoamyl pyruvate
+NS00051570,1,"3-(3,5-Dichlorophenyl)imidazolidine-2,4-dione"
+NS00056870,1,6-Deoxy-L-ß-galactose
+NS00102883,0,1-(Cyanoacetyl)piperidine
+NS00021977,1,"[2,2-Bis[(3-methyl-2-butenyl)oxy]ethyl]benzene"
+NS00082780,1,Triammonium hydrogen [(butylimino)bis(methylene)]bisphosphonate
+NS00078295,1,Perzinfotel
+NS00007234,0,Sodium 2-methylpropan-2-olate
+NS00096115,1,"8-Chloro-3,4-dihydro-5-methoxy-4-oxo-2H-1-benzothiopyran-2-acetic acid"
+NS00065643,1,"Benzenesulfonic acid, C10-13-alkyl derivs., sodium salts"
+NS00071787,1,"1,2,3,4-Tetrahydro-1,5-dimethylnaphthalene"
+NS00051086,1,Methyl-4-tyramine
+NS00041191,0,1-(Acetyl)thiosemicarbazide
+NS00060166,1,N-isopropylpyrimidin-2-amine phosphate (1:1)
+NS00091174,1,1-Methyl-2-phenoxyethylamine
+NS00033627,1,"1H-indene, 2,3-dihydro-1,5,7-trimethyl-"
+NS00027327,0,"2,3-Pentanedione"
+NS00063488,1,2-(4-Aminophenyl)ethanol
+NS00064565,1,4-Butylanilinium chloride
+NS00030156,0,NS00083800
+NS00055561,0,4-Deoxy-d-glucopyranose
+NS00013104,1,2-Hydroxy-2-propylvaleronitrile
+NS00088074,1,"[(1S,7aR)-2,3,5,7a-Tetrahydro-1-hydroxy-1H-pyrrolizin-7-yl]methyl (2S,3S)-2,3-dihydroxy-2-(1-methylethyl)butanoate (Echinatine)"
+NS00021629,0,"3-Pentofuranosyl-3H-imidazo[4,5-b]pyridin-7-amine"
+NS00086699,1,"1,3-Dioxepin, 4,7-dihydro-2-methyl-2-(3-methylbutyl)-"
+NS00059118,1,Tentoxin
+NS00012714,1,(Z)-9-octadecenyl hydrogen maleate
+NS00083800,1,4-Propylphenyl trans-4-(4-propylcyclohexyl)benzoate
+NS00069268,1,Trisodium hydrogen ethylenediaminetetraacetate
+NS00059989,1,"Ethanol, 2-[(2-methylphenyl)amino]-"
+NS00094173,1,"A-[[(1,1-dimethylethoxy)carbonyl]amino]cyclohexa-1,4-diene-1-acetic acid"
+NS00054061,1,"1,1,1-Trimethylolpropane triglycidyl ether"
+NS00010350,1,Diethyl ethoxymethylenemalonate
+NS00079280,1,"2-(6,10,10-Trimethylbicyclo[7.2.0]undeca-2,5-dien-2-yl)ethyl acetate"
+NS00009392,1,2-(Ethylamino)-p-cresol
+NS00002736,1,"2,5-Pyridinedicarboxylic acid"
+NS00051185,1,"6-Chloro-5-(cyclopentylmethyl)-2,3-dihydro-1H-indene-1-carboxylic acid"
+NS00031190,0,"Octahydro-4,7-methano-1H-indene-2,5-dimethanol"
+NS00032187,1,Galaxolidone
+NS00015541,0,4-Nitrobenzaldehyde
+NS00033531,1,"Ethanol, 2-[(3-nitrophenyl)sulfonyl]-"
+NS00022368,1,N-(2-(Dimethylamino)ethyl)acrylamide
+NS00006365,1,"Sodium 3,9-diethyltridecan-6-yl sulphate"
+NS00021421,1,Prilocaine hydrochloride
+NS00000303,1,Orantinib
+NS00039472,1,2-Phenylpyrene
+NS00048928,1,"Benzenamine, 4-butyl-2-nitro-"
+NS00103748,0,"Benzenesulfonic acid, mono-C11-13-branched alkyl derivs., calcium salts"
+NS00001731,1,Sodium pyridine-2-carboxylate
+NS00082844,1,O-Cresyl glycidyl ether
+NS00013070,1,"2-Naphthalenecarboxamide, N-(4-ethoxyphenyl)-3-hydroxy-"
+NS00030067,1,Phenethylamine
+NS00069381,1,"2,3B-Methano-3bH-cyclopenta[1,3]cyclopropa[1,2]benzene-4-methanol, octahydro-7,7,8,8-tetramethyl-, 4-acetate"
+NS00007701,1,Potassium mercaptoacetate
+NS00026110,1,"N-(2,3-Dihydro-1-benzofuran-5-ylmethyl)-2H-chromene-3-carboxamide"
+NS00066747,1,TP2/N-Methylbenzylamine
+NS00086181,1,10-Nitro-9E-octadecenoic acid
+NS00096553,1,"9,10-Anthracenedione, 1-[(3-hydroxypropyl)amino]-4-(methylamino)-"
+NS00016500,1,L(-)-2-Amino-3-phenyl-1-propanol
+NS00010853,0,Dimethazan
+NS00055691,1,Sodium hydrogen 9-sulphonatooctadecenoate
+NS00027824,1,"Octadecanoic acid, 2-sulfoethyl ester, sodium salt"
+NS00043623,0,"4-Amino-2,3,6-trimethylphenol hydrochloride"
+NS00104043,1,"3,4,5-Trimethoxyhydrocinnamic acid"
+NS00063340,1,Epirizole
+NS00069617,1,4-[[4-(Tert-butyl)phenoxy]methyl]-5-nitroveratrole
+NS00028753,1,1(2H)-Phthalazinone
+NS00062236,1,Bis(2-butoxyethyl) phthalate
+NS00041262,1,Isobutyric anhydride
+NS00027155,1,1-Ethyl-2-[(3-ethyl-3H-benzoxazol-2-ylidene)methyl]quinolinium iodide
+NS00015589,1,2-Methyl-5-(1-methylethylidene)cyclohexyl acetate
+NS00054414,0,Palbociclib
+NS00053616,1,Hydrastinine hydrochloride
+NS00007608,1,2-Ethylbenzimidazole
+NS00023517,0,4-Ethoxyaniline
+NS00008587,1,(4-Sulfophenyl)acetic acid
+NS00026063,1,Methyl a-D-xylopyranoside
+NS00011443,0,NS00104043
+NS00081625,0,"Propanenitrile, 3-[2-(dimethylamino)ethoxy]-"
+NS00073851,1,N-Benzylethanolamine
+NS00051412,1,"18-Carboxy-8,13-diethyl-3,7,12,17-tetramethyl-21H,23H-porphine-2-propionic acid"
+NS00041764,1,TP2/N-Benzylethanolamine
+NS00057532,0,"Oxepane-3,4,5,6-tetrol"
+NS00008477,0,"(2-Oxo-1,3-dioxolan-4-yl)methyl chloroformate"
+NS00042980,1,Bis[(4-hydroxy-m-tolyl)(methyl)ammonium] sulphate
+NS00104153,0,"2-Propenoic acid, 2-methyl-, 4-hydroxyphenyl ester"
+NS00103210,1,"11,17-Dihydroxy-3,20-dioxopregn-4-en-21-yl acetate"
+NS00051586,1,"4-Methoxy-2,3,5-trimethylpyridine"
+NS00020558,0,Sodium N-stearoyl-L-serinate
+NS00055824,1,Zinc di(acetate)
+NS00032948,1,Tetradecenyl dihydrogen phosphate
+NS00029879,1,"(S)-2-((2-Imino-6-oxo-2,3-dihydro-1H-purin-9(6H)-yl)methoxy)ethyl 2-(((benzyloxy)carbonyl)amino)-3-methylbutanoate"
+NS00007575,1,Pentapheno
+NS00029112,1,"1H,3H,5H-Oxazolo[3,4-c]oxazol-7a(7H)-ylmethyl laurate"
+NS00052522,1,Fluprostenol
+NS00093482,1,"3,4-Diethoxybenzoic acid"
+NS00018045,1,Isonicotinaldehyde oxime
+NS00069395,1,"(3S,5S)-5-[(1S,3S)-1-azido-3-{[4-methoxy-3-(3-methoxypropoxy)phenyl]methyl}-4-methylpentyl]-3-(propan-2-yl)oxolan-2-one"
+NS00041934,1,2-Ethylhexyl octanoate
+NS00003989,1,(1S)-1-(3-methoxyphenyl)ethanamine
+NS00055046,1,"Benzamide, N-(4-amino-2,5-diethoxyphenyl)-"
+NS00010598,1,Sodium heptanoate
+NS00032164,0,3-Formyl-2-(4-methylbenzenesulfonamidomethyl)pentanoic acid
+NS00077549,0,"3-Ethyl-2-[4-(phenylamino)buta-1,3-dienyl]benzoxazolium iodide"
+NS00069428,1,1-Methyl-4-isopropenylcyclohexan-3-yl Acetate.
+NS00082030,1,Oxolinic acid
+NS00012774,1,2-Deoxygalactopyranose
+NS00012472,1,TP1/Tris(4-methylphenyl) phosphate
+NS00055741,1,2-Amino-a-methylbenzyl alcohol
+NS00002046,0,2-Ethoxybenzylamine
+NS00054751,1,"1-Oxaspiro[2.5]octane-2-carboxylic acid, 5,5,7-trimethyl-, ethyl ester"
+NS00039555,1,"N,N-diethylanilinium chloride"
+NS00030299,0,3-Methoxycatechol
+NS00054467,0,Lofendazam
+NS00028648,1,"[(3,7-Dimethyl-2,6-octadienyl)oxy]acetaldehyde"
+NS00033010,1,"3-(4-Hydroxycyclohexyl)-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4(1H,3H)dione"
+NS00097092,1,"N,N,N',N',N'',N''-hexaallyl-1,3,5-triazine-2,4,6-triamine"
+NS00076825,1,"(5R,9aS,9bS)-9b-Hydroxy-6,6,9a-trimethyl-1-oxo-1,3,5,5a,6,7,8,9,9a,9b-decahydronaphtho[1,2-c]furan-5-yl (2E,4E)-6,7-dihydroxy-2,4-octadienoate"
+NS00082591,1,"Maleic acid, bis(2-methoxy-1-methylethyl) ester"
+NS00058550,0,CPG-52852
+NS00059821,1,"3H-Pyrazol-3-one, 5-amino-2-(2-chloro-4,6-dimethylphenyl)-2,4-dihydro-"
+NS00072277,1,(Hexahydro-2H-azepin-2-ylidene)bis(phosphonic) acid
+NS00091519,1,4-Pyridinepropanol
+NS00067480,0,4-(1-Aminopropyl)phenol
+NS00049383,1,"2-Propenoic acid, 3-[4-[[(4-methoxyphenyl)methylene]amino]phenyl]-, ethyl ester"
+NS00015548,1,Gepefrine
+NS00035654,1,"2-[2-[4-(Diethylamino)phenyl]vinyl]-1,3,3-trimethyl-3H-indolium dihydrogen phosphate"
+NS00069150,1,"3,3,5,5-Tetramethyl-1-pyrroline N-oxide"
+NS00005661,0,2-[(2-Cyanoethyl)[4-[(4-nitrophenyl)azo]phenyl]amino]ethyl isobutyrate
+NS00028078,0,5-Methoxy-o-toluidine
+NS00028887,1,"Methyl 2,5-dihydro-2,5-dioxo-1H-pyrrole-1-carboxylate"
+NS00020404,1,Allyl p-toluenesulphonate
+NS00065557,1,"Cyclopropanecarboxylic acid, 2,2-dimethyl-3-(2-methyl-1-propenyl)-, 2-methyl-4-oxo-3-(2-propenyl)-2-cyclopenten-1-yl ester, (1R,3R)-"
+NS00087203,0,"Acetic acid, 2,2'-thiobis-, diisooctyl ester"
+NS00033385,1,(R)-2-amino-3-phenylpropanol
+NS00090070,1,"1-Tridecanol, phosphate"
+NS00031821,1,Bis(2-ethylhexyl) 2-hydroxyethyl phosphate
+NS00080818,0,Cyclohexyl 2-(4-chloro-2-methylphenoxy)propionate
+NS00063584,1,3-Hydroxybutyl salicylate
+NS00026637,0,Î±-Methyl-Î±-phenylpyridine-2-methanol
+NS00035984,0,"N,N-dimethyl-N'-(2,4,6-trimethyl-3-pyridyl)formamidine"
+NS00007366,1,11-Cyanoundecanoic acid
+NS00034361,1,4-(4-Styrylphenylcarbamoyl)butyric acid
+NS00094642,1,"3-Methyl-5-(5,5,8a-trimethyl-2-methylene-7-oxodecahydro-1-naphthalenyl)pentyl acetate"
+NS00060951,1,Rosaprostol
+NS00050394,1,"2-Amino-4,5-dimethylphenol"
+NS00078066,1,"3-Ethyl-2,5-dimethylbenzothiazolium iodide"
+NS00070838,1,Sodium 3-(cyclohexylamino)-2-hydroxypropane-1-sulfonate
+NS00087749,1,"Acetic acid, 2,2'-thiobis-, 1,1'-bis(2-ethylhexyl) ester"
+NS00033862,0,4-(2-Aminophenyl)-4-oxobutanoic acid
+NS00096993,1,"2-Phenyl-1,3-dioxolane"
+NS00059325,0,"Bicyclo[3.1.1]hept-2-en-6-ol, 2,7,7-trimethyl-, (1S,5R,6R)-"
+NS00019798,0,"2-Methylcyclohexa-1,4-diene-1-carbaldehyde"
+NS00074607,1,4-Methyl-1-phenylpyrazolidin-3-one
+NS00049607,1,2-Ethoxyaniline
+NS00048688,1,2-Isobutyl-p-benzoquinone
+NS00006770,1,Bis-sec-butyl peroxydicarbonate
+NS00041881,1,4-Methoxyphenethylamine
+NS00088646,1,"(1A,3aa,4a,6ß,7a,7aa)-octahydro-4,7-methano-1H-indene-1,6-dimethanol"
+NS00048551,1,"Benzenemethanamine, .alpha.-methyl-"
+NS00054429,1,Perfluoro-2-methoxyaceticacid
+NS00011444,0,2-Azacyclononanone
+NS00025932,1,"Sodium 2,3-dihydroxypropionate"
+NS00014083,1,2-(4-Aminophenyl)propiononitrile
+NS00006964,1,Phenoxypropazine
+NS00001808,0,3'4'-Methylenedioxy-α-dimethylamino-isovalerophenone
+NS00028061,1,2-Sulfoethyl oleate
+NS00084550,1,Diacetamate
+NS00021461,0,Butyl 2-pyridyl ether
+NS00039571,1,5-Methylfuran-2(5H)-one
+NS00018616,1,"2,2'-Azobis(2-amidinopropane) dihydrochloride"
+NS00027440,0,4-Methylidene-5-One
+NS00071592,1,"N,N'-diphenylguanidine monohydrochloride"
+NS00043028,1,9-(Acetamido)-5-aminobenzo[a]phenoxazin-7-ium chloride
+NS00070656,1,"2H-1,3,4-Oxadiazin-2-one, 3,6-dihydro-5-phenyl-"
+NS00028288,0,2-Chloroethanesulphonic acid
+NS00022290,1,"Tert-butyl 4-((4'-chloro-5,5-dimethyl-3,4,5,6-tetrahydro-[1,1'-biphenyl]-2-yl)methyl)piperazine-1-carboxylate"
+NS00052262,1,"2-Methyl-5-(2-thienyl)-1-(2,6,6-trimethylcyclohex-2-enyl)penta-1,4-dien-3-one"
+NS00078274,1,"6,7-Dihydroxyflavone"
+NS00007035,1,4-((Dimethylamino)methyl)phenol
+NS00017848,1,"9,10-Anthracenedione, 2,7-dihydroxy-"
+NS00035051,1,"3-(2,2-Dimethylpropanamido)-n-(1,3-thiazol-2-yl)pyridine-2-carboxamide"
+NS00030567,1,Cefedrolor
+NS00012017,1,"{[5-(2,4-Dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)-4-fluoro-2-(hydroxymethyl)oxolan-3-yl]oxy}phosphonic acid"
+NS00011602,0,7α-Hydroxytestosterone
+NS00072013,1,M-(Dimethylamino)benzyl alcohol
+NS00021750,1,O-Methylbenzyl acetate
+NS00070882,0,2-Piperidinobenzonitrile
+NS00033677,1,"2,2'-(Ethylenedithio)dianiline"
+NS00055463,1,"Citric acid, ammonium magnesium salt"
+NS00014772,1,"2,3-Dihydroxy-p-anisic acid"
+NS00097321,1,"1-[1,2-Dihydro-6-hydroxy-4-methyl-5-[[2-[(nonyloxy)carbonyl]phenyl]azo]-2-oxo-3-pyridyl]pyridinium chloride"
+NS00025418,1,(4Z)-1-Methyl-4-(6-methyl-5-hepten-2-ylidene)cyclohexene
+NS00091391,1,"4-Acetyl-3,3,5,5-tetramethylcyclohexan-1-one"
+NS00081073,1,"Phenol, 4-[(phenylmethyl)amino]-"
+NS00023208,1,11-Nor-delta(9)-tetrahydrocannabinol-9-carboxylicacid
+NS00005823,1,Hexahydro-3-(methylamino)-2H-azepin-2-one
+NS00063612,1,"2,2,3-Trimethylcyclopent-3-ene-1-ethyl acetate"
+NS00089994,1,6-Methylpyridine-2-ethanol
+NS00008171,1,Triaziquone
+NS00061748,1,4-Methylhippuric acid
+NS00021138,1,Venlafaxine N-Oxide
+NS00048392,1,"4-Ethyl 1-methyl 3-oxopiperidine-1,4-dicarboxylate"
+NS00000630,1,"2-Naphthalenecarboxamide, 3-hydroxy-N-(4-methoxy-2-methylphenyl)-"
+NS00078485,1,Propanesulphonyl chloride
+NS00036689,1,"2,3-Dihydro-4-quinolone hydrochloride"
+NS00039563,0,Methyl ß-D-arabinopyranoside
+NS00014688,1,"Octyl dihydrogen phosphate, potassium salt"
+NS00056852,1,Nimbidiol
+NS00032878,1,"Benzene, 1,4-dichloro-2-isocyanato-"
+NS00080596,1,NS00019673
+NS00039888,1,4-Acetylaminophenylacetic acid
+NS00044770,1,Sodium undecylbenzenesulphonate
+NS00026113,1,Hydroxylammonium 4-methylbenzenesulphonate
+NS00019673,1,Decyl hydrogen phthalate
+NS00010002,1,"(R)-2-(Piperidin-3-yl)isoindoline-1,3-dione (2S,3S)-2,3-dihydroxysuccinate"
+NS00088382,1,"2,6,6-Trimethylcyclohexenemethyl acetate"
+NS00014381,0,Methyl 9-{4-[2-(2-methoxy-2-oxoethoxy)ethoxy]phenyl}nonanoate
+NS00050109,1,"(3β,5β,16β)-3,5,14,16-Tetrahydroxy-19-oxocard-20(22)-enolide (Strophadogenin)"
+NS00041804,1,6-Methyl-2-pyridinepropanol
+NS00083885,1,Oxamyl
+NS00049292,1,2-Chloro-a-[(isopropylamino)methyl]benzyl alcohol hydrochloride
+NS00093749,1,"2,4,6-Trimethylpyridine"
+NS00000072,0,(2Z)-2-Octyl-2-pentenedioic acid
+NS00014549,1,"(+)-4'-(2-Methylbutoxy)[1,1'-biphenyl]-4-carbonitrile"
+NS00036909,0,2-[2-(2-Methoxyethoxy)ethoxy]ethyl methacrylate
+NS00034779,0,"Benzenamine, N,3-dimethyl-"
+NS00062935,1,Sodium 3-[(2-cyanoethyl)thio]propanesulphonate
+NS00001635,1,Chlormequat
+NS00016573,1,"2,4-Dihydro-5-methyl-2-(3-nitrophenyl)-3H-pyrazol-3-one"
+NS00097098,1,Tyramine
+NS00057360,0,5-(Benzyloxy)-2-nitrotoluene
+NS00050839,1,2-(2-Aminoethyl)phenol
+NS00052846,1,2-(1-Benzyl-5-methoxy-2-methyl-1h-indol-3-yl)acetic acid
+NS00026612,0,N2-[(vinyloxy)carbonyl]-L-asparagine
+NS00054683,1,"6,6-Dimethyl-4-[2-(2-thienyl)ethyl]-1,2,4-oxadiazinane-3,5-dione"
+NS00068584,1,"2-(1,2,3,4-Tetrahydroxybutyl)thiazolidine-4-carboxylic acid"
+NS00072092,1,"3-Cyclohexene-1-methanol, .alpha.,4,6,6-tetramethyl-, 1-formate"
+NS00051166,1,9-Sulpho-9-octadecenoic acid
+NS00006026,1,"[1S-(1a,3aß,4a,8aß)]-2-(decahydro-4,8,8-trimethyl-1,4-methanoazulen-9-ylidene)ethyl acetate"
+NS00089617,1,"[(4-Hydroxyphenyl)methylidene]amino 3,3-dimethylbutanoate"
+NS00036255,1,"6-Methyloxane-2,3,4,5-tetrol"
+NS00068726,1,"Azelaic acid, compound with 2,2'-iminodiethanol (1:2)"
+NS00054086,0,"3-Amino-2,6-dimethylphenol"
+NS00013228,1,"Benzenesulfonic acid, 4-ethyl-3-nitro-"
+NS00090530,1,Quinolinic acid
+NS00036988,0,(±)-(Acetamido)phenylacetic acid
+NS00053704,1,NS00048662
+NS00023724,1,"2,2'-Thiodipropanol"
+NS00013668,0,Etidin
+NS00065317,1,3-Ethylamino-4-methylphenol
+NS00037785,1,"1,3-Dihydro-2H-purine-2-thione"
+NS00047431,1,Nandrolone furylpropionate
+NS00024658,0,"Trans-tetrahydrothiophene-3,4-diol 1,1-dioxide"
+NS00028510,0,"2,2,4,4-Tetramethylcyclobutane-1,3-dione"
+NS00048662,1,N-Acetylmescaline
+NS00039037,0,"Calcium 2,2'-[ethylenebis(oxy)]bisacetate"
+NS00079559,0,3-(2-Aminopropyl)phenol
+NS00102045,1,TP1/4-Cyclohexyl-4-methyl-pentan-2-one
+NS00051481,1,Magnesium hydrogen L-2-aminoglutarate hydrobromide
+NS00051184,1,N-Methyl-m-anisidine
+NS00114062,1,"Ethanol, 2-[(3-methylphenyl)amino]-"
+NS00039549,1,5-Amino-2-propylphenol
+NS00036435,0,2-Pyridinepropanol
+NS00090208,1,"2-Propenoic acid, 2-[[[(3-isocyanatomethylphenyl)amino]carbonyl]oxy]ethyl ester"
+NS00036520,1,"Phenol, 2-amino-3,4-dimethyl-"
+NS00086266,1,Aminocarb phenol
+NS00039599,1,"8-(1,1-Dimethylpropyl)-3-methyl-1-oxaspiro[4.5]decan-2-one"
+NS00023143,0,"2-(4-(1,3-Dioxobutyl)phenoxy)ethyl undecanoate"
+NS00034630,1,Ethyl 3-(4-hydroxy-3-methoxyphenyl)propionate
+NS00043250,1,"Ethyl 6-methyl-2-oxo-4-(4-oxo-4H-chromen-3-yl)-1,2,3,4-tetrahydropyrimidine-5-carboxylate"
+NS00014647,0,"Ethanol, 2,2,2-trifluoro-, sodium salt"
+NS00033126,1,NS00086266
+NS00021644,0,"4-Propoxybenzene-1,2-diamine"
+NS00033480,1,2-Butyl-5-formylimidazole
+NS00019604,1,"2-Ethylhexyl dihydrogen phosphate, compound with morpholine (1:1)"
+NS00077658,1,NS00052982
+NS00048828,0,2-[(Methylphenoxy)methyl]oxirane
+NS00018570,1,"(1RS,2RS,3RS,6RS,8SR)-8-methoxytricyclo[5.2.1.0(2,6)]decane-3-carbaldehyde"
+NS00090432,1,Buprofezin metabolite BF12
+NS00052034,1,"Benzenemethanamine, 3-methyl-"
+NS00067177,0,"1-(2,4-Dimethyl-1H-pyrrol-3-yl)ethan-1-one"
+NS00023003,0,"Benzenemethanol, .alpha.-(aminomethyl)-"
+NS00004251,0,"Benzenesulfonamide, 4-chloro-N-(3-methoxypropyl)-3-nitro-"
+NS00015960,1,"5,6-Diacetoxy-L-ascorbic acid"
+NS00052982,0,4-Ethylaniline
+NS00008073,0,4-Benzyl-2-({4-[5-(trifluoromethyl)-2-pyridinyl]piperazino}methyl)
+NS00077740,1,Ethyl 2-cyano-2-ethyl-3-methylhexanoate
+NS00023612,0,N-Ethylaniline
+NS00005225,0,"Pyridine, 4-ethyl-3-methyl-"
+NS00006269,0,5-Ethyl-2-pyridineethanol
+NS00036785,1,A-ethyl-a-methylpyridine-2-methanol
+NS00023619,0,"2,4,5-Trimethylpyridine"
+NS00056787,0,CETETH-8 PHOSPHATE
+NS00009738,1,"7,8-Dihydroxyflavone"
+NS00020830,0,"Pentanamide, N-[5-[[4-[2,4-bis(1,1-dimethylpropyl)phenoxy]-1-oxobutyl]amino]-2-chlorophenyl]-4,4-dimethyl-3-oxo-"
+NS00028031,1,Sodium 5-formyl-2-methoxybenzenesulphonate
+NS00045170,1,2-Ethyl-6-methylpyridine
+NS00026744,0,"Etifoxine, (S)-"
+NS00041930,1,"2-Acetylamino-6-chloro-4-[(4-diethylamino)-2-methylphenyl-imino]-5-methyl-1-oxo-2,5-cyclohexadiene"
+NS00051299,1,Nicotinaldehyde oxime
+NS00013440,1,"3,4-Bis(acetoxymethyl)-5-hydroxy-6-methylpyridinium chloride"
+NS00094033,1,5-Decyltetrahydro-2H-pyran-2-one
+NS00099302,1,Benzyl N-(2-benzylacryloyl)glycinate
+NS00047166,1,"1,1',1''-(1,3-Butadien-1-yl-4-ylidene)trisbenzene"
+NS00100925,1,"[(1S,2R,7aR)-Hexahydro-2-hydroxy-1H-pyrrolizin-1-yl]methyl (2Z)-2-methyl-2-butenoate (Macrophyllin)"
+NS00001608,1,"2,2'-[Oxybis(methylene)]bis[2-methyloxirane]"
+NS00046874,1,"(6alpha)-6-Hydroxyandrost-4-ene-3,17-dione"
+NS00048140,1,Sodium hydrogen sulphonatooleate
+NS00043656,1,"3,5-Dimethylaniline"
+NS00094208,1,[Isopropylidenebis(p-phenyleneoxy)]dipropanol
+NS00062068,1,1-(Triphenylmethyl)pyridinium tetrafluoroborate
+NS00020874,0,Isopropylsulphonyl chloride
+NS00051982,1,Pyrethrosin
+NS00098507,1,"1-(Tert-butylamino)-3-[(3a,4,9,9a-tetrahydro-2,2-dimethylnaphtho[2,3-d]-1,3-dioxol-5-yl)oxy]propan-2-ol"
+NS00059290,1,Medica 16
+NS00054623,1,"2,3,5-Trimethylpyridine"
+NS00059778,0,"1,3,2-Dioxathiolane-4-methanol 2-oxide"
+NS00057403,1,Hexestrol dibutyrate
+NS00010151,1,TP1/Di(tridecyl) thiodipropionate
+NS00055342,1,Lycopsamine
+NS00044713,1,"Benzenemethanamine, 4-methyl-"
+NS00102511,1,3-Phenylpropyl 5-oxoprolinate
+NS00003562,1,2-[(3-Iodopropin-2-yl)oxy]ethanol
+NS00096624,1,"Cyclohexylmethyl 17-ß-hydroxyestra-4,9,11-trien-3-one carbonate"
+NS00055099,1,"Exo-1,7,7-trimethylbicyclo[2.2.1]hept-2-yl valerate"
+NS00023327,0,"6H-Dibenzo[b,d]pyran-9-carboxylic acid,6a,7,8,10a-tetrahydro-1-hydroxy-6,6-dimethyl-3-pentyl-"
+NS00051846,1,2-Amino-4-ethylphenol
+NS00070040,1,Ethoxazene
+NS00033378,0,2-Methoxybenzylamine
+NS00027622,1,"6-(alpha,alpha,alpha-Trifluoro-p-tolyl)-3-morpholinone"
+NS00040035,1,8-Methylnonyl phenylmethyl phthalate
+NS00069834,1,2-Methoxy-5-methylaniline
+NS00040061,0,Acetaminophen sulfate ester
+NS00010229,1,"1,4-Dihydro-2H-isoquinolin-3-one"
+NS00036617,0,(S)-3-(Isopropyl)pyridine
+NS00038930,1,"Gibb-3-ene-1,10-dicarboxylic acid, 2,4a,7-trihydroxy-1-methyl-8-methylene-, 1,4a-lactone, monopotassium salt, (1a,2ß,4aa,4bß,10ß)-"
+NS00024505,1,Sodium p-nitrosophenolate
+NS00011442,0,Amprolium
+NS00008141,1,"17-Azido-3ß,16a-dihydroxy-5a-pregnane-11,20-dione"
+NS00079364,1,"Acetic acid, sulfo-, 1-hexadecyl ester, sodium salt"
+NS00004863,1,"2,6-Dichlorobenzoxazole"
+NS00069710,1,1-Guanidino-4-(n-nitro-benzoylamino-l-leucyl-l-prolylamino)butane
+NS00004264,1,Trifluoroacetaldehyde
+NS00041018,1,Ethyl ((4-(acetylamino)phenyl)sulphonyl)carbamate
+NS00079812,1,"Magnesium 2,3-dihydroxypropyl phosphate"
+NS00028709,1,"(1,4-Dimethyl-1,2,3,4-tetrahydroquinoxalin-6-yl)methylamine"
+NS00071341,1,"6-Amino-5-hydroxycyclohexa-1,3-diene-1-carboxylic acid"
+NS00045382,1,NS00056173
+NS00056173,1,Embutramide
+NS00041253,1,Imidapril
+NS00065164,1,"Decahydro-6-methyl-1,4-methanonaphthalene-6,7-diol"
+NS00079934,1,"Undecenoic acid, heptylester"
+NS00007194,0,Peramivir
+NS00006548,1,2-Phenylbutyric acid
+NS00027012,1,"6,6-Dimethylhept-1-en-4-yn-3-ol"
+NS00051789,1,Methyl 3-amino-4-methylthiophene-2-carboxylate
+NS00007217,1,"2-((4-(Ethylamino)-6-methoxy-1,3,5-triazin-2-yl)amino)-2-methylpropiononitrile"
+NS00076874,1,"Benzene, dodecylnitro-"
+NS00020766,1,TSU68
+NS00066684,1,1-(3-Methoxyphenyl)ethanamine
+NS00033909,1,Trimethyl(purin-6-yl)ammonium chloride
+NS00012798,1,"2,3-Dimethylpyridine"
+NS00022835,1,"3,3-Diphenylacrylonitrile"
+NS00043087,1,3-O-benzyl-ß-D-glucose
+NS00026949,1,"1,4-Benzenediamine, 2,5-dichloro-"
+NS00070551,1,2-Methoxy-5-(1-propenyl)phenol
+NS00026411,1,"Benzeneacetic acid, 1-ethenyl-1,5-dimethyl-4-hexen-1-yl ester"
+NS00022423,0,N-Benzoylalanine
+NS00054009,1,N-Purin-6-ylaniline
+NS00012853,1,N-((Benzyloxy)carbonyl)-L-threonine
+NS00060255,1,[(M-tolyloxy)methyl]oxirane
+NS00010692,1,Rubiadin
+NS00094830,1,2-[(1-Methylpropyl)thio]anthraquinone
+NS00048890,1,3-Methoxyphenylethylamine
+NS00023948,1,2-(Propan-2-yloxy)ethyl 2-hydroxybenzoate
+NS00103553,0,TP2/3-((Ethylphenylamino)methyl)benzenesulfonic acid
+NS00052504,1,4-Methylbenzyl acetate
+NS00098125,1,NS00092693
+NS00012114,1,2-Ethylhexyl methylheptanoate
+NS00019687,1,Dibutyl peroxydicarbonate
+NS00026613,0,Lithium p-toluate
+NS00095013,1,Metyridine
+NS00062703,1,C11-Alkyl 1 ethyl sulfate
+NS00092693,1,CAY10683
+NS00028602,0,C6-DATS
+NS00023722,0,"3,7-Dimethyloct-6-en-1-yl formate"
+NS00058428,0,2-Isopropoxyaniline
+NS00035628,1,Trimethylamine sulphate
+NS00087757,1,"2,3-Dimethylaniline"
+NS00028518,0,2-Chloro-6-methyl-aniline
+NS00018315,0,"ß,4-Dimethylcyclohex-3-ene-1-propionic acid"
+NS00056497,1,"2,5-Anhydro-D-mannitol"
+NS00013678,1,"3,3-Dimethylacrylic acid"
+NS00001055,0,"2,3-Dihydro-2,2-dimethyl-7-benzofuranol"
+NS00070710,0,2-Ethylhexyl 2-pyrrolidone-5-carboxylate
+NS00023719,1,"Phenol, 2-(2-methyl-2-propenyl)-6-nitro-"
+NS00088838,1,Clorindione
+NS00007518,0,"2,2'-Methylenebis(6-cyclopentyl-p-cresol)"
+NS00007845,1,"2-Pyrrolidinone, 1-butyl-"
+NS00021587,1,N-furfurylideneisobutylamine
+NS00003837,1,Tert-Butyl methyl malonate
+NS00024327,1,"Ethanol, 2-(phenylamino)-"
+NS00093901,1,2-(2-Ethoxyethyl)pyridine
+NS00046463,1,"3,4,5-Trifluorophenyl 4'-propyl[1,1'-bi(cyclohexane)]-4-carboxylate"
+NS00006385,1,2-Phenylquinoline
+NS00010159,1,"Pyridine-3,4-dicarboxylic acid"
+NS00001559,1,"9,10-Anthracenedione, 1-chloro-2-methyl-"
+NS00064977,1,({[2-(Trifluoromethyl)phenyl]carbonyl}amino)methyl acetate
+NS00042642,1,"2,2'-(2,5-Furandiyl)bis-1H-benzimidazole"
+NS00031227,1,"N-(1,1-Dimethylethyl)-2-methyl-2-propenamide"
+NS00034635,1,Kalmitoxin III
+NS00031698,1,Alpha-Terpinyl acetate
+NS00024189,1,"2,4-Dioxo-3-azaspiro[5.5]undecane-1,5-dicarbonitrile"
+NS00043427,1,2-Oxo-4-imidazolinecarboxylic acid
+NS00050086,1,"2,6-Xylyl acetate"
+NS00062890,1,1-Methyl-4-(1-methylethylidene)cyclohexyl acetate
+NS00062116,1,TP_7791
+NS00035889,1,6-Mercaptopurine
+NS00007791,1,"2,5-Diethoxy-4-(pyrrolidinyl)benzenediazonium tetrachlorozincate (2:1)"
+NS00005639,1,"2,3-Dimethyl-p-anisaldehyde"
+NS00012735,1,"Hexadecyl 1,2,3,6-tetrahydro-2,6-dioxopyrimidine-4-carboxylate"
+NS00030499,1,"2'-Anilino-3'-chloro-6'-(diethylamino)spiro[isobenzofuran-1[3H],9'-[9H]xanthene]-3-one"
+NS00096652,1,"5-(4-Methoxyphenyl)-N-[(5-methyl-2-phenyl-2H-1,2,3-triazol-4-yl)methyl]-1,3-oxazole-4-carboxamide"
+NS00040383,1,3-(2-Aminoethyl)phenol hydrochloride
+NS00102233,1,SODIUM GUIAZULENE SULFONATE
+NS00019537,1,Lithium 3-[[(2-hydroxyethyl)amino]carbonyl]pentadecenoate
+NS00014769,1,Sodium dodecane-1-thiolate
+NS00036147,1,"TP1/3-(5,5,6-Trimethylbicyclo[2.2.1]hept-2-yl)cyclohexanol"
+NS00014056,1,Ro 20-1724
+NS00016198,1,"1-[(4-Chlorophenyl)methyl]-4,6-dimethyl-2-oxopyridine-3-carbonitrile"
+NS00048251,0,"Acetamide, N-[5-[(2-hydroxyethyl)sulfonyl]-2,4-dimethoxyphenyl]-"
+NS00083625,1,"3H-Indolium, 2-[2-[4-(dimethylamino)phenyl]ethenyl]-1,3,3-trimethyl-, acetate"
+NS00077024,1,6Beta-Hydroxytestosterone
+NS00051633,1,"5-Hydroxy-6-methyl-4-[(Z)-(6-oxo-1H-pyridin-3-yl)methylideneamino]-2,5-dihydro-1,2,4-triazin-3-one"
+NS00096594,1,"Naphthalene, 1,2,3,4-tetrahydro-1,8-dimethyl-"
+NS00068798,0,"Sodium O,O-dimethyl thiophosphate"
+NS00026692,0,Nitracridine
+NS00096123,1,"2,6-Dimethoxy-N-(2,4,4-trimethylpentan-2-yl)benzamide"
+NS00029423,1,"3,4,5-Trimethylpyridine"
+NS00067699,1,3-Cyclopentyl-5-tert-butyl-4-hydroxybenzoic acid
+NS00060794,0,"Sodium 4-(1,1-dimethylpropyl)phenolate"
+NS00039606,1,"3-(2,3,4-Trimethoxyphenyl)propionic acid"
+NS00010493,1,"4-(1H-1,2,3,4-tetrazol-5-ylmethyl)-8-thia-4,6-diazatricyclo[7.4.0.0²,?]trideca-1(9),2(7),5-trien-3-one"
+NS00069892,1,"2,4-Dimethylhepta-2,6-dien-1-ol"
+NS00083687,1,Laureth-2 acetate
+NS00084753,1,"Dibenz[a,h]anthracene"
+NS00001214,1,3-Methylaniline
+NS00008407,1,C17-Alkyl Sulfate A
+NS00096272,1,Chloroprocaine
+NS00081278,1,"2-Amino-1-methyl-6-phenyl-1,4-dihydro-5H-imidazo[4,5-b]pyridin-5-one"
+NS00094891,1,M-(Isopropylamino)phenol
+NS00008859,0,"4-Amino-2,5-dimethylphenol"
+NS00009617,1,"1,4-Dihydro-6-methylquinoxaline-2,3-dione"
+NS00029004,0,NS00084753
+NS00083228,1,Perfluorododecanoic acid (PFDoDA)
+NS00027430,0,NS00083228
+NS00095004,1,"N4-Cyclopropylmethyl-5-methyl-2-phenyl-2H-1,2,3-triazole-4-carboxamide"
+NS00035292,1,"1H,5H,11H-[1]Benzopyrano[6,7,8-ij]quinolizin-11-one, 10-acetyl-2,3,6,7-tetrahydro-"
+NS00053613,1,Trichoverrol A
+NS00023273,1,Tisopurine
+NS00017086,1,Perfluoroundecanoic acid (PFUdA)
+NS00101033,1,"Exo-3,3-dimethylbicyclo[2.2.1]heptane-2-propionic acid"
+NS00033402,0,4-(Ethylamino)-3-methylphenol
+NS00060061,0,2-Ethoxy-5-methylaniline
+NS00044744,0,Benzylamine
+NS00032725,1,"A-[[(4,5-dihydro-1H-imidazol-2-yl)amino]methyl]benzyl alcohol monohydrobromide"
+NS00000370,1,"Dodecanamide, N-(4-hydroxyphenyl)-"
+NS00038039,0,11-Nor-9-carboxy-delta-9-tetrahydrocannabinol
+NS00032128,0,"Benzenamine, 4-propoxy-"
+NS00098693,0,Hydroxyamphetamide
+NS00031453,0,Piperidinium chloride
+NS00009841,0,Cafestol
+NS00018337,1,A-phenylpyridine-2-ethanol
+NS00089417,0,Vernakalant
+NS00011646,1,Ormetoprim
+NS00012554,1,"(2S)-1,3,4,5,6,7-Hexahydro-1,1,5,5-tetramethyl-2H-2,4a-methanonaphthalene-8-"
+NS00006145,0,"2,6-Dimethylaniline"
+NS00018040,0,6-Allylguaicol
+NS00009276,1,"Acetic acid, 1,7,7-trimethyl-bicyclo[2.2.1]hept-2-yl ester"
+NS00048565,1,6-Chloroflavone
+NS00015807,1,16-Hydroxydehydroepiandrosterone
+NS00000359,1,"Benzenemethanol, .alpha.-[(1S)-1-aminoethyl]-, (.alpha.S)- (Cathine)"
+NS00067754,1,2-Ethylaniline
+NS00004922,0,"Benzenemethanamine, 3-methoxy- (9CI)"
+NS00032570,1,Beta-Thujaplicin
+NS00008896,0,12H-Phthaloperin-12-one
+NS00042963,1,Propyl 4-hydroxy-3-methoxyphenylacetate
+NS00029003,0,HWG 1608-desbutyl (M15)
+NS00102978,1,2-Ammonio-1-methylethyl sulphate
+NS00053608,1,Glycidyl acrylate
+NS00037819,1,Sodium 2-(3-benzoylphenyl)propionate
+NS00001755,1,Sodium 2-oxopropanesulphonate
+NS00041724,1,2-Isopropyl-6-methyl-4-pyrimidone
+NS00003151,1,N-(3-Aminopropyl)pyrrolidin-2-one
+NS00086381,1,"3,5-Dimethyl-4-aminophenol"
+NS00096833,1,1-[(2-Fluorophenyl)methyl]-3-(2-methylsulfanylphenyl)urea
+NS00020725,1,"TP2/2,2,2-Trifluoroethyl methacrylate"
+NS00102264,1,"TP1/3-Oxetanemethanol, 3-ethyl-"

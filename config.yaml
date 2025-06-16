@@ -11,18 +11,24 @@ NS_MAX: 120000
 #metadata
 METAPATH: "metadata/"
 
-#pca
+#data processing 
 SUBSET: "none"
+
+#plotting
+PLOT: True
+HUE: "Instrument setup used"
+STYLE: "Species group"
+LEGEND_BBOX_X: 1.2
+LEGEND_BBOX_Y: 0
+
+#pca
 NORM_ORDER: "rowcol"
 ROW_METHOD: "sum"
 ROW_TRANSFORM: "none"
 COL_METHOD: "center"
 COL_TRANSFORM: "power3"
-COMPONENTS: 4
+COMPONENTS: 2
 LOADINGS: 50
-PLOT: True
-HUE: "Species group"
-STYLE: "Tissue"
 PCAPATH: "pca/"
 
 #lda
@@ -33,3 +39,8 @@ LDALABEL: "Species group"
 SUSDAT: "Compound name"
 CACHE: True
 SUSPATH: "susdat/"
+
+#kmeans
+KMEANS_PATH: "kmeans/"
+KMEANS_P: 0.4
+KMEANS_CLUSTERS: 2

@@ -49,8 +49,8 @@ def main(config):
             for i in range (1,lda_result.shape[1]):
                 for j in range(i+1,lda_result.shape[1]+1):
                     ax = sns.scatterplot(x=f'LD{i}',y=f'LD{j}',data=plotData, hue=HUE, style=STYLE)
-                    ax.set_xlabel(f'LD{i} ({np.round(lda_model.explained_variance_ratio_[i-1],3)}%)')
-                    ax.set_ylabel(f'LD{j} ({np.round(lda_model.explained_variance_ratio_[j-1],3)}%)')
+                    ax.set_xlabel(f'LD{i} ({np.round(lda_model.explained_variance_ratio_[i-1]*100,3)}%)')
+                    ax.set_ylabel(f'LD{j} ({np.round(lda_model.explained_variance_ratio_[j-1]*100,3)}%)')
                     ax.set_title(f'{COLLECTION_ID} lda plot: LD{i}/LD{j}')
                     plt.savefig(f'{FILEPATH}/{g}LD{i}_LD{j}.svg', bbox_inches='tight')
                     plt.close()

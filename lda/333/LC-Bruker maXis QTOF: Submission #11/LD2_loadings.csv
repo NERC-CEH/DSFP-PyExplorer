@@ -1,51 +1,51 @@
 ,scores,mols
-0,-0.029745463023562697,N-(3-Chloro-4-fluorophenyl)-N'-(3-morpholinopropyl)thiourea
-1,-0.029745463023562697,"1H-Naphth[2,3-f]isoindole-1,5,10-trione, 4,11-diamino-2-(2-butoxyethyl)-2,3-dihydro-3-imino-"
-2,-0.029745463023562697,NS00054501
-3,-0.02771194421230477,(Diethylamino)(ethoxy)phosphinic acid
-4,-0.02771194421230477,6-[Methyl[(3-nitrophenyl)sulphonyl]amino]hexanoic acid
-5,-0.02771194421230477,C15 Alkyl amidopropyl amine oxide
-6,-0.021784470632293815,"6-Allyl-6,7-dihydro-5H-dibenz[c,e]azepinium dihydrogen phosphate"
-7,-0.01836830548366581,"[1-(7-Methoxy-1,3-benzodioxol-5-yl)-1-[(Z)-2-methylbut-2-enoyl]oxypropan-2-yl] 2,3-dimethyloxirane-2-carboxylate"
-8,-0.01836830548366581,"Diindolo[3,2,1-de:3',2',1'-ij][1,5]naphthyridine-6,13-dione, 7,14-diphenyl-"
-9,-0.01753717048936341,N-[3-(dimethylamino)propyl]myristamide N-oxide
-10,-0.01326686711451993,"N,N-Diethyl-4-(6-methylbenzothiazol-2-yl)aniline"
-11,-0.013241757127390421,Benzyl phenylundecanoate
-12,-0.010458265277973973,Benzyl n-{4-[(diaminomethyl)amino]-1-[(4-fluoro-3-oxobutan-2-yl)carbamoyl]butyl}carbamate
-13,-0.010043668298512295,"6-[(P-tosyl)amino]hexanoic acid, compound with 2,2',2''-nitrilotriethanol (1:1)"
-14,-0.009278873670316615,Sarafloxacin
-15,-0.009268713138462406,"3-Amino-7-[(2,4-diaminophenyl)azo]-2,8-dimethyl-5-phenylphenazinium chloride"
-16,-0.009122495931254162,Tolpropamine hydrochloride
-17,-0.008861101429476105,Teflutixol
-18,-0.008234178555511933,Thiometon
-19,-0.008203491331546978,3-{[4-(2-Pyrimidinyl)piperazino]carbonyl}-2-pyrazinecarboxylic acid
-20,-0.008072462697237872,"2(3H)-Benzofuranone, 3-[2-(acetyloxy)-5-(1,1,3,3-tetramethylbutyl)phenyl]-5-(1,1,3,3-tetramethylbutyl)-"
-21,-0.007798673119543154,"(17R)-17-Acetyl-17-hydroxy-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one"
-22,0.007528951242913339,Bis(methylsulphinyl)methane
-23,0.007528951242913339,(2-Hydroxyethyl)octadecylammonium chloride
-24,0.007725007467225064,"Benzene, 2-ethyl-1,3,5-trinitro-"
-25,0.007952738036847548,Diammonium succinate
-26,0.007952738036847548,"N-Ethyl-2,2,3,3,4,4,4-heptafluorobutanamide"
-27,0.007952738036847548,Dimethyl[2-[(2-methyl-1-oxoallyl)oxy]ethyl](3-sulphopropyl)ammonium hydroxide
-28,0.008002177507642583,"N~1~,N~3~-Bis(2-sulfanylethyl)benzene-1,3-dicarboxamide"
-29,0.008165661935825389,Methyl 2-(p-nitrophenoxy)tetradecanoate
-30,0.00857346584535919,"2-[(1,1-Dimethylethyl)amino]ethyl methacrylate hydrochloride"
-31,0.00857346584535919,"4-Oxazolidinone, 3-ethyl-5-[1-methyl-2-(3-methyl-2-thiazolidinylidene)ethylidene]-2-thioxo-"
-32,0.00857346584535919,1-[(Morpholinecarbonyl)oxy]pyridinium chloride
-33,0.008585206162336285,3-{[4-([Amino(imino)methyl]aminosulfonyl)anilino]methylene}-2-oxo-2
-34,0.008585206162336285,Ranitidine TP 36
-35,0.008585206162336285,"4,5-Bis(hexyloxy)-2-nitrobenzaldehyde"
-36,0.008689037792835327,HWG 1608-lactone (M17)
-37,0.009503930797779508,"4-Oxazolidinone, 3-ethyl-5-[(3-ethyl-2-thiazolidinylidene)ethylidene]-2-thioxo-"
-38,0.009783712712885102,"Benzoic acid, 4-(hexyloxy)-, 4-[(4-butyl-2-cyanophenoxy)carbonyl]phenyl ester"
-39,0.011939385101231893,Levonadifloxacin
-40,0.012798191066446717,Phytonadione
-41,0.013133681344170367,2-(Diethylamino)ethyl methacrylate hydrochloride
-42,0.013462856277822897,Nadifloxacin
-43,0.013462856277822897,Octadecylurea
-44,0.01405610443643312,NS00077469
-45,0.01470292255127854,Clobetasone
-46,0.015107160402472026,"1,3-Diallyl-2-[2-(1-methoxy-2-phenyl-1H-indol-3-yl)vinyl]-1H-imidazo[4,5-b]quinoxalinium toluene-p-sulphonate"
-47,0.015107160402472026,Ammonium bis(2-ethylhexyl) phosphate
-48,0.016577940297837657,N1-Benzyl-N1-(1-cyclopropylvinyl)-3-fluorobenzamide
-49,0.023519533724553107,"2,4,6-Trinitro-m-xylene"
+0,-0.029745463023562787,6-[Methyl[(3-nitrophenyl)sulphonyl]amino]hexanoic acid
+1,-0.029745463023562787,N-[3-(dimethylamino)propyl]myristamide N-oxide
+2,-0.029745463023562787,"6-Allyl-6,7-dihydro-5H-dibenz[c,e]azepinium dihydrogen phosphate"
+3,-0.02771194421230483,N-(3-Chloro-4-fluorophenyl)-N'-(3-morpholinopropyl)thiourea
+4,-0.02771194421230483,NS00054501
+5,-0.02771194421230483,(Diethylamino)(ethoxy)phosphinic acid
+6,-0.021784470632293867,"[1-(7-Methoxy-1,3-benzodioxol-5-yl)-1-[(Z)-2-methylbut-2-enoyl]oxypropan-2-yl] 2,3-dimethyloxirane-2-carboxylate"
+7,-0.018368305483665796,C15 Alkyl amidopropyl amine oxide
+8,-0.018368305483665796,Benzyl n-{4-[(diaminomethyl)amino]-1-[(4-fluoro-3-oxobutan-2-yl)carbamoyl]butyl}carbamate
+9,-0.01753717048936339,"1H-Naphth[2,3-f]isoindole-1,5,10-trione, 4,11-diamino-2-(2-butoxyethyl)-2,3-dihydro-3-imino-"
+10,-0.013266867114519926,"N,N-Diethyl-4-(6-methylbenzothiazol-2-yl)aniline"
+11,-0.013241757127390466,Benzyl phenylundecanoate
+12,-0.010458265277973985,Sarafloxacin
+13,-0.010043668298512285,"(17R)-17-Acetyl-17-hydroxy-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one"
+14,-0.00927887367031659,3-{[4-(2-Pyrimidinyl)piperazino]carbonyl}-2-pyrazinecarboxylic acid
+15,-0.009268713138462326,Dimethyl[2-[(2-methyl-1-oxoallyl)oxy]ethyl](3-sulphopropyl)ammonium hydroxide
+16,-0.009122495931254138,"Diindolo[3,2,1-de:3',2',1'-ij][1,5]naphthyridine-6,13-dione, 7,14-diphenyl-"
+17,-0.00886110142947602,Thiometon
+18,-0.00823417855551188,Bis(methylsulphinyl)methane
+19,-0.008203491331546995,(2-Hydroxyethyl)octadecylammonium chloride
+20,-0.008072462697237813,"2,4,6-Trinitro-m-xylene"
+21,-0.007798673119543173,"N-Ethyl-2,2,3,3,4,4,4-heptafluorobutanamide"
+22,0.007528951242913452,Diammonium succinate
+23,0.007528951242913452,"2(3H)-Benzofuranone, 3-[2-(acetyloxy)-5-(1,1,3,3-tetramethylbutyl)phenyl]-5-(1,1,3,3-tetramethylbutyl)-"
+24,0.007725007467225058,Teflutixol
+25,0.007952738036847706,"N~1~,N~3~-Bis(2-sulfanylethyl)benzene-1,3-dicarboxamide"
+26,0.007952738036847706,Tolpropamine hydrochloride
+27,0.007952738036847706,2-(Diethylamino)ethyl methacrylate hydrochloride
+28,0.00800217750764258,"6-[(P-tosyl)amino]hexanoic acid, compound with 2,2',2''-nitrilotriethanol (1:1)"
+29,0.008165661935825392,N1-Benzyl-N1-(1-cyclopropylvinyl)-3-fluorobenzamide
+30,0.00857346584535916,Levonadifloxacin
+31,0.00857346584535916,"3-Amino-7-[(2,4-diaminophenyl)azo]-2,8-dimethyl-5-phenylphenazinium chloride"
+32,0.00857346584535916,3-{[4-([Amino(imino)methyl]aminosulfonyl)anilino]methylene}-2-oxo-2
+33,0.008585206162336365,Ranitidine TP 36
+34,0.008585206162336365,"Benzene, 2-ethyl-1,3,5-trinitro-"
+35,0.008585206162336365,Methyl 2-(p-nitrophenoxy)tetradecanoate
+36,0.008689037792835317,"Benzoic acid, 4-(hexyloxy)-, 4-[(4-butyl-2-cyanophenoxy)carbonyl]phenyl ester"
+37,0.009503930797779506,Ammonium bis(2-ethylhexyl) phosphate
+38,0.009783712712885086,1-[(Morpholinecarbonyl)oxy]pyridinium chloride
+39,0.011939385101231851,"4-Oxazolidinone, 3-ethyl-5-[1-methyl-2-(3-methyl-2-thiazolidinylidene)ethylidene]-2-thioxo-"
+40,0.012798191066446675,"2-[(1,1-Dimethylethyl)amino]ethyl methacrylate hydrochloride"
+41,0.01313368134417034,HWG 1608-lactone (M17)
+42,0.013462856277822859,Clobetasone
+43,0.013462856277822859,"4-Oxazolidinone, 3-ethyl-5-[(3-ethyl-2-thiazolidinylidene)ethylidene]-2-thioxo-"
+44,0.014056104436433098,Octadecylurea
+45,0.014702922551278516,Phytonadione
+46,0.015107160402471991,Nadifloxacin
+47,0.015107160402471991,NS00077469
+48,0.016577940297837677,"1,3-Diallyl-2-[2-(1-methoxy-2-phenyl-1H-indol-3-yl)vinyl]-1H-imidazo[4,5-b]quinoxalinium toluene-p-sulphonate"
+49,0.023519533724553055,"4,5-Bis(hexyloxy)-2-nitrobenzaldehyde"

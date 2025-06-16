@@ -49,8 +49,8 @@ def main(config):
             for i in range (1,COMPONENTS):
                 for j in range(i+1,COMPONENTS+1):
                     ax = sns.scatterplot(x=f'PC{i}',y=f'PC{j}',data=plotData, hue=HUE, style=STYLE)
-                    ax.set_xlabel(f'PC{i} ({np.round(pca_model.explained_variance_ratio_[i-1],3)}%)')
-                    ax.set_ylabel(f'PC{j} ({np.round(pca_model.explained_variance_ratio_[j-1],3)}%)')
+                    ax.set_xlabel(f'PC{i} ({np.round(pca_model.explained_variance_ratio_[i-1]*100,3)}%)')
+                    ax.set_ylabel(f'PC{j} ({np.round(pca_model.explained_variance_ratio_[j-1]*100,3)}%)')
                     ax.set_title(f'{COLLECTION_ID} PCA plot: PC{i}/PC{j}')
                     plt.savefig(f'{FILEPATH}/{g}PC{i}_PC{j}.svg', bbox_inches='tight')
                     plt.close()

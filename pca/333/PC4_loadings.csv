@@ -1,51 +1,51 @@
 ,scores,mols
-0,-0.05083489701906807,M-Ethoxybenzamide
-1,-0.04652845199336383,P-Ethoxybenzamide
-2,-0.045407343231039524,N-(5-hydroxy-2-methylphenyl)acetamide
-3,-0.045407343231039524,Ethyl 2-methylnicotinate
-4,-0.04285093163069708,"Lauric acid, compound with diethylamine (1:1)"
-5,-0.04002053245510895,"(5-Ethyl-2,2-dimethyl-1,3-dioxan-5-yl)methyl acrylate"
-6,-0.03746526062571135,"3-Ethyl-2-methyl-4,5,6,7-tetrahydroindol-4-one"
-7,-0.03746526062571135,Valeranilide
-8,-0.03736173594229133,Pivalanilide
-9,-0.03678566435908903,1-(2-Pyridyl)cyclohexan-1-ol
-10,-0.036572012129904,4-(Diethylamino)benzaldehyde
-11,-0.036572012129904,"N-(a,a-dimethylphenethyl)formamide"
-12,-0.036572012129904,"Phenol, 2-ethoxy-5-propyl-"
-13,-0.036463240559393595,N-methyl-N-(1-phenylpropan-2-yl)formamide
-14,-0.036429014710922414,P-(tert-Butyl)benzamide
-15,-0.0363690119893795,2-[2-(Tetrahydro-2-furyl)ethyl]pyridine
-16,-0.03626463542951684,"N,N-Diethylbenzamide"
-17,-0.035808816294399894,"Benzamide, N-butyl-"
-18,-0.03580012919193494,(2-Neopentylallyl)succinic acid
-19,-0.035575705368751605,Dodecanedioic acid
-20,-0.03550738684370789,Dibutylammonium isobutyrate
-21,-0.03398412310484519,"1,1'-(Octylimino)dipropan-2-ol"
-22,-0.033902759832609035,1-Methoxybicyclo[2.2.2]oct-5-en-2-yl methyl ketone
-23,-0.030288740082833752,NS00006719
-24,-0.030174820679231797,Decylammonium acetate
-25,-0.028987622413031686,5-Tert-Butyl-3-methylpyrocatechol
-26,-0.028948733829153646,"Ethanol, 2,2'-(octylimino)bis-"
-27,-0.02860968072939879,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-yl formate"
-28,-0.02860968072939879,1-Bicyclo[2.2.1]hept-5-en-2-yl-4-hydroxybutan-2-one
-29,-0.02860968072939879,4-Tert-butylphenol-formaldehyde copolymer
-30,-0.02860968072939879,2-Isobutyl-5-methoxyphenol
-31,-0.02860968072939879,"Benzene, (diethoxymethyl)-"
-32,-0.02860968072939879,3-Tert-Butyl-6-methylpyrocatechol
-33,-0.02860968072939879,"3,4-Diethoxytoluene"
-34,-0.02860968072939879,"Phenol, 3-(1,1-dimethylethyl)-4-methoxy-"
-35,-0.02860968072939879,"(2A,3aa,4ß,7ß,7aß)-octahydro-4,7-methano-1H-indene-2-carboxylic acid"
-36,-0.02860968072939879,P-tert-Butoxyanisole
-37,-0.02838482593976817,"5,6,7,7A-tetrahydro-4,4,7a-trimethylbenzofuran-2(4H)-one"
-38,-0.028295631085392136,"Phenol, 4-(pentyloxy)-"
-39,-0.028237352420248316,"Octahydro-4,7-methano-1H-indene-5-carboxylic acid"
-40,-0.028237352420248316,"Octahydro-4,7-methano-1H-indene-2-carboxylic acid"
-41,-0.028237352420248316,"2(1H)-Pyrimidinone, tetrahydro-1,3-dimethyl-"
-42,-0.028237352420248316,Metformin hydrochloride
-43,-0.028237352420248316,2-Propoxyethylamine
-44,0.029019910021800197,NS00023551
-45,0.030452247562720178,3-(2-(Dodecyloxy)ethoxy)propylamine
-46,0.030724144658094144,"(2A,3aa,4a,7a,7aß)-octahydro-4,7-methano-1H-indene-2-carboxylic acid"
-47,0.03082211888785285,Carboxin
-48,0.03082211888785285,"Tricyclo(3.3.1.1'3,7)decane-1-carboxylic acid"
-49,0.04704200762293955,"2,5-Dimethyl-1-(2-thienylmethyl)pyrrole-3-carboxylic acid"
+0,-0.050834897019068,M-Ethoxybenzamide
+1,-0.04652845199336375,N-(5-hydroxy-2-methylphenyl)acetamide
+2,-0.045407343231039544,Ethyl 2-methylnicotinate
+3,-0.045407343231039544,P-Ethoxybenzamide
+4,-0.04285093163069705,"3-Ethyl-2-methyl-4,5,6,7-tetrahydroindol-4-one"
+5,-0.04002053245510891,"Lauric acid, compound with diethylamine (1:1)"
+6,-0.03746526062571129,Pivalanilide
+7,-0.03746526062571129,Valeranilide
+8,-0.037361735942291266,1-(2-Pyridyl)cyclohexan-1-ol
+9,-0.036785664359088976,"Phenol, 2-ethoxy-5-propyl-"
+10,-0.03657201212990396,"(5-Ethyl-2,2-dimethyl-1,3-dioxan-5-yl)methyl acrylate"
+11,-0.03657201212990396,"Benzamide, N-butyl-"
+12,-0.03657201212990396,P-(tert-Butyl)benzamide
+13,-0.03646324055939359,4-(Diethylamino)benzaldehyde
+14,-0.03642901471092236,(2-Neopentylallyl)succinic acid
+15,-0.036369011989379446,Decylammonium acetate
+16,-0.036264635429516814,"N-(a,a-dimethylphenethyl)formamide"
+17,-0.03580881629439986,N-methyl-N-(1-phenylpropan-2-yl)formamide
+18,-0.035800129191934864,Dibutylammonium isobutyrate
+19,-0.03557570536875156,1-Bicyclo[2.2.1]hept-5-en-2-yl-4-hydroxybutan-2-one
+20,-0.0355073868437079,"Phenol, 4-(pentyloxy)-"
+21,-0.03398412310484524,3-Tert-Butyl-6-methylpyrocatechol
+22,-0.03390275983260896,Dodecanedioic acid
+23,-0.030288740082833703,2-[2-(Tetrahydro-2-furyl)ethyl]pyridine
+24,-0.030174820679231735,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-yl formate"
+25,-0.028987622413031686,NS00006719
+26,-0.028948733829153594,5-Tert-Butyl-3-methylpyrocatechol
+27,-0.02860968072939876,1-Methoxybicyclo[2.2.2]oct-5-en-2-yl methyl ketone
+28,-0.02860968072939876,"Tricyclo(3.3.1.1'3,7)decane-1-carboxylic acid"
+29,-0.02860968072939876,"Phenol, 3-(1,1-dimethylethyl)-4-methoxy-"
+30,-0.02860968072939876,"3,4-Diethoxytoluene"
+31,-0.02860968072939876,"N,N-Diethylbenzamide"
+32,-0.02860968072939876,2-Isobutyl-5-methoxyphenol
+33,-0.02860968072939876,"Benzene, (diethoxymethyl)-"
+34,-0.02860968072939876,"Octahydro-4,7-methano-1H-indene-5-carboxylic acid"
+35,-0.02860968072939876,2-Propoxyethylamine
+36,-0.02860968072939876,4-Methyl-4-(5-methyl-2-furyl)pentan-2-one
+37,-0.02838482593976815,"Ethanol, 2,2'-(octylimino)bis-"
+38,-0.02829563108539206,Carboxin
+39,-0.028237352420248326,"2(1H)-Pyrimidinone, tetrahydro-1,3-dimethyl-"
+40,-0.028237352420248326,P-tert-Butoxyanisole
+41,-0.028237352420248326,NS00023551
+42,-0.028237352420248326,Metformin hydrochloride
+43,-0.028237352420248326,"5,6,7,7A-tetrahydro-4,4,7a-trimethylbenzofuran-2(4H)-one"
+44,0.029019910021800172,3-(2-(Dodecyloxy)ethoxy)propylamine
+45,0.030452247562720153,"2,5-Dimethyl-1-(2-thienylmethyl)pyrrole-3-carboxylic acid"
+46,0.03072414465809409,"Octahydro-4,7-methano-1H-indenecarboxylic acid"
+47,0.030822118887852787,"(2A,3aa,4ß,7ß,7aß)-octahydro-4,7-methano-1H-indene-2-carboxylic acid"
+48,0.030822118887852787,4-Tert-butylphenol-formaldehyde copolymer
+49,0.04704200762293952,"1,1'-(Octylimino)dipropan-2-ol"
