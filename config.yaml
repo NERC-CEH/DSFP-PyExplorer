@@ -12,7 +12,7 @@ NS_MAX: 120000
 METAPATH: "metadata/"
 
 #data processing 
-SUBSET: "none"
+SUBSET: "Instrument setup used"
 
 #random seed
 SEED: 3289
@@ -39,7 +39,7 @@ LDAPATH : "lda/"
 LDALABEL: "Species group"
 
 #sudat
-SUSDAT: "Compound name"
+SUSDAT: False
 CACHE: True
 SUSPATH: "susdat/"
 
@@ -47,3 +47,9 @@ SUSPATH: "susdat/"
 KMEANS_PATH: "kmeans/"
 KMEANS_P: 0.4
 KMEANS_CLUSTERS: 2
+
+#upset
+UPSET_PATH: "upset/"
+GROUPING: "ID"
+MAX_SUBSET_RANK: 10 
+MIN_SUBSET_SIZE: False

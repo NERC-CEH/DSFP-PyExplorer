@@ -37,7 +37,6 @@ The ```config.yaml``` file contains the following relevant parameters:
 This script performs principal component analysis (PCA) on the ordination matrix produced by ```ordination_mat.py``` and collates the results with the metadata downloaded by ```metadata.py``` to allow PCA biplots to be created. 
 
 The ```config.yaml``` file contains the following relevant parameters: 
-* ```COLLECTION_ID: 2380``` - Which collection ID to analyse.
 * ```NORM_ORDER: "rowcol"``` - What order to normalise the data in. One of ```row```, ```col```, ```rowcol```, ```colrow``` or ```none```.
 * ```ROW_METHOD: "sum"``` - How to row-normalise the ordination data before doing PCA. See PyKrev.normalise_intensity() for more info. 
 * ```ROW_TRANSFORM: "power3"```- How to row-transform the ordination data before doing PCA. See PyKrev.normalise_intensity() for more info.
@@ -61,15 +60,24 @@ In addition to the parameters shown above for PCA, the ```config.yaml``` file co
 
 ## ```python kmeans.py config.yaml```
 
-This script clusters compounds based on their presence or absence across samples within a collection. The algorithm first filters compounds based on a data completeness threshold, and then checks that complements of these filtered compounds exist in the data (i.e. there is at least one pair (A,B) such that when compound A is present in samples compound B is not). This vastly reduces the size of the dataset, allowing computationally intensive kmeans clustering to be performed on this filtered data. The script returns a csv and graphic of these filtered compounds and their cluster groups. 
+This script clusters compounds based on their presence or absence across samples within a collection. The algorithm first filters compounds based on a data completeness threshold, and then checks that complements of these filtered compounds exist in the data (i.e. there is at least one pair (A,B) such that when compound A is present in samples compound B is not and vice versa). This vastly reduces the size of the dataset, allowing computationally intensive kmeans clustering to be performed on this filtered data. The script returns a csv and graphic of these filtered compounds and their cluster groups. 
 
 The ```config.yaml``` file contains the following relevant parameters: 
-* ```COLLECTION_ID: 2380``` - Which collection ID to analyse.
 * ```KMEANS_PATH: "kmeans/"``` - File path to save the csv and plots to.
 * ```KMEANS_P: 0.4``` - The completeness threshold to use. The threshold X is set as (P < X < 1-P). Reducing the value of P will increase the amount of compound in the analysis. Max value is 0.5. 
 * ```KMEANS_CLUSTERS: 2``` - The number of kmeans clusters to fit
 * ```HUE: 'Instrument setup used'``` - Column of the metadata file to colour the rows in the plot by. 
 * ```SUBSET: "Instrument type"``` - Whether to subset the data before performing kmeans. Set to ```none``` to do kmeans on all the data. 
+
+## ```python upset.py config.yaml``` 
+
+This script creates an upset plot showing the intersections of compounds between groups.
+
+The ```config.yaml``` file contains the following relevant parameters: 
+* ```UPSET_PATH: "upset/"``` - Where to save the outputs
+* ```GROUPING: "Tissue"```- What grouping variable to use from the metadata
+
+
 
 ## ```susdat.py```
 
@@ -81,7 +89,6 @@ The ```config.yaml``` - file contains the following relevant parameters:
 
 
 ## To do
-* missingno analysis
 * random forest predictions
 * better documentation
 * requirements file
