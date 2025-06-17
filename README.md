@@ -1,6 +1,8 @@
 # DSFP-PyExplorer
 A Python package for doing exploratory data analysis of collections on the [NORMAN Digital Sample Freezing Platform](https://dsfp.norman-data.eu/). This work is linked to the UKCEH Environmental Exposure Hub Project. 
 
+![logo](dsfp-pylogo.png)
+
 ## ``config.yaml``
 
 The parameters for the scripts are all contained in the config.yaml file. A description of some generic parameters used by most scripts is given here:
