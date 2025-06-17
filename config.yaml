@@ -14,12 +14,15 @@ METAPATH: "metadata/"
 #data processing 
 SUBSET: "none"
 
+#random seed
+SEED: 3289
+
 #plotting
 PLOT: True
 HUE: "Instrument setup used"
 STYLE: "Species group"
-LEGEND_BBOX_X: 1.2
-LEGEND_BBOX_Y: 0
+LEGEND_BBOX_X: 0.7
+LEGEND_BBOX_Y: -0.2
 
 #pca
 NORM_ORDER: "rowcol"

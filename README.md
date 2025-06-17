@@ -1,6 +1,15 @@
 # DSFP-PyExplorer
 A Python package for doing exploratory data analysis of collections on the [NORMAN Digital Sample Freezing Platform](https://dsfp.norman-data.eu/). This work is linked to the UKCEH Environmental Exposure Hub Project. 
 
+## ``config.yaml``
+
+The parameters for the scripts are all contained in the config.yaml file. A description of some generic parameters used by most scripts is given here:
+* ```COLLECTION_ID: 2380``` - Which collection ID to search
+* ```PLOT: True``` - Create svg plots?
+* ```HUE: 'Instrument setup used'``` - Column of the metadata file to colour the data by in plots. 
+* ```STYLE: 'Species group'``` - Column of the metadata file to colour the data by in plots. 
+* ```SUBSET: "Instrument type"``` - Whether to subset the data before performing an analysis. Set to ```none``` to do analysis on all the data. 
+
 ## ```python ordination_mat.py config.yaml```
 
 This script is adapted from ```instant_search_processing.R``` by Nikiforos Alygizakis. It downloads all of the detection files in a collections and collates them into a N by M matrix. Where N is the number of samples in the collection and M is the number of detected compounds. Each sample compound pair has its peak area as a value in the matrix. This is ultimately written to a .csv file. 
@@ -11,7 +20,6 @@ The ```config.yaml``` file contains the following relevant parameters:
 * ```THREADS: 10``` - How many parallel threads to use when downloading/loading/ordinating data
 * ```ORDPATH: "ordination/"``` - Filepath to where output data should be written. Output data is written as ```{COLLECTION_ID}_ordination.csv```. 
 * ```DOWNLOAD_DIR: "downloads"``` - Where to store/read downloaded json files
-* ```COLLECTION_ID: 2380``` - Which collection ID to search
 * ```NS_MIN: 1``` - Compounds are searched from MIN:MAX in the Normal SusDat datbase
 * ```NS_MAX: 120000```- Compounds are searched from MIN:MAX in the Normal SusDat datbase
 
@@ -49,6 +57,17 @@ In addition to the parameters shown above for PCA, the ```config.yaml``` file co
 * ```LDAPATH: "lda/"``` - File path to save the lda data/plots
 * ```LDACLASS: "Species group"``` - Categorical variable to use as the basis of the linear discriminant analysis. 
 
+## ```python kmeans.py config.yaml```
+
+This script clusters compounds based on their presence or absence across samples within a collection. The algorithm first filters compounds based on a data completeness threshold, and then checks that complements of these filtered compounds exist in the data (i.e. there is at least one pair (A,B) such that when compound A is present in samples compound B is not). This vastly reduces the size of the dataset, allowing computationally intensive kmeans clustering to be performed on this filtered data. The script returns a csv and graphic of these filtered compounds and their cluster groups. 
+
+The ```config.yaml``` file contains the following relevant parameters: 
+* ```COLLECTION_ID: 2380``` - Which collection ID to analyse.
+* ```KMEANS_PATH: "kmeans/"``` - File path to save the csv and plots to.
+* ```KMEANS_P: 0.4``` - The completeness threshold to use. The threshold X is set as (P < X < 1-P). Reducing the value of P will increase the amount of compound in the analysis. Max value is 0.5. 
+* ```KMEANS_CLUSTERS: 2``` - The number of kmeans clusters to fit
+* ```HUE: 'Instrument setup used'``` - Column of the metadata file to colour the rows in the plot by. 
+* ```SUBSET: "Instrument type"``` - Whether to subset the data before performing kmeans. Set to ```none``` to do kmeans on all the data. 
 
 ## ```susdat.py```
 

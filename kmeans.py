@@ -22,6 +22,7 @@ def main(config):
     SUSDAT = config["SUSDAT"]
     KMEANS_P = config["KMEANS_P"]
     KMEANS_CLUSTERS = config["KMEANS_CLUSTERS"]
+    SEED = config["SEED"]
     LEGEND_BBOX_X = config["LEGEND_BBOX_X"]
     LEGEND_BBOX_Y = config["LEGEND_BBOX_Y"]
 
@@ -58,7 +59,7 @@ def main(config):
         exclusiveData = ordinationData.loc[:,list(exclusives)]
 
         #now we are going to cluster this filtered data using kmeans
-        kmeans = KMeans(n_clusters=KMEANS_CLUSTERS)
+        kmeans = KMeans(n_clusters=KMEANS_CLUSTERS, random_state=SEED)
         clusters = kmeans.fit_predict(exclusiveData.notnull().transpose())
 
         #create a CSV file with the clusters in it
