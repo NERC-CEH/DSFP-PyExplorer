@@ -12,7 +12,7 @@ NS_MAX: 120000
 METAPATH: "metadata/"
 
 #data processing 
-SUBSET: "Instrument setup used"
+SUBSET: False
 
 #random seed
 SEED: 3289
@@ -50,6 +50,7 @@ KMEANS_CLUSTERS: 2
 
 #upset
 UPSET_PATH: "upset/"
-GROUPING: "ID"
-MAX_SUBSET_RANK: 10 
+GROUPING: "Tissue"
+FILTER_TOP_N: 1000
+MAX_SUBSET_RANK: False 
 MIN_SUBSET_SIZE: False

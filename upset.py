@@ -18,8 +18,12 @@ def main(config):
     PLOT = config['PLOT']
     SUSDAT = config["SUSDAT"]
     GROUPING = config["GROUPING"]
+    FILTER_TOP_N = config["FILTER_TOP_N"]
     MAX_SUBSET_RANK = config["MAX_SUBSET_RANK"]
     MIN_SUBSET_SIZE = config["MIN_SUBSET_SIZE"]
+
+    if FILTER_TOP_N == False:
+        FILTER_TOP_N = None
     if MAX_SUBSET_RANK == False:
         MAX_SUBSET_RANK = None
     if MIN_SUBSET_SIZE == False:
@@ -51,7 +55,11 @@ def main(config):
             else:
                 groupData = mergeData[mergeData[GROUPING] == group]
             groupData = groupData.drop(columns=[GROUPING])
-            groupDict[group] = set(groupData.columns[groupData.sum(axis=0) > 0])
+            if FILTER_TOP_N:
+                filterGroupData = groupData.sum(axis=0).sort_values(ascending=False)[0:FILTER_TOP_N]
+                groupDict[group] = set(filterGroupData.keys()[filterGroupData > 0])
+            else:
+                groupDict[group] = set(groupData.columns[groupData.sum(axis=0) > 0])
         #do the upset
         fromContents = upsetplot.from_contents(groupDict)
         fromContents.to_csv(f'{FILEPATH}/{g}fromContents.csv')
@@ -62,7 +70,7 @@ def main(config):
 
     os.makedirs(FILEPATH, exist_ok=True)
     #subset the data 
-    if SUBSET != 'none':
+    if SUBSET:
         #read the metadata
         metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0)
         #determine the groupings

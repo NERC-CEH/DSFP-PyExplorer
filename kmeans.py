@@ -142,7 +142,7 @@ def main(config):
     
     os.makedirs(FILEPATH, exist_ok=True)
     #subset the data 
-    if SUBSET != 'none':
+    if SUBSET:
         #read the metadata
         metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0)
         #determine the groupings

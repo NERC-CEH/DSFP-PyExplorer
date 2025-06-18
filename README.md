@@ -25,12 +25,16 @@ The ```config.yaml``` file contains the following relevant parameters:
 * ```NS_MIN: 1``` - Compounds are searched from MIN:MAX in the Normal SusDat datbase
 * ```NS_MAX: 120000```- Compounds are searched from MIN:MAX in the Normal SusDat datbase
 
+![ordData](notebooks/ordData.png)
+
 ## ```python metadata.py config.yaml```
 
 This script downloads metadata for all collections. 
 
 The ```config.yaml``` file contains the following relevant parameters: 
 * ```METAPATH: "metadata/"``` - Filepath to where output data should be written. Output data is written as ```{COLLECTION_ID}_metadata.csv```. 
+
+![metadata](notebooks/metaData.png)
 
 ## ```python pca.py config.yaml``` 
 
@@ -50,6 +54,8 @@ The ```config.yaml``` file contains the following relevant parameters:
 * ```PCAPATH: "pca/"``` - File path to save the pca data/plots. 
 * ```SUBSET: "Instrument type"``` - Whether to subset the data before performing PCA. Set to ```none``` to do PCA on all the data. 
 
+![pca](pca/333/PC1_PC2.svg)
+
 ## ```python lda.py config.yaml``` 
 
 This script performs linear discriminant analysis (LDA) on the ordination matrix and collates the results with the metadata downloaded by ```metadata.py``` to allow LDA biplots to be created. 
@@ -57,6 +63,8 @@ This script performs linear discriminant analysis (LDA) on the ordination matrix
 In addition to the parameters shown above for PCA, the ```config.yaml``` file contains the following relevant parameters: 
 * ```LDAPATH: "lda/"``` - File path to save the lda data/plots
 * ```LDACLASS: "Species group"``` - Categorical variable to use as the basis of the linear discriminant analysis. 
+
+![lda](lda/333/LD1_LD2.svg)
 
 ## ```python kmeans.py config.yaml```
 
@@ -69,6 +77,8 @@ The ```config.yaml``` file contains the following relevant parameters:
 * ```HUE: 'Instrument setup used'``` - Column of the metadata file to colour the rows in the plot by. 
 * ```SUBSET: "Instrument type"``` - Whether to subset the data before performing kmeans. Set to ```none``` to do kmeans on all the data. 
 
+![kmeans](kmeans/333/kmeans_clusters.svg)
+
 ## ```python upset.py config.yaml``` 
 
 This script creates an upset plot showing the intersections of compounds between groups.
@@ -76,8 +86,11 @@ This script creates an upset plot showing the intersections of compounds between
 The ```config.yaml``` file contains the following relevant parameters: 
 * ```UPSET_PATH: "upset/"``` - Where to save the outputs
 * ```GROUPING: "Tissue"```- What grouping variable to use from the metadata
+* ```FILTER_TOP_N: 1000``` - Whether to filter the data to the top N compounds in a group before calculating intersections (can be set to False) 
+* ```MAX_SUBSET_RANK: False``` - Whether to limit the upset plots to the max number of subsets
+* ```MIN_SUBSET_SIZE: False``` - Whether to limit the upset plots to intersections of a minimum size.
 
-
+![upset](upset/333/upset_plot.svg)
 
 ## ```susdat.py```
 
