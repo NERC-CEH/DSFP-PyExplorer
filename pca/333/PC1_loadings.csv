@@ -1,51 +1,21 @@
 ,scores,mols
-0,0.038260129050731076,"Phenol, 4-(pentyloxy)-"
-1,0.038260129050731076,NS00006719
-2,0.038260129050731076,5-Tert-Butyl-3-methylpyrocatechol
-3,0.038260129050731076,"3,4-Diethoxytoluene"
-4,0.03828990976028675,"Phenol, 3-(1,1-dimethylethyl)-4-methoxy-"
-5,0.03829892452197199,4-Methyl-4-(5-methyl-2-furyl)pentan-2-one
-6,0.03829892452197199,"Octahydro-4,7-methano-1H-indene-2-carboxylic acid"
-7,0.03829892452197199,P-tert-Butoxyanisole
-8,0.03829892452197199,"(2A,3aa,4ß,7ß,7aß)-octahydro-4,7-methano-1H-indene-2-carboxylic acid"
-9,0.03829892452197199,2-Phenylpropionaldehyde dimethyl acetal
-10,0.03829892452197199,"Octahydro-4,7-methano-1H-indene-5-carboxylic acid"
-11,0.03829892452197199,"Octahydro-4,7-methano-1H-indenecarboxylic acid"
-12,0.03830016872684948,"(2A,3aa,4a,7a,7aß)-octahydro-4,7-methano-1H-indene-2-carboxylic acid"
-13,0.03830016872684948,"3-Acetyl-2,4,4-trimethylcyclohex-2-en-1-one"
-14,0.03830016872684948,Ethyl 3-methylbicyclo[2.2.1]hept-5-ene-2-carboxylate
-15,0.03830016872684948,A-propoxyphenethyl alcohol
-16,0.03830016872684948,"Methyl 3,3-dimethylbicyclo[2.2.1]hept-5-ene-2-carboxylate"
-17,0.038315287283896944,"1,1-Dimethoxy-3-phenylpropane"
-18,0.03835252435484107,"P-(2,2-Dimethyloxyethyl)toluene"
-19,0.03846084608547616,Bicyclo[2.2.1]hept-5-en-2-yl isobutyrate
-20,0.03853786445590698,"(6,6-Dimethylbicyclo[3.1.1]hept-2-en-2-yl)methyl formate"
-21,0.03853786445590698,P-tert-Butoxybenzyl alcohol
-22,0.03853786445590698,2-(Dimethylamino)propan-1-ol
-23,0.03853786445590698,1-Bicyclo[2.2.1]hept-5-en-2-yl-4-hydroxybutan-2-one
-24,0.03853786445590698,1-Amino-2-methylbutan-2-ol
-25,0.03856464909832323,Choline
-26,0.03869162315530866,2-Methyl-5-(1-methylvinyl)cyclohex-2-en-1-yl formate
-27,0.03869162315530866,1-(Methoxymethyl)propylamine
-28,0.038823284524977485,4-Aminopentan-1-ol
-29,0.038909249301111316,1-Methoxybicyclo[2.2.2]oct-5-en-2-yl methyl ketone
-30,0.03891979262936501,1-Bicyclo[2.2.1]hept-5-en-2-yl-1-methylethyl formate
-31,0.047156723723310784,4-Butoxybenzyl alcohol
-32,0.047156723723310784,"1-Amino-2,2-dimethylpropan-1-ol"
-33,0.047156723723310784,"Ethanol, 2-(propylamino)-"
-34,0.047156723723310784,4-(P-methoxyphenyl)butan-2-ol
-35,0.047156723723310784,(R)-1-(methoxymethyl)propylamine
-36,0.047156723723310784,Dimepranol
-37,0.047156723723310784,"1-Propanamine, 3-ethoxy-"
-38,0.047156723723310784,L-valinol | L-(+)-valinol
-39,0.047156723723310784,TP1/N-(Butoxymethyl)acrylamide
-40,0.047156723723310784,4-(1-Methylvinyl)cyclohex-1-ene-1-methyl formate
-41,0.047156723723310784,"1-Propanol, 3-(dimethylamino)-"
-42,0.047156723723310784,L-2-amino-3-methylbutan-1-ol
-43,0.047156723723310784,"Methanol, (diethylamino)-"
-44,0.047156723723310784,2-(Isopropylamino)ethanol
-45,0.047156723723310784,5-Aminopentan-1-ol
-46,0.047156723723310784,2-(2-Hydroxy-2-methylpropylidene)cyclohex-3-ene-1-carbaldehyde
-47,0.047156723723310784,4-(4-Methoxyphenyl)butan-1-ol
-48,0.047156723723310784,1-(Ethylamino)propan-2-ol
-49,0.047156723723310784,2-(Methylamino)butan-1-ol
+0,-0.023440103821683926,Tropolone
+1,-0.023289283072304073,Ethyl vinyl sulfone
+2,-0.022891648101878076,NS00102699
+3,-0.02287139421133723,"TP3/Phosphorotrithious acid, tridodecyl ester"
+4,-0.022735348027808983,"TP1/Ethanol, 2-(ethylthio)-"
+5,-0.021682054711503664,"5-(3,5-Di-sec-butylcyclopent-1-enyl)-2,3,5-trihydroxyvaleric acid"
+6,-0.021391698786540486,Isododecyl methacrylate
+7,-0.021235628154695308,2-Butyloctyl methacrylate
+8,-0.021235628154695308,1-Methylundecyl methacrylate
+9,-0.021235628154695308,2-(Methylamino)butan-1-ol
+10,0.04715672372331086,"Methanol, (diethylamino)-"
+11,0.04715672372331086,4-Mercaptobutyric acid
+12,0.04715672372331086,L-valinol | L-(+)-valinol
+13,0.04715672372331086,(R)-1-(methoxymethyl)propylamine
+14,0.04715672372331086,2-(Dimethylamino)propan-1-ol
+15,0.04715672372331086,"1-Amino-2,2-dimethylpropan-1-ol"
+16,0.04715672372331086,4-Aminopentan-1-ol
+17,0.04715672372331086,"1-Propanol, 3-(dimethylamino)-"
+18,0.04715672372331086,"1-Propanamine, 3-ethoxy-"
+19,0.04715672372331086,1-Amino-2-methylbutan-2-ol

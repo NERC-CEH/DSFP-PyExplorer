@@ -1,51 +1,21 @@
 ,scores,mols
-0,-0.2838186404156404,"4-{[4-Amino-6-(2,6-dichlorophenoxy)-1,3,5-triazin-2-yl]amino}benzonitrile"
-1,-0.2752498096100904,2-Amino-6-fluorobenzonitrile
-2,-0.24502732982437056,Azosemide
-3,-0.15124456730204722,Menichlopholan
-4,-0.12599098402377532,"(4-((4-(Diethylamino)phenyl)phenylmethylene)-2,5-cyclohexadien-1-ylidene)diethylammonium acetate"
-5,-0.12032886545187169,"Tetradecanamide, N-[3-(dimethylamino)propyl]-"
-6,-0.09597552382967178,2-Chloro-N-[2-hydroxy-3-(methylphenylamino)propyl]benzamide
-7,-0.08761381016400205,"5-[3-(3-Hydroxyphenoxy)azetidin-1-yl]-5-methyl-2,2-diphenylhexanamide"
-8,-0.07920888498449209,NS00021061
-9,-0.07920888498449209,"Phosphoric acid, decyl ester, compd. with 2,2',2''-nitrilotris[ethanol]"
-10,-0.07788527292538595,"[2,3-Dichloro-4-(1H-tetrazol-5-ylmethoxy)phenyl] 2-thienyl ketone"
-11,-0.06928924923571908,"1-Tert-butyl-4,4-diphenylpiperidinium chloride"
-12,-0.06312629710505026,"6-[(P-tosyl)amino]hexanoic acid, compound with 2,2',2''-nitrilotriethanol (1:1)"
-13,-0.06197721492328206,"Calcium 3,5,5-trimethylhexanoate"
-14,-0.054296797004435016,"Furan-2,5-dicarbonitrile"
-15,-0.05334866952408303,"6-Allyl-6,7-dihydro-5H-dibenz[c,e]azepinium dihydrogen phosphate"
-16,-0.05334866952408303,"3,4-Dichloro-N-{[1-(4-methyl-1-piperazinyl)cyclohexyl]methyl}benzamide"
-17,-0.047165463667846956,"1,4-Dibromobutane-2,3-diyl diacetate"
-18,-0.047165463667846956,5-(Acetamido)-2-[2-[[5-(acetamido)-3-ethyl-3H-benzoxazol-2-ylidene]methyl]but-1-enyl]-3-ethylbenzoxazolium perchlorate
-19,-0.047165463667846956,"N-(2,3-Dihydro-1H-inden-2-yl)-2-[(5-methyl-1H-benzimidazol-2-yl)thio]acetamide"
-20,-0.04434918535483479,(2-Hydroxyethyl)ammonium mercaptoacetate
-21,-0.04155180208658689,Sodium (3-cyclohexen-1-ylhydroxymethyl)phosphinate
-22,-0.04146355844884099,"Chromeno(3,4-b)(1,4)benzothiazin-6(12H)-one"
-23,-0.04006980389561339,Carisbamate
-24,-0.03950702645871801,"Benzene, 1,3-dichloro-5-nitro-"
-25,-0.038658713686201496,"(3a-Hydroxy-7a-methyl-6-oxohexahydro-2H-2,5-methano-1,3-benzodioxol-8-yl)methyl benzoate (Paeoniflorigenone)"
-26,-0.037789188650480234,Potassium 1H-indole-3-acetate
-27,-0.03713022233101917,1-Acetyl-2-thiourea
-28,-0.03647723028557624,Pheniramine 4-aminosalicylate
-29,-0.034529520561948024,Potassium O-(2-ethylhexyl) dithiocarbonate
-30,-0.034529520561948024,2-Cyano-3-(diphenylamino)acrylamide
-31,-0.03427256932956702,"Benzyl 4-[4-methyl-2-(3-methyl-2-{2-[(5-methyl-1,2-oxazol-3-yl)formamido]propanamido}butanamido)pentanamido]-5-(2-oxopyrrolidin-3-yl)pent-2-enoate"
-32,-0.03427256932956702,6-[Methyl[(3-nitrophenyl)sulphonyl]amino]hexanoic acid
-33,-0.03427256932956702,N-(3-Chloro-4-fluorophenyl)-N'-(3-morpholinopropyl)thiourea
-34,-0.03427256932956702,Florox reagent
-35,0.03343895871369607,"Benzenesulfonic acid, nitro-"
-36,0.03467345144241768,"1,4-Dichloro-2-nitrobenzene"
-37,0.0358255352366351,Fisetin
-38,0.0358255352366351,Calcium nonan-1-oate
-39,0.03670372642435828,"2,5-Bis(benzyloxy)-3,4-dihydroxy-n-(2-hydroxy-2,3-dihydro-1h-inden-1-yl)-n'-[2-methyl-1-(methylcarbamoyl)propyl]hexanediamide"
-40,0.03755001568595975,Benzethonium chloride
-41,0.037874990425288774,Amylxanthane
-42,0.038924556003349306,"4-[(Dimethylamino)methylidene]-2-[2-(methylthio)-3-pyridyl]-4,5-dihydro-1,3-oxazol-5-one"
-43,0.04315871932310261,"[2-[4-[(4-Amino-9,10-dihydro-9,10-dioxo-1-anthryl)amino]phenoxy]ethyl]trimethylammonium methyl sulphate"
-44,0.04315871932310261,"4-[2-(2-Methoxyethoxy)ethoxy]benzene-1,3-diamine dihydrochloride"
-45,0.04315871932310261,2-Acetamido-6-chlorobenzoic acid
-46,0.04315871932310261,Isopentyl dithiocarbonate
-47,0.04320399377625745,NS00042160
-48,0.047679823229387186,Potassium 2-methylbutyl dithiocarbonate
-49,0.04858491066424399,O-Octyl hydrogen dithiocarbonate
+0,-0.2838186404156419,"4-{[4-Amino-6-(2,6-dichlorophenoxy)-1,3,5-triazin-2-yl]amino}benzonitrile"
+1,-0.2752498096100919,2-Amino-6-fluorobenzonitrile
+2,-0.2450273298243719,Azosemide
+3,-0.15124456730204808,Menichlopholan
+4,-0.1259909840237761,"Phosphoric acid, decyl ester, compd. with 2,2',2''-nitrilotris[ethanol]"
+5,-0.12032886545187219,"5-[3-(3-Hydroxyphenoxy)azetidin-1-yl]-5-methyl-2,2-diphenylhexanamide"
+6,-0.09597552382967224,"Tetradecanamide, N-[3-(dimethylamino)propyl]-"
+7,-0.08761381016400242,"(4-((4-(Diethylamino)phenyl)phenylmethylene)-2,5-cyclohexadien-1-ylidene)diethylammonium acetate"
+8,-0.07920888498449254,"Calcium 3,5,5-trimethylhexanoate"
+9,-0.07920888498449254,Calcium nonan-1-oate
+10,0.037550015685959434,"[2-[4-[(4-Amino-9,10-dihydro-9,10-dioxo-1-anthryl)amino]phenoxy]ethyl]trimethylammonium methyl sulphate"
+11,0.03787499042528891,Fisetin
+12,0.03892455600334944,"2,5-Bis(benzyloxy)-3,4-dihydroxy-n-(2-hydroxy-2,3-dihydro-1h-inden-1-yl)-n'-[2-methyl-1-(methylcarbamoyl)propyl]hexanediamide"
+13,0.04315871932310249,NS00042160
+14,0.04315871932310249,Potassium 2-methylbutyl dithiocarbonate
+15,0.04315871932310249,Amylxanthane
+16,0.04315871932310249,Isopentyl dithiocarbonate
+17,0.04320399377625762,Benzethonium chloride
+18,0.04767982322938707,"4-[(Dimethylamino)methylidene]-2-[2-(methylthio)-3-pyridyl]-4,5-dihydro-1,3-oxazol-5-one"
+19,0.04858491066424412,"4-[2-(2-Methoxyethoxy)ethoxy]benzene-1,3-diamine dihydrochloride"

@@ -21,7 +21,7 @@ SEED: 3289
 PLOT: True
 HUE: "Instrument setup used"
 STYLE: "Species group"
-LEGEND_BBOX_X: 0.7
+LEGEND_BBOX_X: 1.4
 LEGEND_BBOX_Y: -0.2
 
 #pca
@@ -31,7 +31,7 @@ ROW_TRANSFORM: "none"
 COL_METHOD: "center"
 COL_TRANSFORM: "power3"
 COMPONENTS: 2
-LOADINGS: 50
+LOADINGS: 20
 PCAPATH: "pca/"
 
 #lda
@@ -39,7 +39,7 @@ LDAPATH : "lda/"
 LDALABEL: "Species group"
 
 #sudat
-SUSDAT: False
+SUSDAT: "Compound name"
 CACHE: True
 SUSPATH: "susdat/"
 

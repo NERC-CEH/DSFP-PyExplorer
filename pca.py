@@ -27,6 +27,8 @@ def main(config):
     PLOT = config['PLOT']
     HUE = config['HUE']
     STYLE = config['STYLE']
+    LEGEND_BBOX_X = config['LEGEND_BBOX_X']
+    LEGEND_BBOX_Y = config['LEGEND_BBOX_Y']
 
     def PCA_ROUTINE(g=''):
         #create an empty dataframe to make the pca plots in
@@ -57,7 +59,8 @@ def main(config):
 
         #save loadings plots
         for i in range(0,COMPONENTS):
-            top_N_idx = np.argsort(abs(pca_model.components_[i,:]))[-LOADINGS:]
+            top_N_idx = np.argsort(pca_model.components_[i,:])[-int(LOADINGS/2):]
+            top_N_idx = np.append(top_N_idx,np.argsort(pca_model.components_[i,:])[:int(LOADINGS/2)])
             scores = pca_model.components_[i,:][top_N_idx]
             mols = ordinationData.columns[top_N_idx]
             argidx = np.argsort(scores)
@@ -65,25 +68,25 @@ def main(config):
             mols = mols[argidx]
             loadings= pd.DataFrame()
             loadings['scores'] = scores
-
             if (SUSDAT != False): 
                 sus = susdat(mols,config)
+                print(sus)
                 loadings['mols'] = sus
             else:
                 loadings['mols'] = mols
 
             loadings.to_csv(f"{FILEPATH}/{g}PC{i+1}_loadings.csv")
-            if PLOT:
-                if i % 2 == 0:
-                    ax = sns.stripplot(x=f'PC{i+1}',data=plotData, alpha=.4, marker='X', legend=False,c='grey')
-                    sns.stripplot(x="scores",ax=ax, hue="mols", palette='coolwarm',legend=True,data=loadings)
-                else:
-                    ax = sns.stripplot(y=f'PC{i+1}',data=plotData, alpha=.4, marker='X', legend=False,c='grey')
-                    sns.stripplot(y="scores",ax=ax, hue="mols", palette='coolwarm',legend=True, data=loadings)
+            if PLOT:                
+                ax = sns.stripplot(x=f'PC{i+1}',data=plotData, alpha=.4, marker='X', legend=False,c='grey')
+                ax2 = ax.twiny()
+                ax.set_xlabel(f'PC{i+1} sample scores')
+                ax2.set_xlabel(f'PC{i+1} loadings')
+                sns.stripplot(x="scores",ax=ax2, hue="mols", palette='coolwarm',legend=True,data=loadings)
                 # Adjusting the legend
-                handles, labels = ax.get_legend_handles_labels()
-                ax.legend(handles, labels, loc='upper center', bbox_to_anchor=(0.5, -0.15), ncol=2, title='loadings')
+                handles, labels = ax2.get_legend_handles_labels()
+                ax.legend(handles, labels, loc='best', bbox_to_anchor=(LEGEND_BBOX_X, LEGEND_BBOX_Y), ncol=2, title='loadings')
                 ax.set_title(f'PC{i+1} loading plot')
+                ax2.get_legend().remove() 
                 plt.savefig(f'{FILEPATH}/{g}PC{i+1}_loadings.svg', bbox_inches='tight')
                 plt.close()
 
