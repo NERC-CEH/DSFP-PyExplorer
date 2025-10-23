@@ -1,0 +1,109 @@
+,ID,Collection,Sample type,Short name for contribution,Sampling date,Analysis date,Instrument setup used,Monitored City,Monitored country,Latitude,Longitude,Alive or not,Basis of measurement,Biota species name (in Latin),Distance from the river source (km),Fat content (% of total wet matter),"Name of river, estuary, lake, reservoir, sea",Number of orgnanisms,Origin of biota,Proxy pressures,River basin name,Size (mm),Species group,Tissue,Water content(%),Weight (kg),field_country
+0,25245,LUBW 2025,Real Sample,"LUBW_2025_1
+Whole worm (Lumbricus Rubellus) provided by LUBW in 2025 with code RW-02 LC-POSITIVE-TIMS-HRMS","Mon, 10/07/2024 - 00:36",,LC-Bruker TIMS QTOF: Submission #104,Bräunlingen,,,,No,Dry weight,Lumbricus Rubellus,,,,1.0,Terrestrial environment,,,,Earthworm (22633),Worm,88.0,,
+1,25246,LUBW 2025,Real Sample,"LUBW_2025_2
+Whole worm (Lumbricus Rubellus) provided by LUBW in 2025 with code RW-03 LC-POSITIVE-TIMS-HRMS","Fri, 10/11/2024 - 15:42",,LC-Bruker TIMS QTOF: Submission #104,Bräunlingen,,37.9715584,23.773184,No,Dry weight,Lumbricus rubellus,,,,1.0,Terrestrial environment,,,,Earthworm (22633),Earthworm,81.0,,
+2,25247,LUBW 2025,Real Sample,"LUBW_2025_3
+Whole worm (Lumbricus Rubellus) provided by LUBW in 2025 with code RW-04 LC-POSITIVE-TIMS-HRMS","Thu, 09/19/2024 - 15:46",,LC-Bruker TIMS QTOF: Submission #104,Bräunlingen,,37.9715584,23.773184,No,Dry weight,Lumbricus Rubellus,,,,1.0,Terrestrial environment,,,,Earthworm (22633),Worm,85.0,,
+3,25248,LUBW 2025,Real Sample,"LUBW_2025_4
+Whole worm (Lumbricus Rubellus) provided by LUBW in 2025 with code RW-05 LC-POSITIVE-TIMS-HRMS","Fri, 10/18/2024 - 15:01",,LC-Bruker TIMS QTOF: Submission #104,Bräunlingen,,37.9715584,23.773184,No,Dry weight,Lumbricus Rubellus,,,,1.0,Terrestrial environment,,,,Earthworm (22633),Worm,82.0,,
+4,25249,LUBW 2025,Real Sample,"LUBW_2025_5
+Whole worm (Lumbricus Rubellus) provided by LUBW in 2025 with code RW-06 LC-POSITIVE-TIMS-HRMS","Tue, 08/06/2024 - 16:22",,LC-Bruker TIMS QTOF: Submission #104,Bräunlingen,,37.9715584,23.773184,No,Dry weight,Lumbricus Rubellus,,,,1.0,Terrestrial environment,,,,Earthworm (22633),Worm,88.0,,
+5,25250,LUBW 2025,Real Sample,"LUBW_2025_6
+Whole worm (Lumbricus Rubellus) provided by LUBW in 2025 with code RW-07 LC-POSITIVE-TIMS-HRMS","Thu, 06/06/2024 - 16:24",,LC-Bruker TIMS QTOF: Submission #104,Bräunlingen,,37.9715584,23.773184,No,Dry weight,Lumbricus rubellus,,,,1.0,Terrestrial environment,,,,Earthworm (22633),Worm,88.0,,
+6,25251,LUBW 2025,Real Sample,"LUBW_2025_7
+Whole worm (Lumbricus Rubellus) provided by LUBW in 2025 with code RW-08 LC-POSITIVE-TIMS-HRMS","Sun, 10/06/2024 - 16:26",,LC-Bruker TIMS QTOF: Submission #104,Bräunlingen,,37.9715584,23.773184,No,Dry weight,Lumbricus rubellus,,,,1.0,Terrestrial environment,,,,Earthworm (22633),Worm,84.0,,
+7,25252,LUBW 2025,Real Sample,"LUBW_25_8
+Liver from Beech Marten provided by LUBW in 2024  with code L-01 LC-POSITIVE-TIMS-HRMS","Tue, 06/06/2023 - 16:35",,LC-Bruker TIMS QTOF: Submission #104,Meisenheim,,37.9715584,23.773184,No,Dry weight,Beech Marten,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,71.0,,
+8,25253,LUBW 2025,Real Sample,"LUBW_25_9
+Liver from Pine marten provided by LUBW in 2023  with code L-02 LC-POSITIVE-TIMS-HRMS","Fri, 10/06/2023 - 16:37",,LC-Bruker TIMS QTOF: Submission #104,Meisenheim,,37.9715584,23.773184,No,Dry weight,Martes martes,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,71.0,,
+9,25254,LUBW 2025,Real Sample,"LUBW_25_10
+Liver from Pine Marten provided by LUBW in 2024 with code L-03 LC-POSITIVE-TIMS-HRMS","Fri, 10/06/2023 - 16:39",,LC-Bruker TIMS QTOF: Submission #104,Mullheim,,37.9715584,23.773184,No,Dry weight,Martes martes,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,70.0,,Germany
+10,25255,LUBW 2025,Real Sample,"LUBW_25_11
+Liver from European Polecat provided by LUBW in 2024 with code L-04 LC-POSITIVE-TIMS-HRMS","Sat, 05/06/2023 - 16:40",,LC-Bruker TIMS QTOF: Submission #104,Meisenheim,Germany,37.9715584,23.773184,No,Dry weight,Mustela Putorius,,,,,Terrestrial environment,,,,Bird (22511),Liver,69.0,,
+11,25256,LUBW 2025,Real Sample,"LUBW_25_12
+Liver from Beech Marten provided by LUBW in 2024  with code L-06 LC-POSITIVE-TIMS-HRMS","Wed, 09/06/2023 - 16:43",,LC-Bruker TIMS QTOF: Submission #104,Meisenheim,,37.9715584,23.773184,No,Dry weight,Martes foina,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,71.0,,
+12,25257,LUBW 2025,Real Sample,"LUBW_25_13
+Liver from Beech Marten provided by LUBW in 2024  with code L-08 LC-POSITIVE-TIMS-HRMS","Mon, 02/06/2023 - 16:43",,LC-Bruker TIMS QTOF: Submission #104,Heitersheim,,37.9715584,23.773184,No,Dry weight,Martes foina,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,68.0,,
+13,25258,LUBW 2025,Real Sample,"LUBW_25_14
+Liver from Pine marten provided by LUBW in 2024  with code L-09 LC-POSITIVE-TIMS-HRMS","Tue, 06/06/2023 - 16:45",,LC-Bruker TIMS QTOF: Submission #104,Mullheim,,37.9715584,23.773184,No,Dry weight,Martes martes,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,65.0,,Germany
+14,25259,LUBW 2025,Real Sample,"LUBW_25_15
+Liver from Beech Marten provided by LUBW in 2024  with code L-10 LC-POSITIVE-TIMS-HRMS","Sat, 06/17/2023 - 16:45",,LC-Bruker TIMS QTOF: Submission #104,Meisenheim,Germany,37.9715584,23.773184,No,Dry weight,Martes foina,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,68.0,,
+15,25260,LUBW 2025,Real Sample,"LUBW_25_16
+Liver from Beech Marten provided by LUBW in 2024  with code L-12 LC-POSITIVE-TIMS-HRMS","Thu, 06/06/2024 - 16:48",,LC-Bruker TIMS QTOF: Submission #104,Karlsruhe,,37.9715584,23.773184,No,Dry weight,Martes foina,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,64.0,,Germany
+16,25261,LUBW 2025,Real Sample,"LUBW_25_17
+Liver from Beech Marten provided by LUBW in 2024  with code L-13 LC-POSITIVE-TIMS-HRMS","Thu, 06/06/2024 - 16:48",,LC-Bruker TIMS QTOF: Submission #104,Straubenhardt,Germany,37.9715584,23.773184,No,Dry weight,Martes foina,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,65.0,,
+17,25262,LUBW 2025,Real Sample,"LUBW_25_18
+Liver from Kestrel provided by LUBW in 2024  with code L- LC-POSITIVE-TIMS-HRMS","Thu, 06/06/2024 - 16:50",,LC-Bruker TIMS QTOF: Submission #104,Karlsruhe,,37.9715584,23.773184,No,Dry weight,Falco tinnunculus,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,66.0,,Germany
+18,25263,LUBW 2025,Real Sample,"LUBW_25_19
+Liver from Kestrel provided by LUBW in 2024  with code L-16 LC-POSITIVE-TIMS-HRMS","Thu, 06/06/2024 - 16:52",,LC-Bruker TIMS QTOF: Submission #104,Boblingen,Germany,37.9715584,23.773184,No,Dry weight,Falco tinnunculus,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,73.0,,Germany
+19,25264,LUBW 2025,Real Sample,"LUBW_25_20
+Liver from Kestrel provided by LUBW in 2024  with code L-17 LC-POSITIVE-TIMS-HRMS","Thu, 06/06/2024 - 16:53",,LC-Bruker TIMS QTOF: Submission #104,Altlußheim,Germany,37.9715584,23.773184,No,Dry weight,Falco tinnunculus,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,75.0,,
+20,25265,LUBW 2025,Real Sample,"LUBW_25_21
+Liver from Common buzzard provided by LUBW in 2024  with code L-18 LC-POSITIVE-TIMS-HRMS","Thu, 06/06/2024 - 16:57",,LC-Bruker TIMS QTOF: Submission #104,Stutensee,,37.9715584,23.773184,No,Dry weight,Buteo buteo,,,,,Terrestrial environment,,,,Bird (22511),Liver,74.0,,Germany
+21,25266,LUBW 2025,Real Sample,"LUBW_25_22
+Liver from Hawk provided by LUBW in 2024  with code L-19 LC-POSITIVE-TIMS-HRMS","Sun, 10/06/2024 - 16:54",,LC-Bruker TIMS QTOF: Submission #104,Dielheim,Germany,37.9715584,23.773184,No,Dry weight,Accipiter gentilis,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,74.0,,
+22,25267,LUBW 2025,Real Sample,"LUBW_25_23
+Egg from Peregrine Falcon provided by LUBW in 2024  with code Ei-02 LC-POSITIVE-TIMS-HRMS","Tue, 02/06/2024 - 16:03",,LC-Bruker TIMS QTOF: Submission #104,Mannheim,,37.9715584,23.773184,No,Dry weight,Falco peregrinus,,,,,Terrestrial environment,,,,Eggs (22487),Egg,79.0,,Germany
+23,25268,LUBW 2025,Real Sample,"LUBW_25_24
+Egg from Peregrine Falcon provided by LUBW in 2024  with code Ei-04 LC-POSITIVE-TIMS-HRMS","Tue, 06/11/2024 - 17:00",,LC-Bruker TIMS QTOF: Submission #104,Sigmaringen,Germany,37.9715584,23.773184,No,Dry weight,Falco peregrinus,,,,,Terrestrial environment,,,,Bird (22511),Liver,68.0,,Germany
+24,25269,LUBW 2025,Real Sample,"LUBW_25_25
+Egg from Peregrine Falcon provided by LUBW in 2024  with code Ei-06 LC-POSITIVE-TIMS-HRMS","Thu, 06/06/2024 - 17:02",,LC-Bruker TIMS QTOF: Submission #104,Mannheim,Germany,37.9715584,23.773184,No,Dry weight,Falco peregrinus,,,,1.0,Terrestrial environment,,,,Bird (22511),,77.0,,Germany
+25,25270,LUBW 2025,Real Sample,"LUBW_25_26
+Egg from Chicken provided by LUBW in 2024  with code Ei-08 LC-POSITIVE-TIMS-HRMS","Sun, 10/06/2024 - 17:05",,LC-Bruker TIMS QTOF: Submission #104,Baden-Württemberg,Germany,37.9715584,23.773184,No,Dry weight,Gallus gallus,,,,1.0,Terrestrial environment,,,,Bird (22511),Egg,72.0,,
+26,25271,LUBW 2025,Real Sample,"LUBW_25_27
+Egg from Chicken provided by LUBW in 2024  with code Ei-10 LC-POSITIVE-TIMS-HRMS","Tue, 02/06/2024 - 17:10",,LC-Bruker TIMS QTOF: Submission #104,Baden-Württemberg,,37.9715584,23.773184,No,Dry weight,Gallus gallus,,,,1.0,Terrestrial environment,,,,Bird (22511),Egg,76.0,,
+27,25273,LUBW 2025,Real Sample,"LUBW_25_1
+Worms from Lumbricus Rubellus provided by LUBW in 2024 with code RW-02 LC-NEGATIVE-TIMS-HRMS","Sun, 10/06/2024 - 17:15",,LC-Bruker TIMS QTOF: Submission #105,Bräunlingen,,37.9715584,23.773184,No,Dry weight,Lumbricus Rubellus,,,,1.0,Terrestrial environment,,,,Earthworm (22633),Worm,85.0,,
+28,25274,LUBW 2025,Real Sample,"LUBW_25_2
+Worms from Lumbricus Rubellus provided by LUBW in 2024  with code RW-03 LC-NEGATIVE-TIMS-HRMS","Thu, 06/06/2024 - 21:11",,LC-Bruker TIMS QTOF: Submission #105,Bräunlingen,,37.9715584,23.773184,No,Dry weight,Lumbricus rubellus,,,,1.0,Terrestrial environment,,,,Earthworm (22633),Worm,81.0,,
+29,25275,LUBW 2025,Real Sample,"LUBW_25_3
+Worms from Lumbricus Rubellus provided by LUBW in 2024  with code RW-04 LC-NEGATIVE-TIMS-HRMS","Thu, 06/06/2024 - 17:14",,LC-Bruker TIMS QTOF: Submission #105,Bräunlingen,,37.9715584,23.773184,No,Dry weight,Lumbricus Rubellus,,,,1.0,Terrestrial environment,,,,Earthworm (22633),Worm,85.0,,
+30,25276,LUBW 2025,Real Sample,"LUBW_25_4
+Worms from Lumbricus Rubellus provided by LUBW in 2024  with code RW-05 LC-NEGATIVE-TIMS-HRMS","Thu, 06/06/2024 - 17:15",,LC-Bruker TIMS QTOF: Submission #105,Bräunlingen,,37.9715584,23.773184,No,Dry weight,Lumbricus Rubellus,,,,1.0,Terrestrial environment,,,,Earthworm (22633),Worms,82.0,,
+31,25277,LUBW 2025,Real Sample,"LUBW_25_5
+Worms from Lumbricus Rubellus provided by LUBW in 2024  with code RW-06 LC-NEGATIVE-TIMS-HRMS","Thu, 06/06/2024 - 17:20",,LC-Bruker TIMS QTOF: Submission #105,Bräunlingen,,37.9715584,23.773184,No,Dry weight,Lumbricus Rubellus,,,,1.0,Terrestrial environment,,,,Earthworm (22633),Worm,88.0,,
+32,25278,LUBW 2025,Real Sample,"LUBW_25_6
+Worms from Lumbricus Rubellus provided by LUBW in 2024  with code RW-07 LC-NEGATIVE-TIMS-HRMS","Sat, 06/15/2024 - 17:21",,LC-Bruker TIMS QTOF: Submission #105,Bräunlingen,,37.9715584,23.7764608,No,Dry weight,Lumbricus rubellus,,,,1.0,Terrestrial environment,,,,Earthworm (22633),Worm,88.0,,
+33,25279,LUBW 2025,Real Sample,"LUBW_25_7
+Worms from Lumbricus Rubellus provided by LUBW in 2024  with code RW-08 LC-NEGATIVE-TIMS-HRMS","Thu, 06/06/2024 - 17:19",,LC-Bruker TIMS QTOF: Submission #105,Bräunlingen,,37.9715584,23.773184,No,Dry weight,Lumbricus rubellus,,,,1.0,Terrestrial environment,,,,Earthworm (22633),Worm,84.0,,
+34,25280,LUBW 2025,Real Sample,"LUBW_25_8
+Liver from Beech Marten provided by LUBW in 2024 with code L-01 LC-NEGATIVE-TIMS-HRMS","Thu, 06/06/2024 - 18:34",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Martes foina,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,,,
+35,25281,LUBW 2025,Real Sample,"LUBW_25_9
+Liver from Beech Marten provided by LUBW in 2024 with code L-02 LC-NEGATIVE-TIMS-HRMS","Wed, 11/06/2024 - 18:35",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Martes martes,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,,,
+36,25282,LUBW 2025,Real Sample,"LUBW_25_10
+Liver from Beech Marten provided by LUBW in 2024 with code L-03 LC-NEGATIVE-TIMS-HRMS","Sun, 10/06/2024 - 18:37",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Martes martes,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,,,
+37,25283,LUBW 2025,Real Sample,"LUBW_25_11
+Liver from Beech Marten provided by LUBW in 2024 with code L-04 LC-NEGATIVE-TIMS-HRMS","Thu, 06/06/2024 - 19:36",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Mustela putorius,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,,,
+38,25284,LUBW 2025,Real Sample,"LUBW_25_12
+Liver from Beech Marten provided by LUBW in 2024 with code L-06 LC-NEGATIVE-TIMS-HRMS","Fri, 10/06/2023 - 18:39",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Martes foina,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,,,
+39,25285,LUBW 2025,,"LUBW_25_13
+Liver from Beech Marten provided by LUBW in 2024 with code L-08 LC-NEGATIVE-TIMS-HRMS","Thu, 10/05/2023 - 18:38",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Martes foina,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,,,
+40,25286,LUBW 2025,Real Sample,"LUBW_25_14
+Liver from Beech Marten provided by LUBW in 2024 with code L-09 LC-NEGATIVE-TIMS-HRMS","Fri, 10/06/2023 - 18:40",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Martes martes,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,,,
+41,25287,LUBW 2025,Real Sample,"LUBW_25_15
+Liver from Beech Marten provided by LUBW in 2024 with code L-10 LC-NEGATIVE-TIMS-HRMS","Tue, 06/06/2023 - 18:42",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Martes foina,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,,,
+42,25288,LUBW 2025,,"LUBW_25_16
+Liver from Beech Marten provided by LUBW in 2024 with code L-12 LC-NEGATIVE-TIMS-HRMS","Sun, 10/06/2024 - 18:45",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Martes foina,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,,,
+43,25289,LUBW 2025,,"LUBW_25_17
+Liver from Beech Marten provided by LUBW in 2024 with code L-13 LC-NEGATIVE-TIMS-HRMS","Thu, 06/06/2024 - 18:47",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Martes foina,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,,,
+44,25290,LUBW 2025,,"LUBW_25_18
+Liver from Beech Marten provided by LUBW in 2024 with code L-15 LC-NEGATIVE-TIMS-HRMS","Sat, 07/06/2024 - 18:44",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Falco tinnunculus,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,,,
+45,25291,LUBW 2025,Real Sample,"LUBW_25_
+Liver from Beech Marten provided by LUBW in 2024 with code L-16 LC-NEGATIVE-TIMS-HRMS","Thu, 06/06/2024 - 18:47",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Falco tinnunculus,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,,,
+46,25292,LUBW 2025,Real Sample,"LUBW_25_20
+Liver from Beech Marten provided by LUBW in 2024 with code L-17 LC-NEGATIVE-TIMS-HRMS","Sun, 10/06/2024 - 20:47",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Falco tinnunculus,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,,,
+47,25293,LUBW 2025,Real Sample,"LUBW_25_21
+Liver from Beech Marten provided by LUBW in 2024 with code L-18 LC-NEGATIVE-TIMS-HRMS","Tue, 02/06/2024 - 18:51",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Buteo buteo,,,,1.0,Terrestrial environment,,,,Bird (22511),Liver,,,
+48,25294,LUBW 2025,Real Sample,"LUBW_25_22
+Liver from Beech Marten provided by LUBW in 2024 with code L-19 LC-NEGATIVE-TIMS-HRMS","Thu, 06/06/2024 - 18:49",,LC-Bruker TIMS QTOF: Submission #105,,,37.9715584,23.7764608,No,Dry weight,Accipiter gentilis,,,,,Terrestrial environment,,,,Bird (22511),Liver,1.0,,
+49,25295,LUBW 2025,Real Sample,"LUBW_25_8
+Egg from Beech Marten provided by LUBW in 2024 with code Ei-02 LC-NEGATIVE-TIMS-HRMS","Mon, 10/07/2024 - 10:21",,LC-Bruker TIMS QTOF: Submission #105,Mannheim,,37.9715584,23.7764608,No,Dry weight,Falco peregrinus,,,,1.0,Terrestrial environment,,,,Bird (22511),Egg,,,Germany
+50,25296,LUBW 2025,Real Sample,"LUBW_25_24
+Liver from Beech Marten provided by LUBW in 2024 with code Ei-04 LC-NEGATIVE-TIMS-HRMS","Mon, 10/07/2024 - 10:26",,LC-Bruker TIMS QTOF: Submission #105,Sigmaringen,Germany,37.9715584,23.7764608,No,Dry weight,Falco peregrinus,,,,1.0,Terrestrial environment,,,,Bird (22511),Egg,,,Germany
+51,25297,LUBW 2025,Real Sample,"LUBW_25_25
+Egg from Beech Marten provided by LUBW in 2024 with code Ei-06 LC-NEGATIVE-TIMS-HRMS","Fri, 06/07/2024 - 10:28",,LC-Bruker TIMS QTOF: Submission #105,Mannheim,Germany,37.9715584,23.7764608,No,Dry weight,Falco peregrinus,,,,1.0,Terrestrial environment,,,,Bird (22511),Egg,,,Germany
+52,25298,LUBW 2025,Real Sample,"LUBW_25_27
+Egg from Beech Marten provided by LUBW in 2024 with code Ei-10 LC-NEGATIVE-TIMS-HRMS","Wed, 07/10/2024 - 10:33",,LC-Bruker TIMS QTOF: Submission #105,Baden-Württemberg,Germany,37.9715584,23.7764608,No,Dry weight,Gallus gallus,,,,1.0,Terrestrial environment,,,,Bird (22511),,,,
+53,25299,LUBW 2025,Real Sample,"LUBW_25_26
+Egg from Beech Marten provided by LUBW in 2024 with code Ei-04 LC-NEGATIVE-TIMS-HRMS","Mon, 10/07/2024 - 10:35",,LC-Bruker TIMS QTOF: Submission #105,Baden-Württemberg,,37.9715584,23.7764608,No,Dry weight,Gallus gallus,,,,1.0,Terrestrial environment,,,,Bird (22511),Egg,,,

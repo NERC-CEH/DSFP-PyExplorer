@@ -1,0 +1,56 @@
+#ordination_mat
+DOWNLOAD: False
+METHOD: "max"
+THREADS: 10
+ORDPATH: "../ordination/"
+DOWNLOAD_DIR: "../downloads/"
+COLLECTION_ID: 333
+NS_MIN: 1
+NS_MAX: 120000
+
+#metadata
+METAPATH: "../metadata/"
+
+#data processing 
+SUBSET: False
+
+#random seed
+SEED: 3289
+
+#plotting
+PLOT: True
+HUE: "Instrument setup used"
+STYLE: "Species group"
+LEGEND_BBOX_X: 1.4
+LEGEND_BBOX_Y: -0.2
+
+#pca
+NORM_ORDER: "rowcol"
+ROW_METHOD: "sum"
+ROW_TRANSFORM: "none"
+COL_METHOD: "center"
+COL_TRANSFORM: "power3"
+COMPONENTS: 2
+LOADINGS: 20
+PCAPATH: "pca/"
+
+#lda
+LDAPATH : "lda/"
+LDALABEL: "Species group"
+
+#sudat
+SUSDAT: "Compound name"
+CACHE: True
+SUSPATH: "susdat/"
+
+#kmeans
+KMEANS_PATH: "kmeans/"
+KMEANS_P: 0.4
+KMEANS_CLUSTERS: 2
+
+#upset
+UPSET_PATH: "upset/"
+GROUPING: "Tissue"
+FILTER_TOP_N: 1000
+MAX_SUBSET_RANK: False 
+MIN_SUBSET_SIZE: False

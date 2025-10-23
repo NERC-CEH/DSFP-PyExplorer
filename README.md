@@ -22,8 +22,8 @@ The ```config.yaml``` file contains the following relevant parameters:
 * ```THREADS: 10``` - How many parallel threads to use when downloading/loading/ordinating data
 * ```ORDPATH: "ordination/"``` - Filepath to where output data should be written. Output data is written as ```{COLLECTION_ID}_ordination.csv```. 
 * ```DOWNLOAD_DIR: "downloads"``` - Where to store/read downloaded json files
-* ```NS_MIN: 1``` - Compounds are searched from MIN:MAX in the Normal SusDat datbase
-* ```NS_MAX: 120000```- Compounds are searched from MIN:MAX in the Normal SusDat datbase
+* ```NS_MIN: 1``` - Compounds are searched from MIN:MAX in the Norman SusDat datbase
+* ```NS_MAX: 120000```- Compounds are searched from MIN:MAX in the Norman SusDat datbase
 
 ![ordData](notebooks/ordData.png)
 
