@@ -1,51 +1,21 @@
-,scores,mols
-0,-0.08507489140821506,"Ethane, nitroso-"
-1,-0.08507489140821506,NS00014224
-2,-0.05017984603256482,(3-Aminopropyl)carbamic acid
-3,-0.048725052610300405,Dibutylammonium isobutyrate
-4,-0.04851398843108865,N-(2-Aminoethyl)glycine
-5,-0.04844700557236774,Decylammonium acetate
-6,-0.04822327225154086,"2,3-Diaminobutanoic acid"
-7,-0.04811887459297171,"Ethanol, 2,2'-(octylimino)bis-"
-8,-0.047980511696674985,"2,4-Diaminobutyric acid"
-9,-0.04797722094761898,Threoninamide
-10,-0.045771855770701544,Beta-N-Methylamino-L-alanine
-11,-0.045430272808612435,"L-2,4-Diaminobutyric acid"
-12,-0.04542003414577904,4-(Dimethylamino)butyronitrile
-13,-0.045265690213789504,"1,1'-(Octylimino)dipropan-2-ol"
-14,-0.03421230349608343,"Pyrimidine, 1,4,5,6-tetrahydro-1,2-dimethyl-"
-15,-0.03421230349608343,Ethyl hydrazinoacetate hydrochloride
-16,-0.03419589356952288,3-Fluoropropene
-17,-0.03416727868072978,"1,2,2,6,6-Pentamethyl-4-(vinyloxy)piperidine"
-18,-0.03416727868072978,TP2/3-[(3Z)-Hex-3-en-1-yloxy]propanenitrile
-19,-0.03354990451689079,"TP1/2,2-Dimethylpropane-1,3-diyl bis(2-methylprop-2-enoate)"
-20,-0.03343664922135292,2-Hydroxyethyl cyclohexanecarboxylate
-21,-0.03343664922135292,"5,5-Dimethyl-1,3-dioxane-2-propionaldehyde"
-22,-0.03343664922135292,2-Fluoropropene
-23,-0.03343664922135292,NS00077167
-24,-0.03320619066171361,"Hexanenitrile, 6-amino-"
-25,-0.03320619066171361,Allyl 6-hydroxyhexanoate
-26,-0.03319120758764801,1-Ethyl-4-methylquinolinium toluene-p-sulphonate
-27,-0.033126334970228925,Isobutyl 4-oxovalerate
-28,-0.032807530458926815,Ethyl 1-hydroxycyclohexane-1-carboxylate
-29,-0.032807530458926815,Ethyl 3-hydroxycyclohexanecarboxylate
-30,-0.03268735169029544,6-Oxo-3-methylhexyl acetate
-31,-0.03268735169029544,1-Ethyl-2-methylquinolinium iodide
-32,-0.03268735169029544,Butyl 4-oxopentanoate
-33,-0.032551984608253946,5-Oxo-2-propylhexanoic acid
-34,-0.032551984608253946,(E)-hex-2-enyl lactate
-35,-0.032551984608253946,2-Methylpropyl 2-hydroxy-2-methylbut-3-enoate
-36,-0.032510554015418996,(Tetrahydro-2-furyl)methyl butyrate
-37,-0.032510554015418996,Ethyl 3-isopropoxy-2-butenoate
-38,-0.032510554015418996,2-Methoxybutyl methacrylate
-39,-0.032510554015418996,"2,2-Dimethyl-3-oxopropyl isobutyrate"
-40,-0.032510554015418996,"Acetic acid, 2-(cyclohexyloxy)-, methyl ester"
-41,-0.032510554015418996,L-tyrosinohydrazide
-42,-0.032510554015418996,Ethyl 4-hydroxycyclohexanecarboxylate
-43,-0.032510554015418996,6-Hydroxyhexyl acrylate
-44,0.03449413811703066,Diethyl (3-aminopropyl)phosphonate
-45,0.03530897120131109,Methacholine chloride
-46,0.03557864079997087,1-(Allyloxy)-3-(dimethylamino)propan-2-ol hydrochloride
-47,0.03557864079997087,Trimethyl[2-(1-oxopropoxy)ethyl]ammonium chloride
-48,0.03557864079997087,Carpronium chloride
-49,0.035846253301662113,"3-Hydroxy-2,2-dimethylpropyl methacrylate"
+,scores,mols,sus
+0,-0.08507489140821506,"Ethane, nitroso-",NS00071557
+1,-0.08507489140821506,NS00014224,NS00014224
+2,-0.05017984603256478,(3-Aminopropyl)carbamic acid,NS00040020
+3,-0.04872505261030045,"Ethanol, 2,2'-(octylimino)bis-",NS00019705
+4,-0.04851398843108866,Dibutylammonium isobutyrate,NS00091206
+5,-0.04844700557236781,Decylammonium acetate,NS00081944
+6,-0.04822327225154087,Threoninamide,NS00031942
+7,-0.0481188745929717,N-(2-Aminoethyl)glycine,NS00027561
+8,-0.04798051169667488,"L-2,4-Diaminobutyric acid",NS00014860
+9,-0.04797722094761896,Ethyl hydrazinoacetate hydrochloride,NS00043335
+10,0.02319372660336439,Grayanotoxin IX,NS00093896
+11,0.023296420385096918,"11-ß,17-A,21-trihydroxy-6-a-methylpregn-4-ene-3,20-dione",NS00046542
+12,0.02433786988320696,"N-(2,3-dihydro-1H-inden-4-yl)-4,5-dihydro-1H-imidazol-2-amine monohydrochloride",NS00089188
+13,0.02786052338915931,Cafestol,NS00018040
+14,0.03449413811703073,L-tyrosinohydrazide,NS00045565
+15,0.035308971201311094,Diethyl (3-aminopropyl)phosphonate,NS00031382
+16,0.03557864079997078,Trimethyl[2-(1-oxopropoxy)ethyl]ammonium chloride,NS00083957
+17,0.03557864079997078,Carpronium chloride,NS00100395
+18,0.03557864079997078,Methacholine chloride,NS00078840
+19,0.035846253301662044,1-(Allyloxy)-3-(dimethylamino)propan-2-ol hydrochloride,NS00092348

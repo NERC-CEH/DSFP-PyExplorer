@@ -70,8 +70,9 @@ def main(config):
             loadings['scores'] = scores
             if (SUSDAT != False): 
                 sus = susdat(mols,config)
-                print(sus)
                 loadings['mols'] = sus
+                loadings['sus'] = mols
+
             else:
                 loadings['mols'] = mols
 

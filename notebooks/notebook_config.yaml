@@ -12,14 +12,14 @@ NS_MAX: 120000
 METAPATH: "../metadata/"
 
 #data processing 
-SUBSET: False
+SUBSET: "Instrument setup used"
 
 #random seed
 SEED: 3289
 
 #plotting
 PLOT: True
-HUE: "Instrument setup used"
+HUE: "Tissue"
 STYLE: "Species group"
 LEGEND_BBOX_X: 1.4
 LEGEND_BBOX_Y: -0.2
@@ -32,7 +32,7 @@ COL_METHOD: "center"
 COL_TRANSFORM: "power3"
 COMPONENTS: 2
 LOADINGS: 20
-PCAPATH: "pca/"
+PCAPATH: "../pca/"
 
 #lda
 LDAPATH : "lda/"
@@ -41,7 +41,7 @@ LDALABEL: "Species group"
 #sudat
 SUSDAT: "Compound name"
 CACHE: True
-SUSPATH: "susdat/"
+SUSPATH: "../susdat/"
 
 #kmeans
 KMEANS_PATH: "kmeans/"

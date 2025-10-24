@@ -1,51 +1,21 @@
-,scores,mols
-0,-0.09605065903475708,Divalproex sodium [USAN:USP]
-1,-0.057197477439837024,"Methyl acetate, compound with N,N-diethyl-4-[(4-methyl-4H-1,2,4-triazol-3-yl)azo]aniline (1:1)"
-2,-0.05658243310749667,"9-Hydroxy-2,6,12-trimethyl-12-[2-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyethyl]-15-oxatetracyclo[8.4.1.01,10.02,7]pentadecane-6-carboxylic acid"
-3,-0.049551103188815934,Dinoprost
-4,-0.04649029629296854,Isograyanotoxin II
-5,-0.04621741980778916,Corchorifatty acid F
-6,-0.04618151582334754,"Grayanotox-15-ene-3,5,6,10,14-pentol (Grayanotoxin VI)"
-7,-0.04546283755194906,"5-(3,5-Di-sec-butylcyclopent-1-enyl)-2,3,5-trihydroxyvaleric acid"
-8,-0.044332433893609545,Prostaglandin D2
-9,-0.04433243389360952,15-Epi-Prostaglandin E2
-10,-0.04433243389360952,"Prosta-5,13-dien-1-oic acid, 6,9-epoxy-11,15-dihydroxy-, (5E,9alpha,11alpha,13E,15S)-"
-11,-0.04430698198357419,Grayanotoxin II
-12,-0.04415393780303971,"(6R,8xi)-11,15-Dihydroxy-6,9-epoxyprost-13-en-1-oic acid"
-13,-0.04414346512341435,Methyl 1-phenyl-1H-imidazole-5-carboxylate
-14,-0.04291300349356791,"Grayanotox-10-ene-2,3,5,6,14,16-hexol (Rhodomollein I)"
-15,-0.042910274169104555,"5,6,10,14,16-Pentahydroxygrayanotoxan-3-one (Grayanotoxin V)"
-16,-0.04194325783954142,Kalmitoxin II
-17,-0.041912165787543185,Rhodojaponin III
-18,-0.04189907308164734,Alprostadil
-19,-0.04121300587797083,Propanthelin
-20,-0.03906327217473691,Methyldipropyl[2-[(9H-xanthen-9-ylcarbonyl)oxy]ethyl]ammonium hydroxide
-21,-0.039009159365651205,"3-Hydroxy-3,5-dihydro ML-236C"
-22,-0.03855181067748247,16(R)-HETE
-23,-0.038409547174425476,3-Ketocarbofuran
-24,-0.03720304059311251,NS00024354
-25,-0.03565181193473945,5-Phenyl-2-(2-phenylpropan-2-yl)-2H-tetrazole
-26,-0.03495315258069521,6-Ketoprostaglandin F1α
-27,-0.03367233552327558,"2-(Dibutylamino)-8-(diethylamino)-4-methylspiro[5H-[1]benzopyrano[2,3-d]pyrimidine-5,1'(3'H)-isobenzofuran]-3'-one"
-28,-0.03349232217806179,"N2-(5-Amino-2-pyridyl)pyridine-2,5-diamine"
-29,-0.03349232217806179,"6-Benzyl-1,3,5-triazine-2,4-diamine"
-30,0.03246266474791683,1-Methyl-2-((2-methylbenzyl)oxy)-4-(propan-2-yl)-7-oxabicyclo[2.2.1]heptane
-31,0.03246266474791683,Empenthrin
-32,0.03288857010350344,Isotridecyl mercaptoacetate
-33,0.03297728288224271,(Z)-Hexadec-9-enoic acid
-34,0.033362200840961725,"(Z,E)-tetradeca-9,11-dienyl acetate"
-35,0.03364400967965635,Tetrahydro-6-undecyl-2H-pyran-2-one
-36,0.0340131095850128,1-(2-Cyclohexylethyl)cyclohexyl acetate
-37,0.03423707044976825,Dodecyl 2-methylacrylate
-38,0.03433282409509665,Oxacycloheptadec-13-en-2-one
-39,0.03439843771163004,3-(Dodecylthio)propionic acid
-40,0.03500205832223764,Tridecyl acrylate
-41,0.03562520000577821,"Oxacycloheptadec-​10-​en-​2-​one, (10E)​-"
-42,0.03574236638633864,"TP3/Propanoic acid, 3-(dodecylthio)-, oxybis(2,1-ethanediyloxy-2,1-ethanediyl) ester"
-43,0.03574236638633864,"TP1/Propanoic acid, 3-(dodecylthio)-, 2,2-bis[[3-(dodecylthio)-1-oxopropoxy]methyl]-1,3-propanediyl ester"
-44,0.03646586603986303,Tridecyl mercaptoacetate
-45,0.03825744601198495,"(E,E)-tetradeca-9,11-dienyl acetate"
-46,0.03825744601198495,Oxacycloheptadec-7-en-2-one
-47,0.038716195467886086,3-[(2-Hydroxytetradecyl)thio]propionic acid
-48,0.03914202138924767,Lauryl 3-mercaptopropionate
-49,0.05180804095689986,NS00079002
+,scores,mols,sus
+0,-0.0960506590347577,Divalproex sodium [USAN:USP],NS00076381
+1,-0.057197477439837496,"Methyl acetate, compound with N,N-diethyl-4-[(4-methyl-4H-1,2,4-triazol-3-yl)azo]aniline (1:1)",NS00093208
+2,-0.05658243310749804,"9-Hydroxy-2,6,12-trimethyl-12-[2-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyethyl]-15-oxatetracyclo[8.4.1.01,10.02,7]pentadecane-6-carboxylic acid",NS00097076
+3,-0.04955110318881655,Dinoprost,NS00005455
+4,-0.04649029629297007,Isograyanotoxin II,NS00093906
+5,-0.046217419807791024,Corchorifatty acid F,NS00097245
+6,-0.04618151582334949,"5-(3,5-Di-sec-butylcyclopent-1-enyl)-2,3,5-trihydroxyvaleric acid",NS00042461
+7,-0.045462837551950706,"Grayanotox-15-ene-3,5,6,10,14-pentol (Grayanotoxin VI)",NS00093894
+8,-0.044332433893610974,Prostaglandin D2,NS00073037
+9,-0.044332433893610974,15-Epi-Prostaglandin E2,NS00077429
+10,0.03500205832223675,Tridecyl acrylate,NS00020074
+11,0.03562520000577873,3-(Dodecylthio)propionic acid,NS00044836
+12,0.03574236638633912,"TP3/Propanoic acid, 3-(dodecylthio)-, oxybis(2,1-ethanediyloxy-2,1-ethanediyl) ester",NS00103444
+13,0.03574236638633912,"TP1/Propanoic acid, 3-(dodecylthio)-, 2,2-bis[[3-(dodecylthio)-1-oxopropoxy]methyl]-1,3-propanediyl ester",NS00102534
+14,0.03646586603986293,"(E,E)-tetradeca-9,11-dienyl acetate",NS00089689
+15,0.03825744601198526,Tridecyl mercaptoacetate,NS00032131
+16,0.03825744601198526,Lauryl 3-mercaptopropionate,NS00035572
+17,0.03871619546788606,NS00079002,NS00079002
+18,0.03914202138924759,Oxacycloheptadec-7-en-2-one,NS00043336
+19,0.05180804095689915,3-[(2-Hydroxytetradecyl)thio]propionic acid,NS00058955

@@ -1,51 +1,21 @@
-,scores,mols
-0,0.04302073035718609,"20-Hydroxy-(5Z,8Z,11Z,14Z)-eicosatetraenoic acid"
-1,0.04302073035718609,"8(S)-Hydroxy-(5Z,9E,11Z,14Z)-eicosatetraenoic acid"
-2,0.04302073035718609,"11,12-Epoxy-(5Z,8Z,11Z)-icosatrienoic acid"
-3,0.043034144893692776,"9S,13r-12-Oxophytodienoic Acid"
-4,0.043034144893692776,"17-ß-Hydroxy-4,5-secooestrane-3,5-dione"
-5,0.043034144893692776,"4-Oxo-9,11,13-octadecatrienoic acid"
-6,0.043034144893692776,"Methyl 3,5-bis(tert-butyl)-4-hydroxyhydrocinnamate"
-7,0.043034144893692776,"3,5-Di-tert-butyl-4-hydroxybenzyl propionate"
-8,0.043034144893692776,"Acetic acid, [2,4-bis(1,1-dimethylpropyl)phenoxy]-"
-9,0.043034144893692776,Ls-187429
-10,0.043034144893692776,"11-Hydroxy-9,15-dioxoprosta-5,13-dien-1-oic acid"
-11,0.043034144893692776,8-[3-Oxo-2-[(E)-pent-2-enyl]cyclopenten-1-yl]octanoic acid
-12,0.043165351582790376,Resolvin e1
-13,0.043165351582790376,Isoandrographolide
-14,0.04342377195612446,"TP2/Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, 1,6-hexanediyl ester"
-15,0.0436993817079698,"Dihydro-3-(tetradecenyl)furan-2,5-dione"
-16,0.04371600237091101,Dinoprostone
-17,0.04474497379749027,Methyldipropyl[2-[(9H-xanthen-9-ylcarbonyl)oxy]ethyl]ammonium hydroxide
-18,0.05024139196569926,Propanthelin
-19,0.05080391704287659,Kalmitoxin II
-20,0.0510527462664653,"9-Hydroxy-2,6,12-trimethyl-12-[2-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyethyl]-15-oxatetracyclo[8.4.1.01,10.02,7]pentadecane-6-carboxylic acid"
-21,0.051424233803023855,"5,6,10,14,16-Pentahydroxygrayanotoxan-3-one (Grayanotoxin V)"
-22,0.0517436142458188,Rhodojaponin III
-23,0.05175342204105045,"Grayanotox-10-ene-2,3,5,6,14,16-hexol (Rhodomollein I)"
-24,0.052155222304337875,NS00024354
-25,0.05225392294986894,"Prosta-5,13-dien-1-oic acid, 6,9-epoxy-11,15-dihydroxy-, (5E,9alpha,11alpha,13E,15S)-"
-26,0.05468882442575502,Grayanotoxin II
-27,0.05730911843967974,15-Epi-Prostaglandin E2
-28,0.05730911843967974,Prostaglandin D2
-29,0.05730911843967982,"(6R,8xi)-11,15-Dihydroxy-6,9-epoxyprost-13-en-1-oic acid"
-30,0.05746320538769919,Alprostadil
-31,0.057714887262553284,Isograyanotoxin II
-32,0.05783968095553408,Cobalt bis(nonylphenolate)
-33,0.059067795496183836,"2,5-Dibutoxy-4-(pyrrolidinyl)benzenediazonium tetrachlorozincate (2:1)"
-34,0.05920287130432457,"3-(P-nonylphenoxy)propane-1,2-diol"
-35,0.05920287130432457,"Dihydro-3-tetradecylfuran-2,5-dione"
-36,0.05920287130432457,Octylphenol diethoxylates (OP2EO)
-37,0.05920287130432457,"Dihydro-3-(2-tetradecenyl)furan-2,5-dione"
-38,0.05920287130432457,"3,7-Dimethyl-1-(2-phenylethoxy)octane-1,7-diol"
-39,0.05920287130432457,Dicyclohexyl adipate
-40,0.059529694515348654,"5-(3,5-Di-sec-butylcyclopent-1-enyl)-5-hydroxy-3-oxovaleric acid"
-41,0.06030383371838967,"(9Z,11E,15Z)-13-Hydroperoxy-9,11,15-octadecatrienoic acid"
-42,0.06048655457698985,"10-Hydroxy-6-oxooctadeca-8,12-dienoic acid"
-43,0.06894128471344123,"8-Hydroxy-6-oxooctadeca-9,12-dienoic acid"
-44,0.06923920757785625,Tetradecyl hydrogen fumarate
-45,0.06947782431210701,"5-(3,5-Di-sec-butylcyclopent-1-enyl)-2,3,5-trihydroxyvaleric acid"
-46,0.06947782431210701,"Grayanotox-15-ene-3,5,6,10,14-pentol (Grayanotoxin VI)"
-47,0.06947782431210701,Corchorifatty acid F
-48,0.06994705422128313,"2-[2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy]ethanol"
-49,0.07259217209128319,"9-Oxo-10(E),12(E)-octadecadienoic acid"
+,scores,mols,sus
+0,-0.02213943500769074,Inosine,NS00010210
+1,-0.02082561154916074,Isotridecyl mercaptoacetate,NS00052767
+2,-0.02072225378810484,Difluoro(trifluoromethoxy)acetic acid--piperazine (1/1),NS00110575
+3,-0.020026508346926097,NS00077187,NS00077187
+4,-0.020026508346926097,Tretinoin,NS00077181
+5,-0.020026508346926097,4-Oxoretinol,NS00073628
+6,-0.020026508346926097,Dehydroabietic acid,NS00010328
+7,-0.020026508346926097,9-Cis Retinoic acid,NS00070820
+8,-0.020026508346926097,"3,7-Dimethyl-9-(2,6,6-trimethylcyclohex-1-en-1-yl)nona-2,4,6,8-tetraenoic acid",NS00072199
+9,-0.019989771638042213,3-Phenylpropyl cyclohexanepropionate,NS00038848
+10,0.05952969451534846,"Dihydro-3-tetradecylfuran-2,5-dione",NS00059215
+11,0.06030383371838909,Dicyclohexyl adipate,NS00038729
+12,0.06048655457698874,"Grayanotox-15-ene-3,5,6,10,14-pentol (Grayanotoxin VI)",NS00093894
+13,0.06894128471344016,Corchorifatty acid F,NS00097245
+14,0.06923920757785566,"(9Z,11E,15Z)-13-Hydroperoxy-9,11,15-octadecatrienoic acid",NS00096626
+15,0.0694778243121064,"5-(3,5-Di-sec-butylcyclopent-1-enyl)-5-hydroxy-3-oxovaleric acid",NS00057269
+16,0.0694778243121064,"10-Hydroxy-6-oxooctadeca-8,12-dienoic acid",NS00072645
+17,0.0694778243121064,"8-Hydroxy-6-oxooctadeca-9,12-dienoic acid",NS00072646
+18,0.06994705422128242,Tetradecyl hydrogen fumarate,NS00057564
+19,0.07259217209128217,"5-(3,5-Di-sec-butylcyclopent-1-enyl)-2,3,5-trihydroxyvaleric acid",NS00042461
