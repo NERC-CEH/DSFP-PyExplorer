@@ -1,0 +1,30 @@
+**Liver‑Related Compounds (selected from the list)**  
+
+| # | Compound (common name or key descriptor) | Liver‑related relevance (metabolism, hepatotoxicity, therapeutic use, etc.) |
+|---|------------------------------------------|--------------------------------------------------------------------------|
+| 1 | **Testosterone ketolaurate** | An ester of testosterone; hydrolyzed in the liver to active testosterone. Liver enzymes (CYP3A4) are responsible for its metabolism. Monitoring of liver function is recommended in long‑term therapy. |
+| 2 | **Pazufloxacin** | Fluoroquinolone antibiotic. Primarily metabolised by the liver (CYP1A2, CYP2C9). Reported cases of drug‑induced liver injury (DILI) in patients, especially with pre‑existing hepatic disease. |
+| 3 | **Fusidic acid** | Topical or systemic antibiotic. Liver‑mediated oxidation (CYP3A4) produces inactive metabolites. Hepatotoxicity is uncommon but can occur, especially with prolonged systemic exposure. |
+| 4 | **Caverject | Alprostadil** (Prostaglandin‑E1 analogue) | Metabolised by the liver (β‑oxidation, esterases). Used clinically for erectile dysfunction and peripheral vascular disease. Hepatic impairment reduces clearance, necessitating dose adjustment. |
+| 5 | **Iloprost** | Prostacyclin analogue used for pulmonary hypertension. Rapidly metabolised in the liver (hydrolysis, β‑oxidation). Hepatic dysfunction prolongs half‑life and increases risk of systemic side‑effects. |
+| 6 | **Simvastatin (carboxylic acid metabolite)** | Active form of simvastatin, a cholesterol‑lowering statin. Extensive first‑pass hepatic metabolism via CYP3A4. Major hepatotoxicity risk; baseline and periodic LFTs are recommended. |
+| 7 | **Loratadine** | Second‑generation antihistamine. Metabolised in the liver (CYP3A4, CYP2D6) to active N‑hydroxylated metabolite. Minor hepatic side‑effects; liver disease requires caution. |
+| 8 | **Cyproheptadine** | Antihistamine/antiserotonergic agent. Hepatically metabolised by CYP3A4, CYP2D6. Rarely causes mild elevations in liver enzymes. |
+| 9 | **Betahistine** | Vestibular medication used for Ménière’s disease. Metabolised in the liver (CYP2D6) to inactive metabolites. Hepatic dysfunction may increase exposure. |
+|10 | **7‑Oxolithocholic acid** | A bile acid derivative, produced during hepatic bile acid metabolism. Accumulation indicates cholestasis and can worsen liver injury. |
+|11 | **6‑Ketoprostaglandin F1α** | Prostaglandin‑derived vasodilator used in some clinical settings. Undergoes hepatic hydrolysis and β‑oxidation; hepatic dysfunction prolongs activity. |
+|12 | **Di‑sec‑butyl adipate** | Plasticiser/solvent; in vivo studies show it is metabolised in the liver and can produce hepatotoxic metabolites. |
+|13 | **Diisooctyl isophthalate** | Plasticiser; hepatotoxic in rodents via hepatic metabolism to reactive intermediates. |
+|14 | **Triadimenol metabolite P08** | Fungicide metabolite; shown to induce liver enzyme elevations in animal studies. |
+|15 | **Diethylammonium hexadecyl sulfate** | Surfactant; systemic absorption leads to hepatic accumulation and potential cytotoxicity. |
+|16 | **Diethyl hydrogen phosphate (compound with guanidine)** | Organic phosphate; hepatic metabolism can generate reactive metabolites. |
+|17 | **7‑(4‑Methoxyphenyl)methyl‑1,3‑dimethylpurine‑2,6‑dione** | Purine derivative; hepatic metabolism via CYP450s, may cause mild liver enzyme elevations. |
+|18 | **Sodium N,N‑bis(2‑hydroxyethyl)glycinate** | Chelator used in pharmaceuticals; hepatic excretion is major route. |
+|19 | **P‑(2,2‑dimethoxyethoxy)anisole** | Ester used in fragrance; undergoes hepatic hydrolysis. |
+|20 | **Methyl 2‑(p‑nitrophenoxy)tetradecanoate** | Pesticide/industrial intermediate; hepatotoxic in high doses due to hepatic oxidative metabolism. |
+
+> **Notes**  
+> *Only compounds with documented hepatic metabolism, therapeutic use related to the liver, or known hepatotoxicity were selected.  
+> *Many of the larger, obscure‑named molecules on the list lack specific data on liver interaction; they were omitted for brevity.  
+> *If a compound is a pro‑drug or metabolite, the table references its hepatic conversion pathway.  
+> *Clinicians should still refer to up‑to‑date drug information sheets for dosage and liver‑monitoring guidance.

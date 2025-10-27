@@ -49,7 +49,7 @@ KMEANS_P: 0.4
 KMEANS_CLUSTERS: 2
 
 #upset
-UPSET_PATH: "upset/"
+UPSET_PATH: "../upset/"
 GROUPING: "Tissue"
 FILTER_TOP_N: 1000
 MAX_SUBSET_RANK: False 

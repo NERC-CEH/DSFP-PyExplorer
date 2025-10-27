@@ -1,1878 +1,1878 @@
-Liver,Muscle,Egg,Other,id
-True,False,False,False,NS00015213
-True,True,False,False,NS00087259
-True,False,False,False,NS00030562
-True,False,True,True,NS00010817
-True,True,False,False,NS00063421
-True,False,False,False,NS00045756
-True,False,False,False,NS00011934
-True,False,False,False,NS00025452
-True,True,True,True,NS00037502
-True,False,False,False,NS00035064
-True,True,True,True,NS00031171
-True,True,True,True,NS00064959
-True,True,False,False,NS00009133
-True,True,False,False,NS00070799
-True,True,False,False,NS00003807
-True,True,False,False,NS00014907
-True,False,False,False,NS00104016
-True,True,True,True,NS00041930
-True,False,False,False,NS00012627
-True,True,True,True,NS00002896
-True,True,True,True,NS00012139
-True,True,False,False,NS00007997
-True,False,False,False,NS00002145
-True,True,True,True,NS00102378
-True,False,False,False,NS00045984
-True,False,False,False,NS00007973
-True,True,True,True,NS00050273
-True,False,False,False,NS00046850
-True,True,False,False,NS00063139
-True,True,False,False,NS00020367
-True,True,False,False,NS00036569
-True,True,False,False,NS00070992
-True,False,False,False,NS00050749
-True,True,True,True,NS00081725
-True,True,False,False,NS00014847
-True,False,True,True,NS00028980
-True,False,False,False,NS00028303
-True,False,False,False,NS00033056
-True,False,True,True,NS00033919
-True,True,False,False,NS00010665
-True,False,False,False,NS00102406
-True,False,False,False,NS00036381
-True,False,False,False,NS00026802
-True,False,False,False,NS00061765
-True,False,False,False,NS00042604
-True,True,True,True,NS00093370
-True,True,False,False,NS00080255
-True,True,False,False,NS00013947
-True,False,False,False,NS00064368
-True,True,False,False,NS00096101
-True,True,True,True,NS00028038
-True,True,False,False,NS00066795
-True,True,False,False,NS00065369
-True,False,False,False,NS00033635
-True,False,True,True,NS00078224
-True,False,True,True,NS00102041
-True,False,False,False,NS00026744
-True,False,False,False,NS00038701
-True,True,True,True,NS00034938
-True,False,False,False,NS00031043
-True,True,True,True,NS00024733
-True,True,True,True,NS00041142
-True,True,True,True,NS00036818
-True,True,False,False,NS00096699
-True,False,False,False,NS00037378
-True,True,False,False,NS00094827
-True,True,False,False,NS00062357
-True,False,False,False,NS00069912
-True,False,False,False,NS00016935
-True,True,False,False,NS00021677
-True,False,False,False,NS00038112
-True,True,True,True,NS00032723
-True,False,False,False,NS00070268
-True,True,False,False,NS00051920
-True,False,False,False,NS00064604
-True,False,False,False,NS00012854
-True,False,False,False,NS00103041
-True,False,False,False,NS00020874
-True,False,False,False,NS00045262
-True,True,True,True,NS00024861
-True,True,False,False,NS00102568
-True,True,False,False,NS00034738
-True,False,False,False,NS00026523
-True,False,True,True,NS00069969
-True,True,False,False,NS00076555
-True,False,False,False,NS00027933
-True,True,False,False,NS00051620
-True,True,True,True,NS00055528
-True,False,False,False,NS00076875
-True,False,False,False,NS00072212
-True,False,False,False,NS00014858
-True,True,True,True,NS00030688
-True,False,False,False,NS00004429
-True,False,False,False,NS00061263
-True,True,False,False,NS00002052
-True,False,False,False,NS00063426
-True,False,False,False,NS00024523
-True,True,True,True,NS00051676
-True,True,False,False,NS00022225
-True,True,False,False,NS00007867
-True,False,False,False,NS00001756
-True,False,False,False,NS00025606
-True,False,False,False,NS00010129
-True,False,False,False,NS00059141
-True,True,False,False,NS00048907
-True,False,False,False,NS00021624
-True,True,True,True,NS00051115
-True,False,False,False,NS00088210
-True,False,False,False,NS00045305
-True,False,False,False,NS00045088
-True,True,True,True,NS00024723
-True,False,False,False,NS00031184
-True,False,False,False,NS00001055
-True,False,False,False,NS00057648
-True,True,True,True,NS00055903
-True,True,True,True,NS00024526
-True,False,False,False,NS00031389
-True,True,False,False,NS00012554
-True,True,False,False,NS00005624
-True,True,True,True,NS00087997
-True,True,False,False,NS00065443
-True,False,False,False,NS00027241
-True,False,False,False,NS00097352
-True,False,False,False,NS00047419
-True,True,False,False,NS00065517
-True,False,False,False,NS00068704
-True,False,False,False,NS00001808
-True,False,False,False,NS00029913
-True,False,False,False,NS00041585
-True,True,False,False,NS00010521
-True,False,False,False,NS00013140
-True,True,False,False,NS00084059
-True,False,False,False,NS00035603
-True,False,False,False,NS00071593
-True,True,True,True,NS00102962
-True,True,True,True,NS00079427
-True,False,False,False,NS00041071
-True,True,False,False,NS00050526
-True,False,False,False,NS00057469
-True,False,False,False,NS00014381
-True,True,True,True,NS00001592
-True,True,True,True,NS00019591
-True,True,True,True,NS00025345
-True,True,False,False,NS00005079
-True,False,False,False,NS00102539
-True,False,False,False,NS00059088
-True,True,True,True,NS00005364
-True,False,False,False,NS00103013
-True,True,True,True,NS00023564
-True,True,True,True,NS00032722
-True,True,False,False,NS00083282
-True,True,False,False,NS00005555
-True,True,False,False,NS00004944
-True,False,False,False,NS00013193
-True,False,False,False,NS00007079
-True,True,True,True,NS00091206
-True,True,True,True,NS00035934
-True,False,False,False,NS00021561
-True,True,False,False,NS00033745
-True,True,True,True,NS00053093
-True,True,True,True,NS00068158
-True,True,False,False,NS00022729
-True,True,False,False,NS00048915
-True,True,False,False,NS00077800
-True,True,False,False,NS00051166
-True,True,True,True,NS00002670
-True,True,True,True,NS00025626
-True,True,False,False,NS00022559
-True,True,True,True,NS00016951
-True,False,False,False,NS00087817
-True,False,False,False,NS00062440
-True,True,False,False,NS00020597
-True,True,True,True,NS00022512
-True,True,False,False,NS00042671
-True,True,True,True,NS00003513
-True,True,False,False,NS00039838
-True,False,False,False,NS00002868
-True,False,False,False,NS00048001
-True,True,True,True,NS00025185
-True,True,True,True,NS00039122
-True,True,False,False,NS00007474
-True,False,False,False,NS00058134
-True,False,False,False,NS00007081
-True,False,False,False,NS00033700
-True,True,False,False,NS00093320
-True,False,False,False,NS00034588
-True,False,False,False,NS00061618
-True,False,False,False,NS00068588
-True,False,False,False,NS00030547
-True,False,False,False,NS00102165
-True,False,False,False,NS00061452
-True,False,False,False,NS00024774
-True,True,True,True,NS00066648
-True,False,False,False,NS00084328
-True,True,True,True,NS00068274
-True,False,False,False,NS00049238
-True,True,False,False,NS00113932
-True,True,True,True,NS00003571
-True,True,False,False,NS00102766
-True,True,True,True,NS00042478
-True,True,False,False,NS00051089
-True,True,True,True,NS00019773
-True,True,True,True,NS00046088
-True,True,False,False,NS00049214
-True,False,False,False,NS00048212
-True,True,False,False,NS00009631
-True,False,True,True,NS00030025
-True,True,True,True,NS00055624
-True,False,False,False,NS00031457
-True,False,False,False,NS00052992
-True,False,False,False,NS00055438
-True,True,False,False,NS00031630
-True,True,False,False,NS00100938
-True,True,False,False,NS00008744
-True,False,False,False,NS00096360
-True,True,False,False,NS00018679
-True,False,False,False,NS00030076
-True,False,False,False,NS00006784
-True,True,False,False,NS00047546
-True,True,True,True,NS00005539
-True,True,True,True,NS00044314
-True,False,False,False,NS00009764
-True,True,True,True,NS00062137
-True,True,True,True,NS00029657
-True,False,False,False,NS00033553
-True,False,False,False,NS00003094
-True,False,False,False,NS00057334
-True,True,False,False,NS00051042
-True,False,False,False,NS00102505
-True,True,False,False,NS00056232
-True,True,False,False,NS00086214
-True,False,False,False,NS00004477
-True,False,True,True,NS00020242
-True,False,False,False,NS00044777
-True,True,True,True,NS00027072
-True,False,False,False,NS00069295
-True,False,False,False,NS00101934
-True,True,True,True,NS00060065
-True,True,True,True,NS00025233
-True,True,True,True,NS00047131
-True,True,False,False,NS00022421
-True,True,False,False,NS00059882
-True,False,False,False,NS00031352
-True,True,True,True,NS00089347
-True,False,False,False,NS00032425
-True,True,True,True,NS00071557
-True,True,True,True,NS00077167
-True,False,False,False,NS00083168
-True,False,False,False,NS00008961
-True,True,True,True,NS00007075
-True,False,False,False,NS00055859
-True,True,True,True,NS00103698
-True,True,True,True,NS00099790
-True,False,False,False,NS00078800
-True,False,False,False,NS00097431
-True,True,False,False,NS00010328
-True,True,True,True,NS00048539
-True,True,False,False,NS00014867
-True,True,False,False,NS00055892
-True,True,False,False,NS00092369
-True,True,False,False,NS00003330
-True,True,False,False,NS00055086
-True,True,True,True,NS00004118
-True,True,False,False,NS00081299
-True,True,False,False,NS00051579
-True,True,True,True,NS00113911
-True,False,True,True,NS00039103
-True,True,False,False,NS00022287
-True,True,False,False,NS00031148
-True,False,False,False,NS00010853
-True,True,True,True,NS00034020
-True,True,False,False,NS00047779
-True,False,False,False,NS00077374
-True,False,False,False,NS00021838
-True,True,True,True,NS00068268
-True,True,False,False,NS00038808
-True,True,True,True,NS00050119
-True,False,False,False,NS00036909
-True,True,False,False,NS00041955
-True,True,True,True,NS00013838
-True,False,False,False,NS00041348
-True,True,True,True,NS00062376
-True,True,False,False,NS00076568
-True,False,False,False,NS00059675
-True,True,True,True,NS00045458
-True,True,False,False,NS00050715
-True,True,False,False,NS00059215
-True,True,True,True,NS00023620
-True,False,False,False,NS00018040
-True,False,False,False,NS00041092
-True,True,False,False,NS00103743
-True,True,True,True,NS00023825
-True,False,False,False,NS00066035
-True,True,False,False,NS00044155
-True,True,True,True,NS00027071
-True,False,False,False,NS00010741
-True,False,False,False,NS00041512
-True,False,False,False,NS00039001
-True,False,False,False,NS00056892
-True,True,True,True,NS00087463
-True,True,False,False,NS00059956
-True,False,False,False,NS00039532
-True,False,False,False,NS00012831
-True,True,True,True,NS00057017
-True,True,False,False,NS00046084
-True,True,True,True,NS00057102
-True,True,True,True,NS00026901
-True,False,False,False,NS00035624
-True,False,False,False,NS00003014
-True,True,False,False,NS00043436
-True,False,False,False,NS00101981
-True,False,True,True,NS00034673
-True,False,True,True,NS00014086
-True,False,False,False,NS00057989
-True,False,False,False,NS00015595
-True,True,False,False,NS00027137
-True,False,False,False,NS00055407
-True,True,False,False,NS00015778
-True,False,False,False,NS00032076
-True,False,False,False,NS00003358
-True,True,True,True,NS00032406
-True,False,False,False,NS00014438
-True,False,False,False,NS00066320
-True,True,True,True,NS00050809
-True,False,False,False,NS00049679
-True,True,False,False,NS00041660
-True,False,False,False,NS00054273
-True,False,False,False,NS00098641
-True,False,False,False,NS00004662
-True,True,False,False,NS00065126
-True,False,False,False,NS00042198
-True,False,False,False,NS00066115
-True,True,False,False,NS00058902
-True,True,False,False,NS00004583
-True,False,False,False,NS00035548
-True,False,False,False,NS00056818
-True,True,False,False,NS00033999
-True,False,False,False,NS00049469
-True,True,False,False,NS00062564
-True,True,False,False,NS00088992
-True,True,True,True,NS00051850
-True,True,True,True,NS00019705
-True,False,False,False,NS00039722
-True,True,False,False,NS00001295
-True,True,True,True,NS00025722
-True,True,False,False,NS00083062
-True,False,False,False,NS00103553
-True,True,False,False,NS00113877
-True,False,True,True,NS00021249
-True,False,False,False,NS00044329
-True,True,True,True,NS00043495
-True,True,False,False,NS00048853
-True,False,False,False,NS00082835
-True,True,True,True,NS00053148
-True,True,True,True,NS00014764
-True,True,False,False,NS00049871
-True,True,True,True,NS00056605
-True,True,True,True,NS00038184
-True,False,False,False,NS00047633
-True,False,False,False,NS00042832
-True,False,False,False,NS00013148
-True,True,False,False,NS00082101
-True,True,True,True,NS00045954
-True,True,False,False,NS00040234
-True,True,True,True,NS00068080
-True,True,False,False,NS00065602
-True,True,True,True,NS00033411
-True,False,False,False,NS00060737
-True,True,True,True,NS00044493
-True,True,True,True,NS00026724
-True,False,True,True,NS00114043
-True,True,False,False,NS00010329
-True,True,True,True,NS00045060
-True,False,True,True,NS00025105
-True,True,True,True,NS00020358
-True,True,True,True,NS00031030
-True,False,False,False,NS00009772
-True,False,False,False,NS00048333
-True,False,False,False,NS00055831
-True,False,False,False,NS00072057
-True,False,True,True,NS00033903
-True,False,False,False,NS00066509
-True,True,False,False,NS00024756
-True,True,False,False,NS00077070
-True,True,False,False,NS00065978
-True,False,False,False,NS00004922
-True,False,True,True,NS00113862
-True,True,False,False,NS00047239
-True,True,False,False,NS00010730
-True,True,False,False,NS00070820
-True,True,True,True,NS00026740
-True,True,True,True,NS00073053
-True,False,True,True,NS00020788
-True,True,False,False,NS00096067
-True,False,False,False,NS00008073
-True,True,True,True,NS00031942
-True,True,True,True,NS00076579
-True,True,True,True,NS00028824
-True,True,True,True,NS00103545
-True,True,False,False,NS00058643
-True,True,False,False,NS00023592
-True,True,True,True,NS00014860
-True,True,True,True,NS00029392
-True,True,False,False,NS00084798
-True,True,False,False,NS00103182
-True,False,False,False,NS00038878
-True,True,True,True,NS00103524
-True,True,False,False,NS00039543
-True,False,False,False,NS00055432
-True,True,True,True,NS00102326
-True,False,False,False,NS00029007
-True,True,True,True,NS00028640
-True,True,False,False,NS00025276
-True,False,False,False,NS00026692
-True,False,False,False,NS00057262
-True,False,False,False,NS00009026
-True,True,False,False,NS00047264
-True,False,False,False,NS00057709
-True,False,False,False,NS00062606
-True,True,True,True,NS00025070
-True,False,False,False,NS00012364
-True,True,False,False,NS00033763
-True,True,True,True,NS00075812
-True,True,True,True,NS00022777
-True,True,True,True,NS00066049
-True,True,False,False,NS00113896
-True,True,False,False,NS00060125
-True,True,True,True,NS00045552
-True,True,True,True,NS00006792
-True,True,True,True,NS00068209
-True,False,False,False,NS00070952
-True,True,True,True,NS00046208
-True,False,False,False,NS00049880
-True,True,True,True,NS00008811
-True,True,False,False,NS00065604
-True,True,True,True,NS00058909
-True,False,False,False,NS00033378
-True,True,True,True,NS00087611
-True,False,False,False,NS00049218
-True,False,False,False,NS00023546
-True,True,False,False,NS00013909
-True,True,True,True,NS00046966
-True,True,True,True,NS00076664
-True,False,False,False,NS00031476
-True,True,True,True,NS00016086
-True,False,False,False,NS00023300
-True,False,False,False,NS00069043
-True,True,False,False,NS00080307
-True,True,False,False,NS00101016
-True,False,False,False,NS00068181
-True,True,True,True,NS00014836
-True,False,False,False,NS00103221
-True,True,False,False,NS00077187
-True,True,True,True,NS00009403
-True,True,False,False,NS00053422
-True,False,False,False,NS00034002
-True,True,True,True,NS00030694
-True,True,False,False,NS00102940
-True,True,False,False,NS00002769
-True,True,True,True,NS00032841
-True,False,False,False,NS00069814
-True,False,False,False,NS00020530
-True,False,False,False,NS00063088
-True,False,False,False,NS00049896
-True,False,False,False,NS00010681
-True,False,False,False,NS00098064
-True,False,False,False,NS00062887
-True,False,True,True,NS00058119
-True,True,True,True,NS00055217
-True,False,True,True,NS00046837
-True,True,True,True,NS00103548
-True,True,False,False,NS00043065
-True,True,False,False,NS00047596
-True,True,True,True,NS00079617
-True,True,True,True,NS00051439
-True,True,True,True,NS00114117
-True,False,False,False,NS00012624
-True,False,False,False,NS00006851
-True,True,False,False,NS00006123
-True,False,True,True,NS00009372
-True,True,False,False,NS00010591
-True,False,False,False,NS00044633
-True,False,False,False,NS00063113
-True,True,False,False,NS00045323
-True,True,True,True,NS00051943
-True,False,False,False,NS00069859
-True,False,False,False,NS00025077
-True,False,False,False,NS00093816
-True,True,False,False,NS00076871
-True,False,False,False,NS00088694
-True,True,True,True,NS00054401
-True,False,False,False,NS00099197
-True,False,False,False,NS00025516
-True,False,False,False,NS00021817
-True,False,False,False,NS00031011
-True,False,False,False,NS00069893
-True,False,False,False,NS00011525
-True,True,False,False,NS00018678
-True,True,True,True,NS00096371
-True,True,False,False,NS00065200
-True,False,False,False,NS00046705
-True,True,True,True,NS00025203
-True,True,False,False,NS00001044
-True,True,False,False,NS00080641
-True,True,False,False,NS00055297
-True,False,False,False,NS00056023
-True,True,False,False,NS00054966
-True,True,True,True,NS00041357
-True,False,False,False,NS00028208
-True,False,False,False,NS00034751
-True,False,False,False,NS00041195
-True,False,False,False,NS00048080
-True,False,False,False,NS00007889
-True,True,False,False,NS00049122
-True,True,True,True,NS00042184
-True,True,False,False,NS00010575
-True,False,False,False,NS00011523
-True,False,False,False,NS00021053
-True,True,False,False,NS00047965
-True,True,False,False,NS00029345
-True,True,False,False,NS00096130
-True,True,False,False,NS00055328
-True,True,True,True,NS00083791
-True,True,False,False,NS00089538
-True,True,False,False,NS00027286
-True,True,True,True,NS00071116
-True,True,True,True,NS00103702
-True,True,False,False,NS00059756
-True,True,False,False,NS00079915
-True,True,True,True,NS00029164
-True,True,True,True,NS00024955
-True,True,False,False,NS00061696
-True,False,False,False,NS00012005
-True,False,False,False,NS00004988
-True,False,False,False,NS00055555
-True,True,False,False,NS00026904
-True,False,False,False,NS00097375
-True,True,False,False,NS00047551
-True,True,False,False,NS00037504
-True,False,False,False,NS00063589
-True,True,False,False,NS00061544
-True,False,False,False,NS00077808
-True,False,False,False,NS00062731
-True,True,True,True,NS00049835
-True,False,False,False,NS00034574
-True,True,True,True,NS00045548
-True,True,False,False,NS00076985
-True,False,False,False,NS00008050
-True,True,False,False,NS00091377
-True,False,False,False,NS00031499
-True,False,False,False,NS00047190
-True,True,True,True,NS00028034
-True,False,False,False,NS00021031
-True,False,False,False,NS00017059
-True,False,False,False,NS00014345
-True,True,False,False,NS00066742
-True,False,False,False,NS00011982
-True,True,True,True,NS00053129
-True,True,True,True,NS00054686
-True,True,True,True,NS00024107
-True,False,False,False,NS00016936
-True,False,False,False,NS00021741
-True,False,False,False,NS00072772
-True,False,False,False,NS00003162
-True,True,False,False,NS00052373
-True,True,True,True,NS00064773
-True,True,True,True,NS00004520
-True,False,False,False,NS00063557
-True,True,True,True,NS00014730
-True,True,False,False,NS00059184
-True,False,False,False,NS00070325
-True,True,True,True,NS00048063
-True,True,False,False,NS00071254
-True,False,False,False,NS00019894
-True,True,True,True,NS00048061
-True,False,False,False,NS00069911
-True,True,True,True,NS00021751
-True,False,False,False,NS00022701
-True,False,False,False,NS00049274
-True,True,True,True,NS00076456
-True,False,False,False,NS00102499
-True,True,False,False,NS00036667
-True,False,False,False,NS00077598
-True,False,False,False,NS00012001
-True,False,False,False,NS00056266
-True,True,False,False,NS00033946
-True,False,False,False,NS00023026
-True,False,True,True,NS00040412
-True,True,True,True,NS00030859
-True,True,False,False,NS00027832
-True,True,True,True,NS00027511
-True,True,False,False,NS00053126
-True,False,False,False,NS00048949
-True,False,False,False,NS00015181
-True,False,False,False,NS00004801
-True,True,False,False,NS00027607
-True,False,False,False,NS00037638
-True,False,False,False,NS00046299
-True,False,False,False,NS00033036
-True,False,False,False,NS00080124
-True,True,False,False,NS00052660
-True,True,True,True,NS00103389
-True,True,True,True,NS00068839
-True,False,False,False,NS00114099
-True,True,True,True,NS00014365
-True,False,False,False,NS00059454
-True,False,False,False,NS00029279
-True,False,False,False,NS00030589
-True,False,False,False,NS00000805
-True,True,False,False,NS00036641
-True,False,False,False,NS00009834
-True,True,False,False,NS00010558
-True,False,False,False,NS00007234
-True,True,True,True,NS00049006
-True,True,True,True,NS00044317
-True,True,True,True,NS00050143
-True,True,False,False,NS00096856
-True,False,False,False,NS00057050
-True,True,True,True,NS00039671
-True,False,False,False,NS00006269
-True,False,False,False,NS00088225
-True,True,False,False,NS00048020
-True,False,False,False,NS00040096
-True,False,False,False,NS00009076
-True,True,True,True,NS00026200
-True,True,False,False,NS00052091
-True,True,True,True,NS00002463
-True,True,False,False,NS00029450
-True,False,False,False,NS00000013
-True,False,False,False,NS00034804
-True,True,True,True,NS00102608
-True,True,True,True,NS00014783
-True,False,False,False,NS00023612
-True,True,True,True,NS00059957
-True,True,True,True,NS00081944
-True,True,False,False,NS00066733
-True,True,True,True,NS00075477
-True,False,False,False,NS00044904
-True,True,True,True,NS00103571
-True,False,False,False,NS00028023
-True,True,True,True,NS00056429
-True,True,True,True,NS00043335
-True,True,False,False,NS00048953
-True,False,False,False,NS00055940
-True,True,True,True,NS00103380
-True,False,False,False,NS00023594
-True,False,False,False,NS00064794
-True,False,False,False,NS00012091
-True,False,False,False,NS00055847
-True,True,True,True,NS00028837
-True,False,False,False,NS00015160
-True,True,False,False,NS00012584
-True,True,False,False,NS00039579
-True,True,False,False,NS00082988
-True,False,False,False,NS00054423
-True,True,False,False,NS00104010
-True,False,True,True,NS00014579
-True,False,False,False,NS00076873
-True,False,False,False,NS00032614
-True,True,False,False,NS00076853
-True,False,False,False,NS00064402
-True,True,True,True,NS00103542
-True,False,False,False,NS00056741
-True,True,True,True,NS00032293
-True,True,True,True,NS00024563
-True,False,False,False,NS00034129
-True,True,False,False,NS00033390
-True,False,True,True,NS00022928
-True,False,False,False,NS00033773
-True,True,False,False,NS00030218
-True,True,False,False,NS00077503
-True,True,True,True,NS00008981
-True,False,False,False,NS00025400
-True,True,True,True,NS00025391
-True,True,False,False,NS00041923
-True,True,False,False,NS00044849
-True,False,True,True,NS00013138
-True,True,False,False,NS00044380
-True,False,False,False,NS00012911
-True,False,False,False,NS00025394
-True,False,False,False,NS00070904
-True,False,False,False,NS00024781
-True,True,False,False,NS00023584
-True,False,False,False,NS00030446
-True,True,True,True,NS00015352
-True,False,False,False,NS00020598
-True,False,False,False,NS00027843
-True,False,False,False,NS00019931
-True,False,False,False,NS00001427
-True,False,True,True,NS00013937
-True,False,False,False,NS00047631
-True,True,True,True,NS00014791
-True,False,False,False,NS00032500
-True,True,True,True,NS00033464
-True,True,True,True,NS00021917
-True,True,False,False,NS00077004
-True,True,True,True,NS00042621
-True,True,True,True,NS00068215
-True,True,False,False,NS00072199
-True,True,False,False,NS00024349
-True,True,True,True,NS00030917
-True,True,False,False,NS00103580
-True,False,False,False,NS00055049
-True,False,False,False,NS00063633
+Liver,Muscle,Other,Egg,id
+True,False,False,False,2-Butoxyethyl butyrate
+True,False,False,False,Barverin
+True,True,False,False,"Exo-3-(3,3-dimethylbicyclo[2.2.1]hept-2-yl)acrylic acid"
+True,False,True,True,M-Toluamide
+True,False,False,False,1-(Benzyl)pyrrolidin-3-ol
+True,False,False,False,"1,3,4-Trihydroxy-5-(phosphonomethyl)cyclohexane-1-carboxylic acid"
+True,True,False,False,4-Tetradecyne
+True,True,False,False,"2-(6,10,10-Trimethylbicyclo[7.2.0]undeca-2,5-dien-2-yl)ethyl acetate"
+True,True,True,True,2-Ethoxy-1-methylethyl acetate
+True,False,False,False,2-Methylbutylamine
+True,False,True,True,"Acetic acid, sulfo-"
+True,False,False,False,Trazeolide
+True,False,False,False,"2,2'-(2,4-Dioxo-1,3-diazetidine-1,3-diyl)bis[4-isocyanato-5-methylbenzenesulphonic] acid"
+True,True,True,True,"Trans-2-bromomethyl-1,3-dioxolane-4-methanol"
+True,False,False,False,"Ethanamine, N-ethyl-N-methyl-"
+True,True,False,False,"2-{2-[3-(Dimethylamino)prop-1-en-1-yl]-4-fluorobenzenesulfonamido}-5,6,7,8-tetrahydronaphthalene-1-carboxylic acid"
+True,False,False,False,"4-Hydroxy-1,2,5-Thiadiazole-3-Carboxylic Acid"
+True,False,False,False,Chrysophanic acid-9-anthrone
+True,False,False,False,Ethyl 4-hydroxypiperidine-1-carboxylate
+True,False,False,False,3-((2-Hydroxyethyl)amino)propanol
+True,True,True,True,"5,6,7,7A-tetrahydro-4,4,7a-trimethylbenzofuran-2(4H)-one"
+True,False,False,False,"3,4,5-Trihydroxy-n-(6-hydroxy-2-oxoazepan-3-yl)-2-methoxy-8,8-dimethylnon-6-enamide"
+True,False,False,False,"1-Anilino-2-methyl-9,10-anthraquinone"
+True,True,False,False,"N-(5-Isopropyl-1,3,4-thiadiazol-2-yl)-p-toluenesulphonamide"
+True,False,False,False,"5-(3,3-Dimethyloxiranyl)-3-methylpent-2-en-1-yl acetate"
+True,True,True,True,"2-Propanamine, 2-methyl-1-(methylthio)-"
+True,True,True,True,"Benzenamine, N,N-diethyl-2-methyl-"
+True,False,False,False,"3,3'-Sulphonyldipropionic acid"
+True,False,True,True,"9-(2-Carboxyphenyl)-3,6-bis(ethylamino)-2,7-dimethylxanthylium perchlorate"
+True,True,True,True,"2,2-Dimethyl-1-phenylpentan-3-ol"
+True,False,False,False,(Allyloxy)benzyl alcohol
+True,True,True,True,"21-(β-D-Glucopyranosyloxy)pregn-4-ene-3,20-dione"
+True,True,False,False,(2-Nitrophenyl)acetonitrile
+True,True,True,True,2-(2-Methoxyphenyl)acetamide
+True,True,False,False,"3-(1,1-Dimethylethyl)-7,12-dioxaspiro(5.6)dodecane"
+True,True,False,False,2-Methylbicyclo[2.2.1]heptane-2-carboxylic acid
+True,True,True,True,"Acetic acid, 2-(dimethylamino)ethyl ester"
+True,True,True,True,Ethyl hydrazinoacetate hydrochloride
+True,True,True,True,1-Butyl-2-hydroxy-guanidine
+True,True,True,True,1-(Morpholin-4-yl)prop-2-en-1-one
+True,True,True,True,Imidazolyl-4-propylamine
+True,False,False,False,DL-threonine dihydrogen phosphate
+True,False,False,False,N-ethyl-1-isopropyl-2-methylcyclohexanecarboxamide
+True,False,True,True,"2,2'-[(2-Hydroxyethyl)imino]bisethyl 1,1'-diacetate"
+True,False,False,False,"1,1,1,2,2,3,3-Heptafluorohexane"
+True,True,True,True,3-[(4R)-4-(propan-2-yl)cyclohex-1-en-1-yl]propanal
+True,False,False,False,"3,4-Difluorobenzyl alcohol"
+True,False,False,False,Fluazuron
+True,True,False,False,3-Allyl-1-methyl-2-thioxoimidazolidin-4-one
+True,False,False,False,"3A,17,21-trihydroxy-5ß-pregnane-11,20-dione 3,21-di(acetate)"
+True,True,False,False,"1,1'-Methylenebis(2,4,6-trimethylbenzene)"
+True,False,False,False,4-(4-Methoxyphenyl)butan-1-ol
+True,True,False,False,Isobutylmethylxanthine
+True,False,False,False,2-(2-Methoxyphenyl)-2-(methylamino)cyclohexanone
+True,False,False,False,"(E,E,E)-2,7-dimethylocta-2,4,6-trienedial"
+True,False,False,False,Ethyltris(2-hydroxyethyl)ammonium ethyl sulphate
+True,False,False,False,"3-Ethyl-4,5-dihydro-2-methylthiazolium toluene-p-sulphonate"
+True,False,False,False,"4,5'-Dichloro-2'-hydroxychalcone"
+True,True,False,False,Alpha-Amylcinnamyl alcohol
+True,True,True,True,"7-Amino-1-methyl-5-phenyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one"
+True,True,False,False,Benzophenone
+True,False,False,False,7-Formylheptanoic acid
+True,True,False,False,Octahydro-4H-1-benzopyran-4-one
+True,True,False,False,3-Isopropoxycyclohex-2-en-1-one
+True,False,False,False,4-Isopropylpyridine
+True,True,False,False,2-Propen-1-yl 2-(cyclohexyloxy)acetate
+True,False,False,False,17Beta-Hydroxy-17-(3-hydroxy-1-propynyl)androst-4-ene-3-one
+True,True,False,False,"Disodium 4,4'-diaminostilbene-2,2'-disulphonate"
+True,False,True,True,4-Pyridinylacetone
+True,True,False,False,"2,6-Dideoxy-D-altrose"
+True,True,False,False,Piperazineethanol
+True,False,False,False,Glycopyrronium
+True,True,True,True,"Methyl (16ß,17a)-17-hydroxyyohimban-16-carboxylate"
+True,False,False,False,"Ketones, C12-branched"
+True,True,False,False,3-{2-[Di(propan-2-yl)amino]ethyl}-1H-indol-4-ol
+True,False,False,False,6-Aminonaphthalene-2-sulfonic acid
+True,True,False,False,"Disodium 5,5'-azodisalicylate"
 True,False,False,False,NS00047786
-True,True,False,False,NS00001272
-True,False,False,False,NS00012768
-True,True,False,False,NS00005230
-True,True,False,False,NS00010302
-True,True,True,True,NS00079461
-True,True,True,True,NS00035281
-True,False,False,False,NS00015218
-True,False,False,False,NS00026351
-True,False,False,False,NS00026488
-True,True,True,True,NS00049346
-True,False,True,True,NS00113898
-True,False,False,False,NS00032813
-True,True,True,True,NS00064092
-True,True,True,True,NS00025204
-True,False,False,False,NS00034756
-True,False,False,False,NS00014936
-True,False,True,True,NS00034864
-True,False,True,True,NS00023917
-True,True,True,True,NS00014420
-True,False,False,False,NS00068083
-True,True,True,True,NS00006341
-True,True,False,False,NS00022518
-True,True,False,False,NS00076590
-True,True,True,True,NS00027561
-True,False,True,True,NS00035263
-True,False,True,True,NS00034814
-True,False,False,False,NS00022082
-True,False,False,False,NS00025478
-True,False,False,False,NS00012837
-True,False,True,True,NS00113895
-True,True,False,False,NS00064578
-True,True,False,False,NS00030032
-True,False,False,False,NS00028889
-True,False,False,False,NS00079088
-True,False,False,False,NS00053128
-True,False,False,False,NS00045669
-True,True,True,True,NS00012669
-True,True,True,True,NS00042372
-True,False,False,False,NS00045951
-True,False,False,False,NS00052916
-True,True,True,True,NS00009497
-True,True,False,False,NS00071142
-True,False,True,True,NS00032584
-True,True,True,True,NS00028987
-True,True,False,False,NS00073628
-True,False,False,False,NS00049683
-True,False,False,False,NS00006736
-True,False,False,False,NS00015216
-True,False,False,False,NS00012541
-True,True,True,True,NS00004169
-True,False,False,False,NS00010331
-True,True,False,False,NS00050314
-True,False,False,False,NS00093238
-True,True,True,True,NS00039361
-True,True,True,True,NS00001071
-True,True,True,True,NS00032963
-True,False,False,False,NS00010315
-True,True,False,False,NS00037018
-True,True,False,False,NS00043834
-True,True,False,False,NS00065488
-True,True,False,False,NS00046310
-True,True,True,True,NS00103703
-True,True,True,True,NS00049140
-True,True,True,True,NS00010307
-True,False,False,False,NS00006565
-True,True,True,True,NS00061305
-True,False,False,False,NS00006232
-True,True,False,False,NS00011960
-True,True,False,False,NS00035117
-True,True,True,True,NS00070100
-True,False,False,False,NS00003151
-True,True,False,False,NS00027586
-True,True,True,True,NS00014224
-True,True,False,False,NS00025205
-True,False,False,False,NS00021167
-True,False,True,True,NS00114025
-True,True,True,True,NS00012989
-True,True,False,False,NS00113914
-True,True,False,False,NS00004731
-True,False,False,False,NS00103955
-True,False,False,False,NS00046549
-True,True,True,True,NS00009579
-True,True,True,True,NS00033076
-True,True,True,True,NS00093006
-True,False,True,True,NS00113948
-True,True,True,True,NS00029444
-True,True,True,True,NS00042057
-True,False,False,False,NS00011524
-True,True,True,True,NS00054975
-True,False,False,False,NS00031118
-True,False,False,False,NS00015484
-True,False,False,False,NS00010557
-True,False,False,False,NS00048610
-True,True,True,True,NS00026810
-True,True,False,False,NS00059781
-True,False,False,False,NS00091144
-True,False,False,False,NS00035988
-True,True,False,False,NS00044980
-True,False,False,False,NS00010330
-True,False,False,False,NS00097284
+True,False,False,False,"Benzene, 1,1'-(3-methyl-1-propene-1,3-diyl)bis-"
+True,True,False,False,"5,5-Dimethyl-1,3-bis(oxiranylmethyl)imidazolidine-2,4-dione"
+True,True,False,False,(Carboxymethyl)dodecyldimethylammonium chloride
+True,True,False,False,2-Hydroxyethyl cyclohexanecarboxylate
+True,False,False,False,Witisol
+True,False,False,False,Norgesterone
+True,True,False,False,(R)-[2-chloro-1-(4-hydroxyphenyl)-2-oxoethyl]ammonium chloride
+True,False,False,False,"5,5'-Bis-1H-tetrazole diammonium salt"
+True,True,True,True,"Propanamide, 3,3'-dithiobis[N-octyl-"
+True,True,True,True,Salicylanilide
+True,True,False,False,"Tetradecanoic acid, 2,3-dihydroxypropyl ester"
+True,False,False,False,"(2S,4aR,4bS,6aS,7aS,8aS,8bS,10aR)-2,10a-Dihydroxy-4a,6a-dimethyl-2,3,4,4a,4b,5,6,6a,7a,8,8a,8b,8c,10a-tetradecahydrocyclopropa[4,5]cyclopenta[1,2-a]phenanthren-7(1H)-one"
+True,False,False,False,Vinyl isobutyrate
+True,False,False,False,Methyl 2-phenylbutyrate
+True,True,True,True,"[3AS-(3aa,4a,6aa)]-1,3-dibenzyltetrahydro-4-hydroxy-4-(3-methoxypropyl)-1H-thieno[3,4-d]imidazol-2(3H)-one"
+True,True,False,False,C.I. Disperse Red 19
+True,True,True,True,"1,1-Diethylguanidine hydrochloride"
+True,True,False,False,Dimethenamid M31
+True,False,False,False,"9,10-EPOXYSTEARIC ACID"
+True,True,False,False,Isopimaric acid
+True,False,False,False,4-Nitro-3-phenyl-L-alanine
+True,True,True,True,Hydrolyzed Cephalothin
+True,True,True,True,3-(P-Aminophenyl)propionic acid
+True,False,False,False,"2-Thiophenecarboxylic acid, 3-(isocyanatosulfonyl)-, methyl ester"
+True,False,False,False,"3-Hydroxy-2,2-dimethyl-3-({2-[(2-sulfanylethyl)carbamoyl]ethyl}carbamoyl)propyl 2,2-dimethylpropanoate"
+True,False,False,False,"2,3-Dihydro-1H-pyrrolo(1,2-a)benzimidazole"
+True,True,True,True,5-Methylisoquinoline
+True,False,False,False,Pivalanilide
+True,False,False,False,"1,1,12,12-Dodecanetetracarboxylic acid"
+True,True,True,True,Buquinolate
+True,True,False,False,"2,2-Dimethyl-3-oxopropyl isobutyrate"
+True,True,True,True,3-Oxobutanamide
+True,False,False,False,N-(2-hydroxyethyl)-N'-{1-methyl-1-[3-(1-methylethenyl)phenyl]ethyl}urea
+True,True,False,False,Sodium 3-carboxylato-1-[2-hydroxy-3-[4-(hydroxysulphonatomethyl)phenoxy]propyl]pyridinium
+True,False,False,False,Ammonium 3-octyloxiran-2-octanoate
+True,False,False,False,2-(Tert-Butyl)-7-methylnaphthalene
+True,True,False,False,NS00079357
+True,False,False,False,N-[(1-chloro-4-hydroxyisoquinolin-3-yl)carbonyl]glycine
+True,True,True,True,"Methanamine, N-(phenylmethylene)-"
+True,False,False,False,2-Chloro-6-methyl-aniline
+True,True,False,False,"(5A,8a,9a,11R*)-2,3-dichloro-11-(dimethylamino)-5,6,7,8,9,10-hexahydro-5,9-methanobenzocycloocten-8-ol hydrochloride"
+True,False,False,False,"(Octahydro-4,7-methano-1H-indenyl)methyl butyrate"
+True,True,True,True,Calcium nonan-1-oate
+True,True,False,False,(Dodecylbenzyl)dimethylsulphonium chloride
+True,True,True,True,"((2,2,8-Trimethyl-4H-1,3-dioxino(4,5-c)pyridin-5-yl)methyl) hydrogen succinate"
+True,True,False,False,"1-(8-Bromo-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b']difuran-4-yl)propan-2-amine"
+True,False,False,False,3-Methylpiperidin-2-one
+True,True,False,False,"Ethanone, 1-(4-butoxyphenyl)-"
+True,False,False,False,2-Nonylphenol
+True,True,True,True,"N,2-dimethylacrylamide"
+True,True,True,True,"1,2-Benzenedicarboxylic acid, methyl octyl ester"
+True,True,True,True,2-Fluoro-5-nitropyridine
+True,True,True,True,"Hexyl (2E,4Z)-2,4-decadienoate"
+True,True,False,False,Isoflupredone 21-acetate
+True,False,False,False,O-(1-Piperazinyl)phenol
+True,False,False,False,3-Hydroxy-4-methyl-5-propylfuran-2(5H)-one
+True,True,False,False,"(5R,6S)-5-Hydroxy-4-methoxy-6-(2-phenylethyl)-5,6-dihydro-2H-pyran-2-one"
+True,False,False,False,3-(Hydroxymethyl)piperidine-1-ethanol
+True,True,True,True,"8,9-Dichloro-2,3,4,5-tetrahydro-1H-2-benzazepine"
+True,True,False,False,1-(4-Nonylphenoxy)propan-2-ol
+True,False,False,False,3-Amino-N-(isopropyl)benzamide
+True,True,False,False,1-Ethyl-4-methylquinolinium toluene-p-sulphonate
+True,False,False,False,"1-Propanamine, N,2-dimethyl-"
+True,False,True,True,Clomol | Bimoclomol
+True,True,True,True,2-Phenylpropionaldehyde dimethyl acetal
+True,False,False,False,NS00048661
+True,False,False,False,2-Propoxyethylamine
+True,True,True,True,"1,4-Dihydro-1,4-methanonaphthalene"
+True,True,False,False,"2,​4-​Hexadienoic acid, 1-​methylethyl ester, (2E,​4E)​-"
+True,False,False,False,618-311-0
+True,False,False,False,NS00047939
+True,True,False,False,Dextroamphetamine
+True,False,True,True,Tiapamil hydrochloride
+True,False,False,False,"N,N,N',N'-tetramethylethylenediammonium bis(m-cresol-6-sulphonate)"
+True,True,False,False,"3,3'-Oxybis[tetrahydrothiophene] 1,1,1',1'-tetraoxide"
+True,True,False,False,"Benzamide, 4-methyl-3-nitro-"
+True,True,False,False,Beta(2-Thienyl)alanine
+True,False,False,False,1-[4-(Difluoromethoxy)phenyl]ethan-1-one
+True,True,True,True,N-(Phenylmethyl)glycine
+True,True,True,True,CJ-013790
+True,True,True,True,NS00041231
+True,True,True,True,Cyclarbamate [INN:BAN:DCF]
+True,True,True,True,Reboxetine
+True,True,False,False,Niflumic acid met 40 -491
+True,True,False,False,Phenyl cinnamate
+True,False,False,False,"N-Benzyl-2-(1,1,3-trioxo-1,3-dihydro-2H-1,2-benzisothiazol-2-yl)acetamide"
+True,True,True,True,(4-Aminophenylthio)acetic acid
+True,True,False,False,1-Methylheptyl (S)-4-[4-(hexyloxy)benzoyl]benzoate
+True,False,False,False,"Benzeneacetic acid, .alpha.-imino-3,4-dimethoxy-, ethyl ester, hydrochloride"
+True,False,True,True,Methyl 2-((2-oxo-2-phenylethyl)amino)benzoate
+True,False,False,False,"2-(2,4-Bis(1,1-dimethylpropyl)phenoxy)ethyl acrylate"
+True,False,False,False,"Propanedioic acid, bis(1,1-dimethylethyl) ester"
+True,False,False,False,"1,1,4,4-Tetramethyltetramethylene peroxypivalate"
+True,True,True,True,"3,5-Bis(1,1-Dimethylethyl)-2-Hydroxy-Benzoic Acid Aluminum Salt (1:1)"
+True,True,True,True,"1H-Pyrrole-2-methanamine, N,N,1-trimethyl-"
+True,True,True,True,"Methanediamine, N,N,N',N'-tetraethyl-"
+True,True,True,True,1-Nitro-2-carboxyanthraquinone
+True,False,True,True,"O,O'-(4,4'-Diaminobiphenyl-3,3'-ylene)di(glycollic acid)"
+True,False,False,False,[4-[[3-Chloro-4-[(2-cyanoethyl)amino]phenyl]azo]phenacyl]trimethylammonium chloride
+True,True,False,False,"3,7-Dimethyloct-6-enyl 5-oxo-DL-prolinate"
+True,False,False,False,Dibenzo-p-dioxin
+True,True,False,False,Santolina triene
+True,True,False,False,3-Benzyloxyaniline
+True,False,False,False,3-Pentanamine
+True,True,True,True,M-Nitrosotoluene
+True,False,False,False,"Benzoic acid, 2-[(octadecylamino)carbonyl]-, monosodium salt"
+True,False,False,False,Diethyl[2-[3-(p-methoxyphenyl)-2-phenylpropionyloxy]ethyl]ammonium chloride
+True,True,False,False,3-Fluoromethcathinone
+True,True,False,False,"Phosphoric acid, dioctyl ester, sodium salt"
+True,False,False,False,"Benzeneethanol, .alpha.-methyl-, 1-acetate"
+True,False,False,False,"Trans-(±)-2,4-dimethyl-2-phenyl-1,3-dioxolane"
+True,False,True,True,"Acetamide, N-(5-((phenylmethyl)thio)-1,3,4-thiadiazol-2-yl)-"
+True,True,True,True,"Benzene, (3,3-dimethoxy-1-propenyl)-, monohexyl deriv."
+True,True,False,False,"2,5-Dimethyl-1-(2-thienylmethyl)pyrrole-3-carboxylic acid"
+True,False,True,True,N-(3-Chloropropyl)dibutylamine
+True,False,False,False,Ethyl 4-aminopiperidine-1-carboxylate
+True,False,False,False,4-(3-Chlorophenyl)piperazine-1-carbaldehyde
+True,False,False,False,"1,1'-(1,4-Cyclohexadiene-1,4-diyl)bisethan-1-one"
+True,True,False,False,"N-[[5-(dimethylamino)-1-naphthyl]sulphonyl]-L-tyrosine, compound with cyclohexylamine (1:1)"
+True,False,False,False,2-Amino-3-diethoxyphosphoryloxy-propanoic
+True,True,True,True,"Acetic acid, (4-octylphenoxy)-"
+True,True,False,False,"5-Ethyl-5-phenylbarbituric acid, compound with 1,2-dihydro-4-isopropyl-1,5-dimethyl-2-phenyl-3H-pyrazol-3-one (1:1)"
+True,True,True,True,Carbamazepine dihydrate
+True,True,False,False,1-Cyclohexylethyl butyrate
+True,False,False,False,Merimepodib
+True,True,True,True,Ethyl (E)-hept-4-enoate
+True,True,True,True,"2-Pentanone, 4-methyl-4-(methylthio)-"
+True,True,False,False,"Dihydro-3-tetradecylfuran-2,5-dione"
+True,False,False,False,"Cis-1,2,3,3a,4,6a-hexahydropentalene"
+True,False,False,False,"(5ß)-3ß,14-Dihydroxycardanolide"
+True,True,True,True,"TP1/1,2-Ethanediamine, N,N,N',N'-tetraethyl-"
+True,False,False,False,5-Methoxy methylone
+True,False,False,False,1-Carboxyethyl butyrate
+True,True,True,True,"2,2-Bis(hydroxymethyl)butyl decanoate"
+True,True,True,True,"(3-Hydroxy-2,2-dimethoxy)propyl dihydrogen phosphate"
+True,True,True,True,Pentaethylene glycol
+True,True,True,True,"1,7-Dihydro-5-methyl-7-oxo-1,2,4-triazolo[1,5-a]pyrimidine-2-carboxylic acid"
+True,True,True,True,"Phenol, 4-(pentyloxy)-"
+True,True,False,False,"3,5-Dimethyl-1-hexyn-3-ol"
+True,False,False,False,"Tert-butyl (S)-[2-[(2,5-dioxo-1-pyrrolidinyl)oxy]-1-(1H-indol-3-ylmethyl)-2-oxoethyl]carbamate"
+True,False,False,False,"Sodium 1,3-benzodioxole-5-sulphonate"
+True,True,True,True,Pentyl methacrylate
+True,True,False,False,4-Hydroxy-alpha-(4-hydroxynaphthyl)-alpha-phenylnaphthalene-1-methanol
+True,False,False,False,"Ethanone, 1-(4-methyl-2-pyrimidinyl)-"
+True,True,False,False,5-Methyl-1H-4-carboxylic acid
+True,False,False,False,Sodium N-myristoyl-DL-serinate
+True,True,True,True,"4-Imidazolidinone, 1-ethyl-3-methyl-2-thioxo-"
+True,True,True,True,"TP1/1,2-Epoxydodecane"
+True,True,False,False,"2,4-Dimethyl-2-[1-methyl-2-(2,6,6-trimethyl-2-cyclohexen-1-yl)vinyl]-1,3-dioxolane"
+True,False,False,False,NS00063113
+True,False,False,False,3-(Perfluorodecyl)-2-hydroxypropyl dihydrogen phosphate
+True,True,True,True,3-[(1S)-1-(methylamino)ethyl]phenol
+True,False,False,False,Methyl 3-aminobut-2-enoate
+True,True,True,True,Visnagin
+True,True,True,True,"(4R)-7aza-7,8-Dihydrolimonene"
+True,True,False,False,TP1/Dipropyl oxalate
+True,True,False,False,3-Methyl-5-[[4-[(4-sulphophenyl)azo]phenyl]azo]salicylic acid
+True,True,True,True,"Di-tert-butyl (2S,3E)-3-[(dimethylamino)methylene]-4-oxopyrrolidine-1,2-dicarboxylate"
+True,True,True,True,Elacytarabine
+True,True,True,True,"[4-(Dimethylamino)phenyl](1,2,3,4-tetrahydroquinolin-1-yl)methanone"
+True,True,True,True,"Sodium [(9,10-dihydro-1,4-dihydroxy-9,10-dioxo-2-anthryl)amino]benzenesulphonate"
+True,True,True,True,"2,4,4-Trimethyl-2-pentanamine"
+True,True,False,False,Geranyl octanoate
+True,True,True,True,"Octanamide, N,N-diethyl-"
+True,False,False,False,"4-Methyl-4-phenyl-1,3-dioxane"
+True,True,True,True,2-Pyridinecarboxamide
+True,False,False,False,Benzenesulfonyl fluoride
+True,False,False,False,P-propoxyphenyl trans-4-pentylcyclohexanecarboxylate
+True,True,False,False,(Z)-octadec-6-enoic acid
+True,True,True,True,NS00063165
+True,True,False,False,"Cyclohexane-&lt;U+0394&gt;1,ß-ethylamine"
+True,True,True,True,2-Mercaptoethyl octanoate
+True,False,False,False,ß-Pilocarpine
+True,True,True,True,4-Aminopentan-1-ol
+True,True,True,True,"Tetrahydro-4-isopropyl-5,5-dimethyl-1H-pyrimidin-2-one"
+True,False,False,False,Scorpioidine
+True,True,True,True,"7,8-Dimethoxyoct-1-ene"
+True,True,True,True,5-APDB
+True,False,False,False,"4-Methyl-2-phenyl-1,3-dioxane"
+True,False,False,False,"5'-Fluoro-2',5'-Dideoxyadenosine"
+True,False,False,False,NS00052445
+True,True,False,False,6-Methyl-5-hepten-2-one
+True,False,False,False,6-Amino-1-isobutyl-3-methyl-5-nitrosouracil
+True,True,True,True,"2-(Hydroxymethyl)-2-(oxazolidin-2-yl)propane-1,3-diol"
+True,True,False,False,Methyl 6-methylcyclohex-3-ene-1-carboxylate
+True,True,False,False,"Tetrahydro-5-propyl-1,3,5-triazin-2(1H)-one"
+True,True,False,False,Phenylsuccinic acid
+True,True,False,False,Sodium nonan-1-oate
+True,False,False,False,Tipelukast
+True,True,True,True,N-(2-Aminoethyl)glycine
+True,True,False,False,Epelsiban
+True,True,False,False,Tetrazepam
+True,True,False,False,Carboxyglutamic acid
+True,True,True,True,"4-(1H-imidazol-4-ylmethyl)oxazolidine-2,5-dione"
+True,False,False,False,"10-Undecenoic acid, 2-methylpropyl ester"
+True,True,False,False,"Naphthalene-1,6-dicarboxylic acid"
+True,False,False,False,"3-(2-Amino-4,5,6,8-tetrahydro-4,6-dioxopteridin-7(3H)-ylidene)-2-oxopropionic acid"
+True,True,True,True,Octyl Beta-D-Galactopyranoside
+True,False,False,False,"2,4-Dimethylaniline"
+True,True,False,False,"1-Methyl-2,3,5,5a,12b,12c-hexahydro-10H-[1,3]dioxolo[6,7][2]benzopyrano[3,4-g]indol-7(1H)-one (Masonine)"
+True,False,True,True,4-Benzyl hydrogen N-(tert-butoxycarbonyl)-L-aspartate
+True,True,True,True,2-(Phenylimino)oxazolidine-3-ethanol
+True,False,False,False,"Benzenemethanamine, 4-methyl-"
+True,False,False,False,5-Hepe
+True,True,True,True,Ethyl 3-(bicyclo[2.2.1]hept-5-en-2-yl)-2-cyanoacrylate
+True,False,False,False,"3-(Isopropylamino)propane-1,2-diol"
+True,True,False,False,4-[(4-Aminophenyl)amino]benzenediazonium hydrogen sulphate
+True,False,False,False,2-({4-[(2-Cyanoethyl)(ethyl)amino]phenyl}diazenyl)-5-nitrobenzonitrile
+True,False,False,False,"1,6,8,12-Tetradecatetraen-5-one, 9,13-dimethyl-"
+True,True,True,True,"2,4-Diaminobutyric acid"
+True,False,False,False,Diethyl (phenylmethylene)malonate
+True,False,False,False,3-Hydroxycarbofuran
+True,False,False,False,"2,5-Dibutoxyaniline"
+True,True,True,True,Sodium hydroxybenzenesulphonate
+True,False,False,False,".Beta.-Alanine, N-[5-(acetylamino)-2-methoxyphenyl]-N-[2-(acetyloxy)ethyl]-, methyl ester"
+True,True,True,True,"Octahydro-4,7-methano-1H-indenecarboxylic acid"
+True,True,False,False,"4-Isopropyl-1,3-cyclohexanedione"
+True,False,False,False,"8-Hydroxy-2,2,14,14-tetramethylpentadecanedioic acid"
+True,True,True,True,2-[(4-Methoxy-2-nitrophenyl)azo]acetoacetanilide
+True,True,False,False,"TP1/1,4-Butanediol diacrylate"
+True,False,False,False,Lithium butylnaphthalenesulphonate
+True,True,False,False,"TP1/3a,4,5,6,7,7a-Hexahydro-4,7-methano-1H-inden-5-yl isobutyrate"
+True,True,True,True,Tyrphostin 8
+True,True,True,True,"2H-1-Benzopyran-2-carboxylic acid, 3,4-dihydro-6-hydroxy-2,5,7,8-tetramethyl-"
+True,True,True,True,"1,1-Dimethoxy-3-phenylpropane"
+True,False,False,False,Dinex
+True,False,False,False,6-Phenylundecane
+True,False,False,False,"Benzene, (2,2-diethoxyethoxy)-"
+True,True,False,False,(E)-hex-2-enyl lactate
+True,False,False,False,4-(4-Methylpenten-3-yl)cyclohex-3-ene-1-methanol
+True,False,True,True,4-[(6-Hydroxy-5-nitro-m-tolyl)azo]-3-methyl-1-phenyl-2-pyrazolin-5-one
+True,False,False,False,8-Quinolyl methacrylate
+True,True,False,False,Dipropylene glycol diglycidyl ether
+True,False,False,False,"3-(4-Ethylphenyl)-2,2-dimethylpropanal"
+True,False,False,False,"Butanamide, N-(2,4-dimethoxyphenyl)-3-oxo-"
+True,False,False,False,9H-Fluorene-9-carboxylic acid
+True,False,False,False,"6-Ethyl-1,3,4,6,7,8-hexahydro-4,6,8,8-tetramethylcyclopenta[g]-2-benzopyran"
+True,True,True,True,Glycerol monolactate
+True,False,False,False,Nitrofurazone
+True,True,True,True,Lithium 5-oxo-DL-prolinate
+True,False,False,False,"1-({2-[2-(4-Chlorophenyl)ethyl]-1,3-dioxolan-2-yl}methyl)-1h-imidazole"
+True,True,True,True,"2-Ethyl-7-hydroxy-1,2-benzisoxazole tetrafluoroborate"
+True,False,False,False,N-Cyclohexyl-N'-[2-(4-morpholinyl)ethyl]thiourea
+True,False,False,False,"4'-Chloro-2',5'-dimethoxyacetoacetanilide"
+True,False,False,False,N-Methyl-D-aspartic acid
 True,True,False,False,NS00077407
-True,False,False,False,NS00013935
-True,True,True,True,NS00078848
-True,True,False,False,NS00009432
-True,True,False,False,NS00047877
-True,False,False,False,NS00022530
-True,False,False,False,NS00005040
-True,True,False,False,NS00055801
-True,False,True,True,NS00003596
-True,True,True,True,NS00028851
-True,True,False,False,NS00042805
-True,True,False,False,NS00088679
-True,True,True,True,NS00060652
-True,True,True,True,NS00046367
-True,False,False,False,NS00024330
-True,True,False,False,NS00028058
-True,True,True,True,NS00009989
-True,False,False,False,NS00053538
-True,True,True,True,NS00033183
-True,False,False,False,NS00025505
-True,True,False,False,NS00016530
-True,True,True,True,NS00012626
-True,False,False,False,NS00004773
-True,True,True,True,NS00066302
-True,False,False,False,NS00009512
-True,True,False,False,NS00070410
-True,False,False,False,NS00023022
-True,True,False,False,NS00102480
-True,True,False,False,NS00035434
-True,True,False,False,NS00018018
-True,True,True,True,NS00055559
-True,True,True,True,NS00045407
-True,False,False,False,NS00027987
-True,False,False,False,NS00039346
-True,False,False,False,NS00051789
-True,True,True,True,NS00027804
-True,False,False,False,NS00005225
-True,False,False,False,NS00057825
-True,False,False,False,NS00001574
-True,True,True,True,NS00043586
-True,False,False,False,NS00006799
-True,True,True,True,NS00033412
-True,False,False,False,NS00091256
-True,False,True,True,NS00022361
-True,True,True,True,NS00031368
-True,False,False,False,NS00012262
-True,True,True,True,NS00056967
-True,True,False,False,NS00080808
-True,True,False,False,NS00029599
-True,True,True,True,NS00101077
-True,True,False,False,NS00038193
-True,True,False,False,NS00013685
-True,False,False,False,NS00023166
-True,False,False,False,NS00023619
-True,True,True,True,NS00032465
-True,False,False,False,NS00008896
-True,True,False,False,NS00021147
-True,False,False,False,NS00114073
-True,False,False,False,NS00013166
-True,True,False,False,NS00021885
-True,True,True,True,NS00002612
-True,False,False,False,NS00070648
-True,True,False,False,NS00080269
-True,True,False,False,NS00093005
-True,True,True,True,NS00080659
-True,False,True,True,NS00023262
-True,True,False,False,NS00042695
-True,False,False,False,NS00036091
-True,False,False,False,NS00097335
-True,True,False,False,NS00043845
-True,False,False,False,NS00001078
-True,True,True,True,NS00040020
-True,True,False,False,NS00061496
-True,True,False,False,NS00024755
-True,True,True,True,NS00015772
-True,True,True,True,NS00055981
-True,True,True,True,NS00077713
-True,True,False,False,NS00057162
-True,True,True,True,NS00042224
-True,True,True,True,NS00059241
-True,True,False,False,NS00102971
-True,False,False,False,NS00025890
-True,True,False,False,NS00014330
-True,True,True,True,NS00055484
-True,False,False,False,NS00059976
-True,False,False,False,NS00062415
-True,True,False,False,NS00062676
-True,True,False,False,NS00020044
-True,True,True,True,NS00040730
-True,True,False,False,NS00039585
-True,True,True,True,NS00008227
-True,True,True,True,NS00077846
-True,True,True,True,NS00051748
-True,True,False,False,NS00015523
-True,True,True,True,NS00009745
-True,False,True,True,NS00015000
-True,False,False,False,NS00035568
-True,False,False,False,NS00002164
-True,True,True,True,NS00039110
-True,False,False,False,NS00043408
-True,False,False,False,NS00027047
-True,False,False,False,NS00023294
-True,True,True,True,NS00103541
-True,True,False,False,NS00058028
-True,False,False,False,NS00021830
-True,True,False,False,NS00056124
-True,True,True,True,NS00004755
-True,True,False,False,NS00006972
-True,False,False,False,NS00020905
-True,False,False,False,NS00017994
-True,False,False,False,NS00027132
-True,False,False,False,NS00061609
-True,True,True,True,NS00030811
-True,True,False,False,NS00064939
-True,True,False,False,NS00038185
-True,True,False,False,NS00013790
-True,False,False,False,NS00046659
-True,True,False,False,NS00013132
-True,False,False,False,NS00091494
-True,False,False,False,NS00012134
-True,True,False,False,NS00085087
-True,True,True,True,NS00044101
-True,True,True,True,NS00099351
-True,True,False,False,NS00004166
-True,False,False,False,NS00024555
-True,False,False,False,NS00081756
-True,False,False,False,NS00065189
-True,True,True,True,NS00102518
-True,False,True,True,NS00028979
-True,False,False,False,NS00002453
-True,False,True,True,NS00069968
-True,False,False,False,NS00050647
-True,True,True,True,NS00041934
-True,True,True,True,NS00045249
-True,False,False,False,NS00023327
-True,True,True,True,NS00006719
-True,True,True,True,NS00044347
-True,False,False,False,NS00070474
-True,False,True,True,NS00046167
-True,False,False,False,NS00099796
-True,True,False,False,NS00017061
-True,True,False,False,NS00012800
-True,True,True,True,NS00051247
-True,True,False,False,NS00064390
-True,False,False,False,NS00003070
-True,True,False,False,NS00088895
-True,True,False,False,NS00067085
-True,True,False,False,NS00025632
-True,True,True,True,NS00103567
-True,True,False,False,NS00065112
-True,False,False,False,NS00054418
-True,False,False,False,NS00103038
-True,True,True,True,NS00033410
-True,True,True,True,NS00031374
-True,True,False,False,NS00012917
-True,False,False,False,NS00031996
-True,False,False,False,NS00011990
-True,False,False,False,NS00046184
-True,True,True,True,NS00024994
-True,True,True,True,NS00001002
-True,True,False,False,NS00059118
-True,False,False,False,NS00028141
-True,True,True,True,NS00050353
-True,False,False,False,NS00069001
-True,False,False,False,NS00044602
-True,False,False,False,NS00048414
-True,False,False,False,NS00051570
-True,True,True,True,NS00002753
-True,False,False,False,NS00028374
-True,False,False,False,NS00010833
-True,False,False,False,NS00051531
-True,True,True,True,NS00050547
-True,True,True,True,NS00083296
-True,True,False,False,NS00038659
-True,True,True,True,NS00033822
-True,False,False,False,NS00070710
-True,True,True,True,NS00044587
-True,True,False,False,NS00076874
-True,False,False,False,NS00023003
-True,False,False,False,NS00102229
-True,False,False,False,NS00030716
-True,True,True,True,NS00004620
-True,False,False,False,NS00003395
-True,True,True,True,NS00044427
-True,False,False,False,NS00009255
-True,True,False,False,NS00065883
-True,True,False,False,NS00077181
-True,False,False,False,NS00041509
-True,True,False,False,NS00012386
-True,True,True,True,NS00025643
-True,True,False,False,NS00087821
-True,False,False,False,NS00102482
-True,True,True,True,NS00021506
-True,False,False,False,NS00017979
-True,False,False,False,NS00050197
-False,True,False,False,NS00036930
-False,True,True,True,NS00051397
-False,True,True,True,NS00058666
-False,True,True,True,NS00062585
-False,True,True,True,NS00030690
-False,True,False,False,NS00070778
-False,True,True,True,NS00024297
-False,True,False,False,NS00069929
-False,True,False,False,NS00094746
-False,True,True,True,NS00031994
-False,True,False,False,NS00006674
-False,True,True,True,NS00021517
-False,True,True,True,NS00003625
-False,True,True,True,NS00095876
-False,True,True,True,NS00044515
-False,True,False,False,NS00089130
-False,True,True,True,NS00056624
-False,True,True,True,NS00104065
-False,True,False,False,NS00055085
-False,True,True,True,NS00033354
-False,True,False,False,NS00068281
-False,True,True,True,NS00021527
-False,True,True,True,NS00080813
-False,True,True,True,NS00031226
-False,True,True,True,NS00058223
-False,True,False,False,NS00041502
-False,True,True,True,NS00020490
-False,True,False,False,NS00013811
-False,True,True,True,NS00001845
-False,True,False,False,NS00036583
-False,True,True,True,NS00102676
-False,True,True,True,NS00026979
-False,True,True,True,NS00003416
-False,True,True,True,NS00004207
-False,True,True,True,NS00049466
-False,True,True,True,NS00040067
-False,True,True,True,NS00005193
-False,True,False,False,NS00095740
-False,True,True,True,NS00036687
-False,True,False,False,NS00090452
-False,True,True,True,NS00094833
-False,True,True,True,NS00003987
-False,True,False,False,NS00044243
-False,True,True,True,NS00028483
-False,True,False,False,NS00008056
-False,True,False,False,NS00008068
-False,True,True,True,NS00061536
-False,True,True,True,NS00057997
-False,True,False,False,NS00082367
-False,True,True,True,NS00025828
-False,True,False,False,NS00050003
-False,True,True,True,NS00035999
-False,True,True,True,NS00050867
-False,True,True,True,NS00050341
-False,True,True,True,NS00012691
-False,True,True,True,NS00058022
-False,True,True,True,NS00012071
-False,True,False,False,NS00047355
-False,True,True,True,NS00046569
-False,True,False,False,NS00090410
-False,True,False,False,NS00025445
-False,True,True,True,NS00008322
-False,True,True,True,NS00076583
-False,True,False,False,NS00008124
-False,True,True,True,NS00055068
-False,True,True,True,NS00020601
-False,True,True,True,NS00048598
-False,True,False,False,NS00013982
-False,True,False,False,NS00024794
-False,True,False,False,NS00082596
-False,True,True,True,NS00102184
-False,True,False,False,NS00095159
-False,True,False,False,NS00031843
-False,True,True,True,NS00057952
-False,True,True,True,NS00103184
-False,True,True,True,NS00028475
-False,True,False,False,NS00073393
-False,True,False,False,NS00014541
-False,True,True,True,NS00094839
-False,True,True,True,NS00025607
-False,True,True,True,NS00027605
+True,True,True,True,"2,2,2-Tribromoethyl morpholinochlorophosphonate"
+True,False,False,False,"S-Triazine, 2,4-diamino-6-(3-pyridyl)- (8CI)"
+True,False,False,False,"Benzonitrile, 4-amino-"
+True,True,False,False,4-[2-[(Phenylmethyl)amino]propyl]- Phenol
+True,True,False,False,D-glucitol 1-(3-mercaptopropionate)
+True,True,True,True,Methyl N-(3-methoxy-3-oxopropyl)-N-methyl-ß-alaninate
+True,True,True,True,Chloramben
+True,True,False,False,Sodium 2-butyloctyl sulphate
+True,False,False,False,Tetrahydro-6-(2-pentynyl)-2H-pyran-2-one
+True,True,False,False,"6-Hydroxy-7-methyl-8-oxo-3-propyl-5,6,7,8-tetrahydro-1H-isochromen-7-yl 2-hydroxy-4-methoxy-6-methylbenzoate"
+True,False,False,False,TP1/Diisopropyl phthalate
+True,True,False,False,2-Norbornaneacetic acid
+True,True,False,False,TP1/2-Ethylhexyl methacrylate
+True,True,False,False,TP1/Ethyl nicotinate
+True,False,False,False,Calcium di(quinolin-8-olate)
+True,False,False,False,Methyl (E)-2-decen-4-ynoate
+True,True,False,False,L-Phenylalanine hydrochloride
+True,True,True,True,1-Aminocyclohexanecarbonitrile
+True,True,False,False,Allyl 6-hydroxyhexanoate
+True,True,True,True,1-Butylpyrrole
+True,False,False,False,4'-Methoxybutyrophenone
+True,False,False,False,Benzilic acid
+True,True,True,True,"N,N-Diisopropyl-p-toluidine"
+True,True,False,False,MB 46126
+True,False,False,False,"4,4-Diethoxybutanenitrile"
+True,False,False,False,2-Furfuryl isothiocyanate
+True,False,False,False,"Sodium 2,3-dihydro-2-methyl-6-(methylamino)-1,3-dioxo-1H-benz[de]isoquinoline-5-sulphonate"
+True,False,True,True,Trilithium 5-sulphonatoisophthalate
+True,False,True,True,Monobenzyl phthalate
+True,True,False,False,Sodium 2-methoxyethyl [(4-methylphenyl)sulphonyl]carbamate
+True,True,False,False,Butyl 4-oxopentanoate
+True,False,False,False,"1,1,2,3,3,3-Hexafluoro-N,N-bis(2-hydroxyethyl)-2-(trifluoromethyl)propane-1-sulphonamide"
+True,True,True,True,2-(Isopropylamino)ethanol
+True,False,False,False,2-Ethylaniline
+True,True,False,False,STA-5DC
+True,True,False,False,4-Vinylcyclohexene
+True,True,True,True,"2-[Ethyl[3-methyl-4-[(5-nitro-2,1-benzisothiazol-3-yl)azo]phenyl]amino]ethanol"
+True,False,False,False,Tripropyl borate
+True,True,True,True,BMPEA
+True,True,False,False,Cyclohexylamine
+True,True,True,True,"2-Ethyl-N,N-dimethylbutylamine"
+True,False,False,False,N-(2-Hydroxyethyl)-2-phenoxyacetamide
+True,True,False,False,TP3/2-(Dimethylamino)ethyl acrylate methochloride
+True,False,False,False,2-Methoxyethyl phenyl ether
+True,False,False,False,2-Chloro-4-nitrobenzamide
+True,True,False,False,4-Benzylideneaminophenol
+True,True,False,False,3-Chloro-2-nitrobenzoic acid
+True,True,True,True,Mercury bis(trifluoroacetate)
+True,False,False,False,"A-hydroxy-1,3-benzodioxole-5-acetic acid"
+True,False,False,False,"L-cystine S,S-dioxide"
+True,True,False,False,"2,3-Dihydro-1,4-benzodioxin-2-methylamine"
+True,True,False,False,N-Acetyl-m-toluidine
+True,False,False,False,"(5ß)-12,ß,14-Dihydroxy-3-oxocard-20(22)-enolide"
+True,False,False,False,Prostaglandin F2α 1-11-lactone
+True,True,False,False,"Disodium [[4-(acetylamino)phenyl]amino]amino-9,10-dihydro-9,10-dioxoanthracenedisulphonate"
+True,False,False,False,P-(1-(p-Pentylphenyl)vinyl)anisole
+True,False,False,False,Acyclovir
+True,True,False,False,1-Methyl-4-(1-methylvinyl)-7-oxabicyclo[4.1.0]heptane
+True,False,False,False,C.I. Pigment Orange 36
+True,True,True,True,"Naphtho[1,2-d]thiazol-2-amine"
+True,False,False,False,"10,11-Dihydro-5H-dibenzo[a,d]cyclohepten-5-one O-[2-(dimethylamino)ethyl]oxime monohydrochloride"
+True,True,False,False,N-ethyl-2-nitro-4-(trifluoromethyl)aniline
+True,False,False,False,"3,5-Dimethyl-1H-pyrazole-1-carboxamidine nitrate"
+True,True,True,True,"2,3-Dihydro-2,5,6-trimethylpyrazine"
+True,False,True,True,"4,4'-Dithiobisbutan-1-ol"
+True,False,False,False,METHYL  GLUCETH-10
+True,True,True,True,AKB48
+True,True,True,True,5-Imino-4-(2-trifluoromethyl-phenylazo)-5h-pyrazol-3-ylamine
+True,False,False,False,N-(Butoxymethyl)acrylamide
+True,True,True,True,1-[4-(Chlorocarbonyl)benzyl]-4- methylpiperazinediium dichloride
+True,True,True,True,3-Amino-4-hydroxybenzenesulphonamide sulphate
+True,True,False,False,"Citric acid, monoester with glycerol"
+True,True,False,False,"3,7-Dimethyl-6-octenyl 3,7-dimethyloct-6-enoate"
+True,False,False,False,Tetrahydrogestrinone
+True,False,False,False,"Octahydro-2,5-methano-2H-indeno[1,2-b]oxirenol"
+True,True,False,False,"Methyl 5,9-anhydro-2,4-dideoxy-D-glycero-D-gulo-dec-3-ulosonate"
+True,True,False,False,Methyl 2-ethyl-3-oxohexanoate
+True,True,True,True,"1,2,4-Triazolidin-3-one, 4-amino-5-thioxo-, hydrazone"
+True,False,False,False,Cumyl ethyl ether
+True,True,False,False,Metoclopramide
+True,True,False,False,1-(5-Bicyclo[2.2.1]hept-2-enyl)-3-[[4-(dimethylamino)benzoyl]amino]thiourea
+True,False,False,False,1-Phenylethyl propionate
+True,True,True,True,"2-(Phenylmethyl)-1,3-dioxolane-4-methanol"
+True,True,True,True,Ostruthin
+True,True,True,True,N-(5-hydroxy-2-methylphenyl)acetamide
+True,True,False,False,4-(3-Oxobutyl)phenyl 2-methylcrotonate
+True,True,False,False,TP1/9-Decen-2-one
+True,True,False,False,1-(Methoxymethyl)-1H-imidazole
+True,True,False,False,"Sodium 4-(4-((4-(hexyloxy)phenyl)azo)-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-1-yl)benzenesulphonate"
+True,False,False,False,Delapril
+True,False,False,False,Ipade
+True,False,False,False,N-(4-Butyl-3-hydroxyphenyl)acetamide
+True,False,False,False,N-Ethyl--N-(2-hydroxyethyl)perfluoroheptanesulfonamide
+True,True,True,True,Diflufenzopyr
+True,False,False,False,N-Ethyl-2-methylallylamine
+True,False,False,False,11-Aminoundecanoic acid
+True,True,True,True,"(2-Formamido-1,3-thiazol-4-yl)(oxo)acetic acid"
+True,True,False,False,"2,6-Dimethyl-8,8-bis(2-phenylethoxy)octan-2-ol"
+True,False,False,False,"[1S-(1a,3aß,4a,8aß,9S*)]-decahydro-4,8,8-trimethyl-1,4-methanoazulene-9-methyl acetate"
+True,True,True,True,TP2/Bis(2-(2-ethoxyethoxy)ethyl) phthalate
+True,True,True,True,"Tricyclo(3.3.1.1'3,7)decane-1-carboxylic acid"
+True,True,True,True,(2-Neopentylallyl)succinic acid
+True,False,False,False,Dihydrocapsaicine
+True,True,True,True,Butyl N-acetylglycinate
+True,True,False,False,Leucylproline
+True,True,False,False,"1,10-Phenanthroline, 5-phenyl-"
+True,False,False,False,"Benzenemethanol, 3-amino- (9CI)"
+True,True,True,True,"2-Ethyl-5,6-dihydro-3-methylpyrazine"
+True,False,False,False,Erythrartine
+True,False,False,False,5-Phenylvaleric acid
+True,True,False,False,"Propanedioic acid, diethyl-"
+True,True,True,True,"Ethyl (3R,4R,5S)-4-acetamido-5-azido-3-(pentan-3-yloxy)cyclohex-1-ene-1-carboxylate"
+True,True,True,True,1-(Benzyl)-2-(nitromethylene)pyrrolidine
+True,True,True,True,Hex-5-enal
+True,False,False,False,3-[(Acetyloxy)methyl]-8-oxo-7-[[2-(4-pyridinylthio)acetyl]amino]-5-thia-1-azabicyclo[4.2.0]oct-2-en
+True,False,True,True,"5-Amino-6-methyl-1,3-dihydrobenzoimidazol-2-one"
+True,True,True,True,N-(1-benzylpiperidin-4-yl)-N-phenylprop-2-enamide
+True,True,False,False,Sodium 2-hexyldecanoate
+True,True,False,False,Mizoribine
+True,True,True,True,[2'-Carboxylethyl]-10-methyl-anthracene endoperoxide
+True,True,True,True,"2,4,5-Trimethylimidazole"
+True,True,True,True,"Methanol, (diethylamino)-"
+True,False,False,False,"2,4-Dimethylphenol"
+True,True,True,True,Bicyclo[2.2.1]hept-5-en-2-yl isobutyrate
+True,False,False,False,"Estra-1,3,5(10)-triene-3,17ß-diol diheptanoate"
+True,True,True,True,Disodium ß-glycerophosphate
+True,False,False,False,"Benzamide, N-4-pyridinyl- (9CI)"
+True,False,False,False,"[1R-(1a,4aa,5a,8aß)]-5-[2-(3-furyl)ethyl]decahydro-1,4a-dimethyl-6-methylene-1-naphthoic acid"
+True,False,False,False,4-Tert-Butylbenzoic acid
+True,True,True,True,"2-Furancarboxylic acid, tetrahydro-"
+True,False,False,False,"5,5'-(Propane-1,3-diyl)bisimidazolidine-2,4-dione"
+True,False,False,False,"(4E)-1,1,1,2,2,3,3-Heptafluorodec-4-ene"
+True,False,False,False,Odoroside H
+True,False,False,False,Bicyclo[2.2.1]hept-5-ene-2-carbaldehyde oxime
+True,True,True,True,Methyl caffeate
+True,True,True,True,Ethyl 2-methylalaninate
+True,True,True,True,2-Phenyl-2-ethylmalondiamide
+True,True,True,True,Dodecan-4-one
+True,False,False,False,"Pyridine, 4-ethyl-2-methyl-"
+True,True,False,False,"Methanesulfonic acid, [(3-methylphenyl)amino]-"
+True,False,False,False,2-Methylcarbamoyl-3-(4-phosphonooxy-phenyl)-cyclopropanecarboxylic acid
+True,True,True,True,Misoprostol
+True,True,False,False,"4,6-Dimethoxy-2-pyrimidinyl urea"
+True,False,False,False,Fawcettimine
+True,False,True,True,"TP3/1,2-Ethanediamine, N,N,N'-tris(2-aminoethyl)-"
+True,False,False,False,"1,1'-[Isopropylidenebis(p-phenyleneoxy)]bis[3-mercaptopropan-2-ol]"
+True,False,True,True,N-Methylbenzamide
+True,False,False,False,"(2-Hydroxy-1,1-dimethylethyl)dimethylammonium toluene-p-sulphonate"
+True,False,False,False,4-Methoxyphenylacetonitrile
+True,False,False,False,Farnesiferol A
+True,False,True,True,3-Amino-1-imino-5-methoxy-1H-isoindole
+True,True,True,True,NS00014365
+True,False,False,False,2-Hydroxyethyl 3-[(2-hydroxyethoxy)methylphosphinoyl]propionate
+True,False,False,False,Sodium dodecylbenzenesulfonate
+True,True,True,True,1-Amino-2-methylbutan-2-ol
+True,True,False,False,A-[bis(2-hydroxyethyl)amino]-4-nonyl-o-cresol
+True,False,False,False,2-((3-Methoxypropyl)amino)ethanol
+True,True,False,False,Trans-1-butoxy-4-(4-propylcyclohexyl)benzene
+True,True,True,True,"1,2,3,3A,4,5,6,8a-octahydro-2-isopropylidene-4,8-dimethylazulen-6-yl acetate"
+True,True,True,True,NS00078815
+True,False,False,False,"Benzaldehyde, 4-(octyloxy)-"
+True,False,False,False,"1,2-Cyclohexanedione"
+True,False,False,False,N-(ethoxycarbonyl)-l-leucine
+True,False,False,False,2-Amino-5-({[(2-amino-2-carboxyethyl)sulfanyl]methanimidoyl}amino)pentanoic acid
+True,True,True,True,N-Methylacrylamide
+True,False,False,False,"Ethanamine, 2-methoxy-N-(2-methoxyethyl)-"
+True,False,False,False,2-Ethyl-6-methylpyridine
+True,False,False,False,"TP1/N,N-Dimethyltetradecylamine"
+True,True,True,True,"3-Acetyl-2,4,4-trimethylcyclohex-2-en-1-one"
+True,False,False,False,2-Mercaptopropanol
+True,True,False,False,(1-Phenylcyclopropyl)methyl isothiocyanate
+True,True,True,True,Isopropylbenzyl salicylate
+True,True,False,False,6-(Tert-Butyl)-1-methylnaphthalene
+True,True,True,True,Propyl gallate
+True,False,False,False,Cefozopran
+True,False,True,True,Methyl abietate
+True,True,False,False,4-Oxoretinol
+True,False,False,False,NS00077286
+True,False,True,True,2'-Aminoacetophenone
+True,True,True,True,"[4-[[4-(Diethylamino)phenyl][4-(ethylamino)-1-naphthyl]methylene]-2,5-cyclohexadien-1-ylidene]diethylammonium dodecyl sulphate"
+True,True,False,False,"5,​8,​11,​14-​Eicosatetraenoic acid"
+True,True,False,False,"(Z)-1,1-diethoxyundec-2-ene"
+True,False,True,True,6-Methylflavone
+True,True,True,True,"6-Methoxy-N~2~-methylpyridine-2,3-diamine"
+True,False,False,False,N-methyl-N-(1-phenylpropan-2-yl)formamide
+True,False,False,False,"5H-pyrrolo[3,2-d]pyrimidin-4-amine"
+True,True,True,True,(+)-Malic acid
+True,False,False,False,Ro 17-6661
+True,False,False,False,"5,5,6,6,7,7,7-Heptafluoro-4-methylheptan-3-one"
+True,False,False,False,7-Oxabicyclo[4.1.0]heptan-2-one
+True,True,True,True,NS00088467
+True,True,True,True,1-[5-Nitro-2-(1-pyrrolidinyl)benzyl]-1H-imidazole
+True,True,False,False,4-(2-((2-(Acetoxy)ethyl)amino)-2-oxoethoxy)-1-hydroxy-2-naphthoic acid
+True,False,False,False,(4-Methyl-2-nitrophenyl)urea
+True,False,False,False,"Decyl dihydrogen phosphate, compound with 2,2'-iminodiethanol (1:2)"
+True,False,False,False,Levallorphan
+True,False,False,False,TP2/2-(Dimethylamino)ethyl acrylate methochloride
+True,True,False,False,"TP1/Octanoic acid, 3-methylbutyl ester"
+True,False,False,False,"TP1/1,3-Propanediol, 2-[bis(2-hydroxyethyl)amino]-2-(hydroxymethyl)-"
+True,True,True,True,Phenylacetaldehyde
+True,True,True,True,D-(-)-norleucine
+True,False,True,True,"3-Tetradecene, (z)-"
+True,True,True,True,"1,3,5-Triazine-2,4,6(1H,3H,5H)-trione, compound with 1,3,5-triazine-2,4,6-triamine (1:1)"
+True,True,False,False,"(3R,5R,8R,9R,13S,14S)-3-hydroxy-13-methyl-2,3,4,5,6,7,8,9,10,11,12,14,15,16-tetradecahydro-1H-cyclopenta[a]phenanthren-17-one"
+True,False,False,False,"Benzoic acid, p-isobutyl-"
+True,True,False,False,"9,10[1',2']-Benzenoanthracene, 9,10-dihydro-"
+True,True,False,False,1-Phenyl-3-methyl-5-pyrazolone
+True,True,False,False,4-(Methylaminosulfonyl-amino)benzoic acid (XII)
+True,True,True,True,"Benzenamine, 4,4'-[[4-(diethylamino)phenyl]methylene]bis[N,N-diethyl-3-methyl-"
+True,False,False,False,"2,4-Dihydro-4-(4-(4-(4-methoxyphenyl)piperazin-1-yl)phenyl)-3H-1,2,4-triazol-3-one"
+True,False,False,False,NS00000109
+True,True,False,False,12-Methoxyibogamine
+True,False,False,False,Cyclohexylammonium palmitate
+True,True,True,True,"1-Propanol, 3-(dimethylamino)-"
+True,True,True,True,TP1/Tris(2-ethylhexyl) phosphate
+True,True,False,False,Clofilium
+True,True,True,True,Potassium dioctyl phosphate
+True,True,True,True,"Phosphorothioic acid, O,O-bis(2-methylpropyl) ester, sodium salt"
+True,False,False,False,NS00103955
+True,False,False,False,1-Methoxyindan-2-ol
+True,True,False,False,"1-Pentyne, 3-methylene-"
+True,False,False,False,"1-Amino-2,2-dimethylpropan-1-ol"
+True,False,False,False,N-D-gluconoyl-L-leucine
+True,True,True,True,Ethyl phenethyl carbonate
+True,False,True,True,L-3372
+True,True,False,False,A-cyclopropyl-a-4-dimethylbenzyl alcohol
+True,True,False,False,"1,2,3,3A,4,5,6,8a-octahydro-2-isopropylidene-4,8-dimethylazulen-6-yl propionate"
+True,True,False,False,"Methacrylic acid, compound with 2-(dimethylamino)ethanol (1:1)"
+True,False,False,False,Gsk2
+True,False,False,False,"(9Z)-8-Hydroxy-1,9-heptadecadiene-4,6-diyn-3-one (Falcarinolone)"
+True,False,False,False,2-(Diisopropylamino)ethyl methacrylate
+True,False,False,False,"1-[(4-Ethoxy-3-methoxyphenyl)methyl]-6,7-dimethoxy-3-methylisoquinolinium dihydrogen phosphate"
+True,True,False,False,"(3R-(3alpha,3abeta,6alpha,7beta,8aalpha))-Octahydro-3,6,8,8-tetramethyl-1H-3a,7-methanoazulen-5-yl propionate"
+True,False,False,False,"Disodium 4,4'-[(4,6-dihydroxy-1,3-phenylene)bis(azo)]bis(benzenesulphonate)"
+True,False,False,False,"2,7-Dimethylocta-3,5-diyne-2,7-diol"
+True,True,True,True,1-Methylcyclohexanecarboxylic acid
+True,True,True,True,M-Ethoxybenzamide
+True,True,True,True,Adenine 9-beta-D-arabinofuranoside
+True,False,False,False,O-Acetyl-L-serine--hydrogen chloride (1/1)
+True,True,True,True,Mucic acid
+True,True,True,True,"TP3/1-Hexadecanaminium, N,N,N-trimethyl-, methyl sulfate"
+True,True,False,False,"1,2,3,3-Tetramethyl-3H-indolium iodide"
+True,True,False,False,"9,10-Anthracenedione, 1-[(3-hydroxypropyl)amino]-4-(methylamino)-"
+True,False,False,False,"4',5,7-Trihydroxy-3'-methoxyflavone"
+True,False,False,False,Tetraethyl ((dimethylamino)methylene)bisphosphonate
+True,True,False,False,Imidazole-1-acetic acid
+True,True,False,False,"Disodium 8-[[4'-[(4-ethoxyphenyl)azo][1,1'-biphenyl]-4-yl]azo]-7-hydroxynaphthalene-1,3-disulphonate"
+True,False,False,False,Guacetisal
+True,False,False,False,"N,N-Dimethyl-1,2-diphenylethanamine"
+True,False,False,False,(S)-2-((tert)-butoxycarbonyl)amino)butanoic acid
+True,False,False,False,Phytonadione
+True,True,False,False,Lycorine
+True,True,False,False,"Pentanamide, N-(5-amino-2-chlorophenyl)-4,4-dimethyl-3-oxo-"
+True,False,False,False,2-Ethylhexyl cyclohex-3-ene-1-carboxylate
+True,True,False,False,"Potassium (1R,3S)-3-formyl-2,2-dimethylcyclopropanecarboxylate"
+True,True,False,False,Talion
+True,False,False,False,Sulmarin
+True,False,False,False,"16A-ethyl-21-hydroxy-19-norpregna-4,9-diene-3,20-dione"
+True,False,False,False,Nonylphenyl hydrogen glutarate
+True,True,False,False,3-Methylbutyl valerate
+True,False,False,False,"Benzenemethanamine, 2-methyl-"
+True,True,False,False,(R)-5-methyl-2-(1-methylvinyl)hex-4-enal
+True,False,False,False,MK-812
+True,True,True,True,TP1/(S)-4-Isopropenyl-1-cyclohexene-1-carboxaldehyde
+True,False,False,False,4-Methyl-N-(phenylcarbamoyl)benzenesulfonamide
+True,True,True,True,"Benzoic acid, 4-chloro-3,5-dinitro-"
+True,True,False,False,4-(2-Aminophenyl)-4-oxobutanoic acid
+True,False,False,False,"2-Ethyl-2-(methoxymethyl)propane-1,3-diol"
+True,True,False,False,Alpha-Eleostearic acid
+True,True,True,True,2-((4-((4-Hydroxyphenyl)amino)phenyl)amino)benzoic acid
+True,True,False,False,Methyl (E)-14-methylhexadec-8-enoate
+True,False,True,True,N-benzyloxycarbonyl-L-proline
+True,True,True,True,Squaric acid dibutyl ester
+True,True,False,False,"Hexadeca-7,11-diynyl acetate"
+True,False,False,False,(Bicyclo[2.2.1]hept-5-en-2-yl)methyl acrylate
+True,False,False,False,3-(2-Chlorophenoxy)propionic acid
+True,False,False,False,"2-(2,2,3-Trimethyl-4-oxocyclopentyl)ethyl acetate"
+True,False,False,False,"1,1'-Oxybis(2,2-dimethoxy)ethane"
+True,True,True,True,4-Pyrrolidin-1-ylbutyronitrile
+True,True,True,True,"1-Propanamine, 3-ethoxy-"
+True,True,True,True,"N,N'-[Methylenedi(4,1-phenylene)]bis(N'-octylurea)"
+True,True,True,True,3-(5-Oxo-3-isoxazoline-2-ylmethyl)-L-alanine
+True,False,False,False,Sodium 2-ethylhexyl (2-ethylhexyl)(2-sulphonatoethyl)carbamate
+True,True,False,False,"4-({6-Phenyl-[1,2,4]triazolo[4,3-b]pyridazin-3-yl}methyl)phenol"
+True,True,True,True,1-Phenyloxindole
+True,False,False,False,Edivoxetine
+True,True,True,True,2-(A-cyclopentyl-a-2-thienylglycolloyloxy)ethyldiethyl(methyl)ammonium bromide
+True,False,False,False,4-Ethoxy-3-methoxyphenethyl alcohol
+True,False,False,False,"Octadecadienoic acid, compound with succinic anhydride (1:1)"
+True,False,False,False,(6R-trans)-7-amino-3-chloro-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+True,True,True,True,P-Ethoxybenzamide
+True,False,False,False,[(P-nonylphenoxy)methyl]oxirane
+True,True,True,True,3-Hydroxybutyronitrile
+True,True,False,False,4-(Aminomethyl)-5-hydroxy-6-methyl-3-pyridylmethyl dihydrogen phosphate monohydrochloride
+True,False,False,False,2-Butenoic acid
+True,True,True,True,Pibecarb
+True,False,False,False,N-(4-acetoxyphenylethyl)acetamide
+True,False,False,False,"2,3-Dimethoxy-5,6-dimethyl-p-benzoquinone"
+True,False,False,False,Dibutyl ethylhexanoyl glutamide
+True,False,True,True,Cyclobuxine D
+True,False,False,False,Butyl benzoate
+True,True,True,True,Propan-2-yl 2-aminopropanoate
+True,False,False,False,Perhydro-9b-boraphenalene
+True,True,True,True,Decahydro-1-methyl-2-methylenenaphthalene
+True,False,False,False,"2,5-Dimethylfuran-3(2H)-one"
+True,True,False,False,"(±)-1,7,7-Trimethyl-3-(phenylmethylene)bicyclo[2.2.1]heptan-2-one"
+True,True,True,True,Methyl 4-hydroxy-3-methoxyphenylacetate
+True,True,False,False,"(2E,6Z)-octa-2,6-dienol"
+True,False,False,False,"Ethyl 1,3-benzodioxole-5-propionate"
+True,True,True,True,1-Tert-butyl L-glutamate
+True,False,False,False,"9-Isopropyl-1,5-dioxaspiro(5.5)undecane"
+True,True,True,True,"N,N,N',N'-Tetramethylsuccinamide"
+True,False,True,True,(4-Ethylnaphthalen-1-yl)[1-(5-fluoropentyl)-1H-indol-3-yl]methanone
+True,True,True,True,Dimepranol
+True,True,True,True,3-Hydroxy-2-methylpropiononitrile
+True,True,False,False,"N2,N2-dimethyl-N6-(1-oxodecyl)-L-lysine"
+True,True,False,False,"(S)-N,N-dimethyl-3-(naphthalen-1-yloxy)-3-(thiophen-2-yl)propan-1-amine"
+True,True,True,True,"Acetamide, N-(2-ethyl-6-methylphenyl)-2-hydroxy-"
+True,False,False,False,"Benzaldehyde, 4-butoxy-"
+True,False,False,False,Butylammonium acetate
+True,False,False,False,"N,N',N''-trimethylguanidine"
+True,True,True,True,"4-(1,1-Di-2-butenyl-3-pentenyl)pyridine"
+True,False,True,True,"2-Octanone, oxime"
+True,False,False,False,Lamivudine acid
+True,True,False,False,Mirfentanil
+True,False,False,False,N1 C8 Alkanolamide
+True,True,True,True,2-Isobutyl-5-methoxyphenol
+True,False,False,False,NS00041348
+True,False,False,False,"5-Cyclopentyl-2,4-xylenol"
+True,False,False,False,"9-Hydroxy-1,2,5-trimethyl-6H-pyrido[4,3-b]carbazolium iodide"
+True,True,True,True,5-Methyl-2-pyrrolidinone
+True,True,False,False,Ethyl valerate
+True,True,False,False,Imidazole-4-acetic acid
+True,False,False,False,Brallobarbital
+True,False,False,False,1-Ethyl-1-methylpiperidin-1-ium iodide
+True,True,True,True,"4,4-Bis(4-fluorophenyl)butyric acid"
+True,False,False,False,2-Cyclopentylhydroquinone
+True,False,False,False,"Spiro[3H-2,1-benzoxathiole-3,9'-[9H]xanthene]-3',4',5',6'-tetrol, 2',7'-dibromo-, 1,1-dioxide"
+True,True,True,True,1-(Thiazol-2-yl)piperazine
+True,True,True,True,Mesotrione
+True,False,False,False,Ranitidine TP 49 (neg)
+True,True,True,True,Methyl valinate hydrochloride
+True,False,False,False,Pentacene
+True,True,True,True,N-methyl-N-vinylformamide
+True,True,False,False,"2-Hydroxyethyl 1,2,3,6-tetrahydro-1,3-dimethyl-2,6-dioxo-7H-purine-7-acetate"
+True,True,False,False,Methyl valerimidate hydrochloride
+True,True,True,True,"2,2',5,5'-Tetrachlorobiphenyl (PCB 52)"
+True,True,False,False,"2,3-Dimethoxyphenol"
+True,False,False,False,1-[5-Fluoro-2-(oxiranylmethoxy)phenyl]butan-1-one
+True,True,False,False,(2-Hydroxyethyl) hydrogen glutarate
+True,False,False,False,2-Methoxybenzhydryl alcohol
+True,False,True,True,2-Propionylpyridine
+True,False,False,False,"3,6-Pyridazinedione, 1,2-dihydro-1-methyl- (8CI)(9CI)"
+True,True,True,True,4-Methyl-5-vinylthiazole
+True,True,False,False,"5-[[4-[Benzylethylamino]phenyl]azo]-1,4-dimethyl-1H-1,2,4-triazolium methyl sulphate"
+True,False,True,True,Cloxacillin sodium
+True,True,True,True,Methyl (S)-cyclopent-2-ene-1-tridecanoate
+True,False,False,False,"2,3B-Methano-3bH-cyclopenta[1,3]cyclopropa[1,2]benzene-4-methanol, octahydro-7,7,8,8-tetramethyl-, 4-acetate"
+True,True,False,False,"3-Acetylheptane-2,6-dione"
+True,True,True,True,Cyclohexenecarbaldehyde
+True,True,True,True,"1H-Imidazole-4,5-dimethanol, 2-phenyl-"
+True,False,False,False,Disodium hydroxy(sulfonato)acetate
+True,True,False,False,Linolenic acid
+True,False,False,False,"Furan, 2-butyl-"
+True,False,False,False,"2,6-Dimethylaniline"
+True,False,False,False,"Octahydro-5-hydroxy-4,7-methano-1H-indenecarboxylic acid"
+True,True,True,True,4-Ethylphenyl butyrate
+True,False,False,False,3-(Tert-butyl)-4-hydroxybenzaldehyde
+True,False,False,False,1-(3-Methoxyphenyl)acetone
+True,False,False,False,"N-(2-Hydroxyethyl)octadeca-9,12,15-trienamide"
+True,True,True,True,Ethyl DL-threoninate hydrochloride
+True,True,True,True,Nicosulfuron-TP UCSN
+True,False,False,False,Tridecan-6-one
+True,True,True,True,1-(1-Methoxyethoxy)hexane
+True,False,False,False,NS00063502
+True,True,True,True,4-Vinylaniline
+True,True,False,False,"2-(2,4-Dichlorophenoxy)propionamide"
+True,False,False,False,"1-Octanaminium, N,N,N-trimethyl-, dimethyl phosphate (1:1)"
+True,False,False,False,"Phosphine, tris(3-methylphenyl)-"
+True,True,True,True,4-Oxo-4H-1-benzopyran-2-carbonyl chloride
+True,False,False,False,"1,1-Dimethylpyrrolidin-1-ium-2-carboxylate"
+True,False,False,False,"9S,13r-12-Oxophytodienoic Acid"
+True,False,False,False,N-(beta-(2-Methacryloxyacetamido)ethyl)ethylene urea
+True,False,False,False,3-[Butyl[4-[(4-nitrophenyl)azo]phenyl]amino]propiononitrile
+True,True,False,False,1-Methyl-1-(4-methyl-3-cyclohexen-1-yl)ethyl octanoate
+True,True,False,False,Cumene
+True,True,False,False,1-(6-Hydroxy-2-naphthyl)ethan-1-one
+True,True,True,True,NS00000876
+True,False,True,True,5-(Trifluoromethyl)-m-anisidine
+True,True,True,True,"Urea, N'-(4-ethoxyphenyl)-N,N-dimethyl-"
+True,True,True,True,Cymiazole
+True,True,True,True,6-Benzyl-2-thiouracil
+True,False,False,False,(S)-ß-methylphenethyl acetate
+True,True,True,True,Oxacyclohexadec-14-en-2-one
+True,False,False,False,N-Phenyl-N-(4-piperidinyl)butanamide
+True,False,False,False,"2,4-Dichloro-6-methoxyanilinium chloride"
+True,True,False,False,N-Desethyl Sunitinib
+True,False,False,False,"3-(Cyclopentyloxy)-19-nor-17a-pregna-3,5-dien-20-yn-17-yl acetate"
+True,False,False,False,"2,3-Dihydro-2,2-dimethyl-7-benzofuranol"
+True,False,False,False,"(1S,4aR,5S)-5-[(3E)-5-Methoxy-3-methyl-5-oxo-3-penten-1-yl]-1,4a-dimethyl-6-methylenedecahydro-1-naphthalenecarboxylic acid"
+True,False,False,False,(E)-(diphenylmethyl)[3-(2-ethoxy-5-prop-1-enylphenoxy)-2-hydroxypropyl]ammonium chloride
+True,False,False,False,4-Piperidinecarboxylic acid
+True,True,False,False,Alpha-L-Xylopyranose
+True,True,False,False,Tricyclopentadiene
+True,True,True,True,5-Ethyl-4-methylthiazol-2(3H)-one
+True,False,False,False,2-Butoxyethyl acrylate
+True,True,False,False,"4-(1,1-Dimethylethyl)cyclohexyl acrylate"
+True,True,False,False,1-Decyl-5-oxopyrrolidine-3-carboxylic acid
+True,False,False,False,"2-Naphthalenecarboxylic acid, 3-hydroxy-, methyl ester"
+True,False,False,False,"N,N-Dicyclohexylbenzothiazole-2-sulfonamide"
+True,True,False,False,"2,5-Dimethyl-3-isovaleroyl-6-propionylpyrazine"
+True,True,False,False,Morpholine Laurate
+True,True,True,True,"1,1'-(9H-xanthene-2,7-diyl)bis[2-(dimethylamino)ethanone] dihydrochloride"
+True,True,True,True,Benzyl chloroformate
+True,False,False,False,(+)-Δ9-Tetrahydrocannabinol
+True,True,True,True,Ethylphenylacetylurea
+True,True,False,False,2-Cyclohexylideneethanol
+True,True,False,False,4-Hydroxy-m-phenylenediammonium dichloride
+True,False,False,False,"Tetradecanamide, N-(2-hydroxyethyl)-"
+True,False,True,True,N'-Hydroxy-2-(2-thienylthio)ethanimidamide
+True,False,False,False,Mefluidide
+True,False,False,False,Polygodial
+True,True,False,False,"1-(3,7,7-Trimethylbicyclo[4.1.0]hept-3-en-2-yl)ethan-1-one"
+True,True,True,True,Sabinen
+True,True,True,True,2-Methoxy-alpha-methylbenzyl alcohol
+True,True,False,False,Cis-3-vinylcyclohexan-1-ol
+True,False,False,False,"Octanoic acid, compound with 4-ethylmorpholine (1:1)"
+True,True,False,False,"A-[(o-nitrophenyl)azo]benzimidazoline-&amp;lt;U+0394&amp;gt;2,a-acetamide"
+True,False,False,False,Fluocortin
+True,True,False,False,Ketopelenolide A
+True,True,False,False,"5-Thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid, 3-[(methylsulfonyl)oxy]-8-oxo-7-[(phenylacetyl)amino]-, diphenylmethyl ester, (6R,7R)-"
+True,True,True,True,A-propoxyphenethyl alcohol
+True,True,True,True,TP1/Hordenine
+True,True,False,False,"6,6'-(2-Methylpropylidene)bis[4-cyclopentyl-m-cresol]"
+True,False,False,False,"2-Pyridinemethanol, acetate (ester)"
+True,True,False,False,7-Chloro-8-quinolinol
+True,False,False,False,"Ethanol, 2-[ethyl[4-[(6-methoxy-2-benzothiazolyl)azo]phenyl]amino]-"
+True,True,True,True,2-(Acetyl-hydroxy-amino)-4-methyl-pentanoic acid methyl ester
+True,True,False,False,Benzyltrimethylammonium iodide
+True,True,True,True,4-Butylmorpholine
+True,True,False,False,"Pinane, didehydro derivative"
+True,True,False,False,Octahydropentalenyl formate
+True,True,True,True,NS00004061
+True,False,False,False,"2-Bromo-1,1,3-trimethoxypropane"
+True,True,True,True,α-Methylhistamine
+True,False,False,False,Ethyl 3-[4-[[(4-ethoxyphenyl)methylene]amino]phenyl]acrylate
+True,True,False,False,Stearidonic Acid
+True,True,False,False,"11β,13-Dihydrolactucopicrin"
+True,False,False,False,"1,3-Cyclohexanedione"
+True,False,False,False,Orphenadrine hydrochloride
+True,True,True,True,"9-Acetyl-2,3,4,9-Tetrahydro-1h-Carbazol-1-One"
+True,False,True,True,3-Methylpent-3-en-1-yl benzoate
+True,False,False,False,Furfuryl acetate
+True,False,False,False,Methional diethyl acetal
+True,True,False,False,2-Amino-6-[2-(1h-indol-6-yl)ethyl]pyrimidin-4(3h)-one
+True,True,True,True,Metformin hydrochloride
+True,False,False,False,"[[(Acetoxy)methyl]octahydro-4,7-methano-1H-indenyl]methyl acrylate"
+True,True,False,False,Tribenzylamine
+True,False,False,False,NS00081130
+True,True,False,False,Alpha-Pimaricacid
+True,False,False,False,"5-((2-Aminophenyl)methyl)-2-methylbenzene-1,3-diamine"
+True,True,False,False,"2-Amino-4-(4-chlorophenyl)-7,7-dimethyl-5-oxo-5,6,7,8-tetrahydro-4H-chromene-3-carbonitrile"
+True,True,True,True,1-S-octyl-beta-d-thioglucopyranoside
+True,True,False,False,4-(Diphenylmethyl)piperazinyl 2-thienyl ketone
+True,True,False,False,6-Methoxy-1H-indole
+True,False,False,False,"2,4,5-Triethoxybenzophenone"
+True,False,False,False,Clopenthixol decanoate
+True,True,True,True,1-Propyl-1H-imidazole
+True,False,False,False,Fodipir
+True,False,False,False,C18-DATS
+True,False,False,False,N-Isododecylacrylamide
+True,True,False,False,2-Diethoxymethyl-1-phenylhept-1-ene
+True,False,False,False,2-Amino-2-deoxy-D-glucose hydroiodide
+True,True,True,True,5-A-ergost-7-en-3-ß-ol
+True,True,True,True,Decan-5-one
+True,False,True,True,"Ethanone, 1-phenyl-, oxime"
+True,True,False,False,"1,3-Propanedione, 1-(2-hydroxyphenyl)-3-(4-methoxyphenyl)-"
+True,True,True,True,4-Hydroxy-3-methoxyphenylacetonitrile
+True,True,True,True,Dinor-n(omega)-hydroxy-l-arginine
+True,True,True,True,N-Allylacetamide
+True,True,False,False,PCMPA
+True,False,False,False,"2,3-Dimethylhex-1-ene"
+True,True,False,False,"Methanone, phenyl-2-pyridinyl-"
+True,False,False,False,Methyl 1-methoxybicyclo[2.2.2]oct-5-ene-2-carboxylate
+True,True,False,False,"Fatty acids, C6-12, sodium salts"
+True,True,False,False,"Formic acid, phenylmethyl ester"
+True,False,False,False,PX 1
+True,True,False,False,"2,2'-[Benzylidenebis[(2,5-dimethyl-4,1-phenylene)azo]]bis[p-cresol]"
+True,True,True,True,(Z)-hex-3-enyl 2-ethylbutyrate
+True,True,True,True,Benz[d]isoxazole
+True,True,True,True,"2,3-Dihydro-3-(oxiranylmethoxy)-2-phenyl-1H-isoindol-1-one"
+True,True,False,False,3-Fluoropropene
+True,True,False,False,"(Z)-3,7-dimethyl-2,6-octadien-4-ol"
+True,True,True,True,Ethyl pyridine-4-acetate
+True,False,False,False,"3,4-Dihydro-2H-pyrido(1,2-a)pyrimidin-2-one"
+True,True,True,True,Lauryl propionate
+True,True,True,True,2-[2-(2-Ethoxyethoxy)ethoxy]-2-methylpropane
+True,True,False,False,"1-Propanethiol, 3-amino-"
+True,False,False,False,Tert-Butyl formate
+True,False,False,False,"8-Quinolinamine, 5,6-dimethyl-"
+True,False,False,False,Ethopabate
+True,True,True,True,3-[4-(Acetylamino)phenyl]-2-cyanoacrylamide
+True,True,False,False,Aniline sulphate
+True,True,True,True,Diisooctyl hydrogen phosphate
+True,True,True,True,4-Amino-6-hydroxy-2-mercapto-5-nitrosopyrimidine
+True,True,True,True,"1-Decyl-1,2,3,4-tetrahydro-4-methylnaphthalene"
+True,True,False,False,"1,2-Benzenedicarboxamide, N,N,N',N'-tetraethyl-"
+True,False,False,False,"1,2-Benzenedicarboxylic acid, dihexyl ester, branched and linear"
+True,False,False,False,Prolinamide
+True,False,False,False,Decyl hydrogen phthalate
+True,False,False,False,"(5-Ethyl-2,2-dimethyl-1,3-dioxan-5-yl)methyl acrylate"
+True,True,True,True,Cyclohex-3-ene-1-carboxylic acid
+True,True,False,False,"2,3-Dihydro-1-hydroxy-1H-phosphole 1-oxide"
+True,True,True,True,Ethyl 4-methyl-2-oxovalerate
+True,True,False,False,"Methyl 3-(2,6,6-trimethylcyclohexen-1-yl)acrylate"
+True,True,False,False,"Octahydro-4,7-methano-1H-inden-5-yl acetate"
+True,True,False,False,9-Octadecenoic acid
+True,False,False,False,3-Amino-6-hydroxy-2-pyridone hydrochloride
+True,False,False,False,"4-Vinylcyclohexene-1,4-dicarbaldehyde"
+True,True,True,True,"1-Propanone, 1-(4-ethylphenyl)-2-hydroxy-2-methyl-"
+True,True,True,True,2-(1-Ethyl-1-methylpropyl)pyridine
+True,True,False,False,N-Phenylhydroxylamine
+True,False,False,False,Potassium 6-[methyl(phenylsulphonyl)amino]hexanoate
+True,True,False,False,Sodium (R)-(4-hydroxyphenyl)(phenylacetamido)acetate
+True,False,False,False,Neratinib
+True,False,False,False,2-(Hydroxymethyl)phenyl-ß-D-glucopyranoside 6-benzoate
+True,True,True,True,"2-Bromo-4-(1,3-dithiolan-2-yl)-6-methoxyphenyl 4-methylbenzenesulfonate"
+True,False,False,False,β-Hydroxythiofentanyl
+True,True,True,True,2-(Thiomethylene)-4-methylpentanoic acid
+True,False,False,False,Metipranolol
+True,True,True,True,2-(2-Iminothiazolidin-3-yl)-1-phenylethan-1-one monohydrobromide
+True,True,True,True,D-Tryptophan
+True,False,False,False,Sodium tert-butyl carbonate
+True,False,True,True,Uric acid
+True,True,False,False,Vinyl methacrylate
+True,True,False,False,1-Ethyl-1-nitrosourea
+True,True,False,False,"13-ß-Ethyl-3-methoxygona-2,5(10)-dien-17-one"
+True,False,True,True,4-[3-Phenyl-1-(2-phenylethyl)propyl]pyridine
+True,True,False,False,4-Chloroamphetamine
+True,False,False,False,"5-Oxo-L-proline, compound with triethylamine (1:1)"
+True,False,False,False,"9H-Fluorene, 9,9-dimethyl-"
+True,True,True,True,1-(3-Chlorophenyl)-4-(3-chloropropyl)-piperazine
+True,True,False,False,4-Methoxycinnamaldehyde;
+True,False,False,False,"1-(3,4-Epoxy-4-methylpentyl)-1-methylallyl acetate"
+True,False,False,False,Methyl 3-(acetoxy)octanoate
+True,True,True,True,"Benzenesulfonic acid, tetradecyl-, sodium salt"
+True,True,False,False,Trimazosin
+True,True,True,True,4-Amino-5-methylpyridin-2(1H)-one
+True,True,False,False,6-Oxo-3-methylhexyl acetate
+True,True,False,False,"3,7,11-Trimethyldodeca-1,6,10-trien-3-yl propionate"
+True,False,False,False,TP1/Dimethylcetylamine
+True,True,False,False,"3,4-Dihydro-7-nitro-2H-pyrimido[2,1-b]benzothiazole hydrochloride"
+True,False,False,False,"Ethanone, 1-[4-(1,1-dimethylethyl)phenyl]-"
+True,True,True,True,Methyl 2-hexyl-3-oxocyclopentaneacetate
+True,False,False,False,Hexahydrocyclopenta[c]pyrrol-2(1H)-amine monohydrochloride
+True,False,False,False,"1,2,3,4-Tetrahydroisoquinoline-3-carboxylic acid hydrochloride"
+True,False,False,False,6-Tert-butyl-4-nitroso-o-cresol
+True,True,True,True,"6,7-Dihydro-5H-2-pyrindine"
+True,True,True,True,"[3S-(3a,3aa,6a,8aa)]-octahydro-7,7-dimethyl-8-methylene-1H-3a,6-methanoazulene-3-carboxylic acid"
+True,True,False,False,JWH 018 6-hydroxyindole metabolite
+True,True,False,False,"Pyridine, 4,4'-(1,3,4-thiadiazole-2,5-diyl)di-"
+True,False,False,False,"1,9-Dimethylxanthine"
+True,False,False,False,Ethyl 2-decenoate
+True,True,False,False,"5,7-Dichloro-2-(5-chloro-1,3-dihydro-3-oxo-2H-indol-2-ylidene)-1,2-dihydro-3H-indol-3-one"
+True,False,False,False,2-Pentanamine
+True,False,False,False,"4,4'-Bis(2-benzoxazolyl)stilbene"
+True,True,False,False,Thymine
+True,False,False,False,"Ethyl 4-hydroxy-2,6,6-trimethylcyclohex-2-ene-1-carboxylate"
+True,False,False,False,Beta-D-Glucopyranosyluronic acid
+True,False,False,False,"Bis(2-hydroxyethyl)(octadeca-9,12,15-trienoyl)ammonium acetate"
+True,False,False,False,Hexanesulfonic acid
+True,True,False,False,NS00100387
+True,True,True,True,T-2 toxin
+True,True,False,False,4-Methyloxazole-5-carboxamide
+True,False,False,False,Sodium pentafluoropropionate
+True,False,False,False,"11,12-Epoxy-(5Z,8Z,11Z)-icosatrienoic acid"
+True,True,False,False,"2-Butenedioic acid (2Z)-, monoisooctyl ester"
+True,False,False,False,".Beta.-Alanine, N,N-diethyl-, 6-[(1-oxo-2-propenyl)oxy]hexyl ester"
+True,False,False,False,"Benzyldiethyl[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethyl]ammonium acetate"
+True,True,True,True,"6-Hepten-2-ol, 6-methyl-, 2-acetate"
+True,True,True,True,"Sodium 1-ethyl-1,4-dihydro-7-methyl-4-oxo-1,8-naphthyridine-3-carboxylate"
+True,True,True,True,TP1/2-((2-(Diethylamino)ethyl)amino)ethanol
+True,True,True,True,D-Arabinitol
+True,False,False,False,"N3-[2-(4,5-Dihydro-1H-imidazol-2-ylthio)ethyl]-2-phenoxynicotinamide"
+True,True,False,False,Tris(3-isopropylphenyl) phosphate
+True,False,False,False,Sclerotiorin
+True,False,True,True,Alpha-Oxocyclohexaneacetic acid
+True,True,True,True,"2,4-Diaminophenol"
+True,True,True,True,"(5R)-3-Ethyl-5-phenylimidazolidine-2,4-dione"
+True,False,True,True,"Hexahydro-2H-azepin-2-one, sodium salt"
+True,False,False,False,TP1/Dodecanenitrile
+True,False,False,False,Phenethylamine
+True,False,False,False,3-Methoxy-2-pyridone
+True,False,False,False,"3,4-Dihydroxybenzonitrile"
+True,False,False,False,"Benzenesulphonic acid, compound with 2-aminoethanol (1:1)"
+True,False,False,False,"Benzenamine, N,N-dimethyl-2-nitro-"
+True,True,False,False,Ethyl L-tyrosinate
+True,True,True,True,"Sodium [1,2,4]triazolo[1,5-a]pyrimidin-7-ol"
+True,False,False,False,Beta-Obscurine
+True,False,False,False,12-Oxo-10Z-octadecenoic acid
+True,False,False,False,Guaiacolsulfonic acid
+True,True,False,False,13-Cis Retinoic acid
+True,True,False,False,Glutethimide
+True,True,True,True,"TP1/1H-Imidazole, 1-dodecyl-"
+True,True,False,False,"2-Nonynoic acid, ethyl ester"
+True,False,False,False,Cysteinamide
+True,True,False,False,Ismine
+True,True,True,True,1-Phenyl-2-(1-pyrrolidinyl)-1-propanone
+True,False,False,False,"1-Undecene, 11,11-dimethoxy-"
+True,True,True,True,Nicotinaldehyde oxime
+True,False,False,False,"9,10-Anthracenedione, 1-amino-2-bromo-4,5-dihydroxy-8-[(phenylmethyl)amino]-"
+True,False,False,False,"4,4A,5,9b-Tetrahydroindeno(1,2-d)-1,3-dioxin"
+True,True,True,True,"[4-[[4-(Diethylamino)phenyl]phenylmethylene]-2,5-cyclohexadien-1-ylidene]diethylammonium hydroxide"
+True,False,False,False,"5-(Benzylamino)pyrimidine-2,4(1h,3h)-dione"
+True,False,False,False,"5-[(4-Tert-butylphenyl)sulfanyl]quinazoline-2,4-diamine"
+True,True,True,True,"(1S,2S)-2-(1,1-Dimethylethyl)cyclohexanol"
+True,True,False,False,NS00080564
+True,True,False,False,7-Tetradecanol
+True,True,True,True,Pyrrolidine-1-carbaldehyde
+True,False,False,False,Tert-butylbenzoic acid
+True,True,False,False,"N1,N1-Dimethyl-N2-(5-nitroquinolin-8-yl)ethane-1,2-diamine"
+True,True,True,True,"4,5-Dihydro-1,3-bis(2-hydroxyethyl)-2-pentadecyl-1H-imidazolium chloride"
+True,True,False,False,"3-Methyl-5-[(1S,2R,4aR)-1,2,4a,5-tetramethyl-7-oxo-1,2,3,4,4a,7,8,8a-octahydro-1-naphthalenyl]pentanoic acid"
+True,False,False,False,(1-Oxohexadecyl)acetic acid
+True,False,False,False,"Phenol, 3-tridecyl-"
+True,True,False,False,1-Cyclohexyl-5-ethylbarbituric acid
+True,True,True,True,"2,4,6-Trimethylquinoline"
+True,False,False,False,Thiofanox sulfoxide
+True,True,True,True,Betaine D-gluconate
+True,True,False,False,Cyclohexyl methyl ketone
+True,True,False,False,Sodium 4-amino-o-xylene-5-sulphonate
+True,True,True,True,2-(Methylamino)butan-1-ol
+True,True,False,False,3-Allyl-2-thioxooxazolidin-4-one
+True,True,False,False,2-Propylpent-4-enal
+True,True,False,False,3-Sulfophthalic acid
+True,False,False,False,"Dodecanoic acid, 3-hydroxy-2,2-bis(hydroxymethyl)propyl ester"
+True,True,False,False,2-Furoic acid hydrazide
+True,True,True,True,"N,N'-Bis(1-methylpropyl)-1,4-benzenediamine"
+True,False,False,False,"2,4-Dit-butyl-6-nitro-phenol"
+True,True,True,True,Isobutylthiobenzene
+True,False,False,False,Methyl 4-phenylbutyrate
+True,True,False,False,NS00087259
+True,False,False,False,"5,7-Dihydroxy-2-(4-hydroxyphenyl)-6-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]chromen-4-one"
+True,False,False,False,N-(1-Adamantyl)-N'-[2-(methylthio)benzyl]urea
+True,True,False,False,Ethyl 1-hydroxycyclohexane-1-carboxylate
+True,True,False,False,Cholest-5-en-3ß-yl propionate
+True,True,False,False,2-(4-Fluorophenyl)propionic acid
+True,False,False,False,Trans-4-methylcyclohexanol
+True,True,False,False,Propamocarb
+True,True,False,False,2-Methylpropyl furan-3-propionate
+True,False,True,True,Terbutryn
+True,True,True,True,P-cyanophenyl trans-4-pentylcyclohexanecarboxylate
+True,True,False,False,2-Hydroxy-2-methylpropanedioic acid
+True,True,False,False,S-benzyl-L-cysteine
+True,True,False,False,TP1/Mepiquat chloride
+True,True,True,True,3-Methyl-4-(methylthio)phenyl methylcarbamate
+True,False,False,False,[5-Ammonio-3-methyl-2-hydroxyphenyl]ammonium sulphate
+True,False,False,False,3-(2-Hydroxyphenyl)-1-phenylpropan-1-one
+True,False,True,True,Dimethyl(2-naphthyl)amine
+True,False,False,False,NS00077431
+True,False,False,False,Diethylammonium acetate
+True,False,False,False,"2-Methyl-1,3-dioxane-5,5-dimethanol"
+True,True,False,False,Trans-3-vinylcyclohexan-1-ol
+True,False,False,False,Dibutyl sulphite
+True,False,False,False,"1,2,4-Triethylbenzene"
+True,False,False,False,"Alpha,4-Dichloroanisole"
+True,True,True,True,"2,6-Diisopropylaniline"
+True,True,False,False,"Oxirane, 2-methyl-2-phenyl-"
+True,True,False,False,"Hexa-2,4-dienyl propionate"
+True,True,True,True,Elliptinium acetate
+True,True,True,True,"N,N-Diethylglycine"
+True,True,True,True,Diethyl L-glutamate hydrochloride
+True,False,False,False,"3-[(1S,2R)-1-Methyl-1-oxidopyrrolidin-2-yl]pyridine"
+True,True,False,False,3-Methylpiperidine
+True,True,False,False,Octyl 2-pyridyl ether
+True,True,False,False,N-Ethyl-2-nitroaniline
+False,True,True,True,5-(Aminosulfonyl)-N-[(1-ethyl-2-pyrrolidinyl)methyl]-2-hydroxybenzamide
+False,True,True,True,N~1~-{1-[(1-Ethoxy-1-oxopropan-2-yl)imino]-1-hydroxy-4-methylpentan-2-yl}-N~4~-hydroxy-2-(2-methylpropyl)butanediimidic acid
+False,True,True,True,D-Mannose
+False,True,True,True,"Ethanol, 2-(cyclohexylamino)-"
+False,True,True,True,"TP1/Hexanoic acid, 6,6',6''-(1,3,5-triazine-2,4,6-triyltriimino)tris-"
+False,True,True,True,Nonivamide
+False,True,False,False,"Gamma-Resorcylic acid, 4-methyl-"
+False,True,True,True,2-Nitropyridin-3-ol
+False,True,True,True,2-Acetylthiazole
+False,True,False,False,"1-Amino-3-[(1,1-dimethylethyl)(phenylmethyl)amino]propan-2-ol"
+False,True,True,True,D-(+)-Pipecolinic acid
+False,True,False,False,"2,2'-Dihydroxy-4-methoxybenzophenone"
+False,True,False,False,C13 Alkyl amidopropyl amine oxide
+False,True,False,False,Ethyl 3-[2-(diphenylmethylidene)hydrazino]but-2-enoate
+False,True,True,True,"Cyclopentane, 1-methyl-2-(2-propenyl)-, trans-"
+False,True,False,False,"2,6-Dihydroxy-N-(2-hydroxyethyl)benzamide"
+False,True,False,False,2-Hydroxyisopropyl propionate
+False,True,True,True,"Diethyl 3,3'-thiodipropionate"
+False,True,False,False,Piperidin-3-ylmethanol
+False,True,True,True,C10-SAS
+False,True,False,False,"8-(Diethylamino)-3,7-dihydro-1,3,7-trimethyl-1H-purine-2,6-dione"
+False,True,True,True,"5-[[4-[Bis(2-hydroxyethyl)amino]phenyl]imino]-1-ethyl-1,2,5,6-tetrahydro-4-methyl-2,6-dioxonicotinonitrile"
+False,True,True,True,Pinacidil
+False,True,True,True,"2,2'-Oxybis-6-oxabicyclo[3.1.0]hexane"
+False,True,False,False,Indan-2-ol
+False,True,True,True,Methyl 3-cyano-2-methylpropionate
+False,True,True,True,Obidoxime
+False,True,True,True,"[2-(1-Hydroxyethyl)-2-methyl-1,3-dioxolan-4-yl]methyl butyrate"
+False,True,False,False,Ethyl 2-methylnicotinate
+False,True,True,True,"1,1,1,3,3,3-Hexafluoropropane-2,2-diamine"
+False,True,False,False,"2,4-Dinitrosoresorcinol"
+False,True,False,False,N-hexyl-N-(3-phenylpropyl)hexan-1-amine
+False,True,True,True,Arotinolol
+False,True,False,False,"Benzoic acid, 2-hydroxy-, 2-(2-hydroxypropoxy)-1-methylethyl ester"
+False,True,True,True,"Ethanol, 2-[(4-hydrazinophenyl)sulfonyl]-"
+False,True,True,True,P-phenylenediamine hydrochloride
+False,True,True,True,Methyl N-methyl succinamate
+False,True,True,True,B18C6-BENZO CROWN ETHER
+False,True,True,True,JWH-007
+False,True,True,True,Cobalt glycerol phosphate
+False,True,True,True,"1-(5,8-Dimethoxy-2,2-dimethyl-2H-1-benzopyran-6-yl)ethan-1-one"
+False,True,True,True,"1-Decanamine, N-methyl-N-octyl-"
+False,True,True,True,"N2,9-Diacetylguanine"
+False,True,True,True,"3-[(3,7-Dimethyl-2,6-octadienyl)oxy]propiononitrile"
+False,True,False,False,"5-Dodecene, (e)-"
+False,True,True,True,Ethyl 2-(chloromethyl)-3-furoate
+False,True,True,True,Perfluoroheptane sulfonamide (FHpSA)
+False,True,True,True,"1,2,3,4,6,7,10-Heptachlorododecane"
+False,True,False,False,PPG n6
+False,True,True,True,"(2,3-Dichlorophenyl)oxophenylacetic acid"
+False,True,True,True,"Indan-1-one 1-(4,5-dihydro-1H-imidazol-2-yl)hydrazone"
+False,True,True,True,Cortisone acetate
+False,True,True,True,"3-[(6-Amino-2,2,4-trimethylhexyl)amino]propanenitrile"
+False,True,True,True,"2,2-Dimethyl-1,4,7,10-tetraoxacyclododecane"
+False,True,False,False,"Pyrazine, 2-[(2-furanylmethyl)thio]-3-methyl-"
+False,True,True,True,Ethyl acetate
+False,True,True,True,4-Tert-Butyl hydrogen L-aspartate
+False,True,False,False,Isovaleryl-dihydrohelenalin (Arnicolide B)
+False,True,False,False,1-(2-Hydroxy-5-nonylphenyl)-2-phenylethan-1-one oxime
+False,True,True,True,Cobalt(II) isooctanoate
+False,True,False,False,4-Hydroxy-3-[[2-methyl-5-[(phenylamino)sulphonyl]phenyl]azo]naphthalene-2-sulphonic acid
+False,True,False,False,2-Methoxy-5-methylaniline
+False,True,True,True,"TP1/N-Butyl-2,2,6,6-tetramethylpiperidin-4-amine"
+False,True,True,True,3-Methoxy-2-(methoxymethyl)acrylonitrile
+False,True,False,False,"2-(3,3-Dimethylbicyclo[2.2.1]hept-2-ylidene) ethanol."
+False,True,False,False,"4-Methoxybenzyl Alcohol (o-,m-,p-)."
+False,True,True,True,Nitracaine
+False,True,True,True,1-Pyrroline-2-Carboxylate
+False,True,False,False,"1-Methylethane-1,2-diyl bis(5-methylheptanoate)"
+False,True,True,True,"3,7-Dimethylnon-6-en-1-yn-3-ol"
+False,True,False,False,2-C-(Nonafluorobutyl)-β-L-ribofuranose
+False,True,True,True,"Benzenediazonium, 4-(diethylamino)-2-ethoxy-, tetrafluoroborate(1-)"
+False,True,False,False,"TP2/Glycine, N-(2-hydroxyethyl)-N-[2-[(1-oxododecyl)amino]ethyl]-, monosodium salt"
+False,True,True,True,"Diammonium 4,4'-[1,3-phenylenebis[azo(4,6-diamino-3,1-phenylene)azo]]bis(benzenesulphonate)"
+False,True,False,False,Oxymetholone
+False,True,True,True,N-Ethylsuccinimide
+False,True,False,False,2-(2-Butoxyethoxy)ethyl acetate
+False,True,True,True,"5-Oxo-L-proline, compound with (5a,6a)-7,8-didehydro-4,5-epoxy-3-methoxy-17-methylmorphinan-6-ol (1:1)"
+False,True,False,False,NS00084919
+False,True,False,False,Lithium 4-[(octadecylamino)carbonyl]benzoate
+False,True,True,True,2-Hydroxyethyl acetoacetate
+False,True,False,False,"3,3,6,6-Tetramethylmorpholine-2,5-dione"
+False,True,False,False,(Z)-1-chlorohex-3-ene
+False,True,False,False,"N,N,4-Trimethylaniline"
+False,True,False,False,"1H-Indole, 6-methyl-"
+False,True,False,False,"Acetophenone, 2'-(pentyloxy)-"
+False,True,True,True,Dimethyl ethylmalonate
+False,True,True,True,1-Nitroanthraquinone
+False,True,True,True,Su9516
+False,True,True,True,4-(3-Hydroxybutoxy)butan-2-ol
+False,True,True,True,Phenacaine
+False,True,False,False,Lacidipine
+False,True,False,False,Parfumine
+False,True,True,True,Ethyl (±)-N-[1-(4-fluorophenyl)ethyl]-N-formylaminoacetate
+False,True,True,True,"Dibutyl 1,2-benzenedicarboxylate"
+False,True,True,True,"1,2,3,4-Tetrahydro-2,2,4,7-tetramethylquinoline"
+False,True,True,True,Sodium 5-sulphosalicylate
+False,True,True,True,5-Nonylsalicylaldehyde oxime
+False,True,True,True,N-Methylisatin
+False,True,False,False,Cinchonine sulphate
+False,True,True,True,2-Hydroxy-10-undecenoic acid
+False,True,False,False,"(1R,2R,4R,5R,7S,10R,11S,14S,15S,16S,18S,19S)-15-(3-hydroxyprop-1-ynyl)-10,14-dimethylhexacyclo[9.8.0.02,4.05,10.014,19.016,18]nonadecane-5,7,15-triol"
+False,True,True,True,Tripotassium hydrogen [[(1-methylethyl)imino]bis(methylene)]bisphosphonate
+False,True,False,False,2-Imino-2H-purin-6-ol--hydrogen chloride (1/1)
+False,True,False,False,"1,2-Ethanediamine, N-phenyl-"
+False,True,False,False,11-Nitro-1-Undecene
+False,True,True,True,1-[(4-Fluorophenyl)methyl]indole-3-carboxylic acid
+False,True,True,True,"3,3'-Oxybisbutan-1-ol"
+False,True,True,True,"TP1/1,4-Diaminocyclohexane"
+False,True,True,True,2-(1-Piperazinyl)pyrimidine
+False,True,False,False,Diethyl (3-aminopropyl)phosphonate
+False,True,True,True,Dipropylene glycol monoethyl ether
+False,True,True,True,TP1/4-(2-Hydroxyethyl)morpholine
+False,True,True,True,"2-Pyrrolidinone, 1-acetyl-"
+False,True,True,True,"Benzenesulfonamide, 4-methyl-N-propyl-"
+False,True,True,True,Racemosin
+False,True,False,False,Tert-Butylacrylamide
+False,True,True,True,Lupinine
+False,True,True,True,Gilteritinib
+False,True,False,False,"TP1/1,3-Bis(isocyanatomethyl)benzene"
+False,True,True,True,2-(2-Hydroxybutoxy)butan-1-ol
+False,True,False,False,Epolamine
+False,True,True,True,"2,5-Dihydroxybenzonitrile"
+False,True,True,True,"2',4,4'-Trihydroxychalcone"
+False,True,True,True,Triacetin
+False,True,False,False,Metamitron
+False,True,False,False,"1-Hexyl-1,2-dihydro-6-hydroxy-4-methyl-2-oxonicotinonitrile"
+False,True,True,True,6-Methylpiperidin-2-one
+False,True,True,True,"3-Methyl-4,6-di-tert-butylphenol"
+False,True,True,True,"1-{2-[4-(Diethylamino)phenyl]hydrazono}-1,2-dihydronaphthalen-2-one"
+False,True,True,True,1-Amino-3-chloropropan-2-ol
+False,True,True,True,"Thiosulfuric acid (H2S2O3), S-(2-aminoethyl) ester"
+False,True,True,True,M-aminobenzamidine dihydrochloride
+False,True,True,True,Levomethadyl acetate
+False,True,False,False,2-Acetylfluorene
+False,True,True,True,"2,2'-Oxybisbutan-1-ol"
+False,True,True,True,4-Piperidinepropanol
+False,True,True,True,Cyclohexanecarboxamide
+False,True,True,True,(1-Ethylhexyl) hydrogen phthalate
+False,True,False,False,"1,1,2,2-Tetrafluoro-1-(2-methoxyethoxy)ethane"
+False,True,False,False,NS00060428
+False,True,False,False,"2-Butanol, 1-[[2-(1,1-dimethylethyl)cyclohexyl]oxy]-"
+False,True,True,True,2-Acetylpyridine
+False,True,False,False,"2-Naphthalenecarboxamide, 4-[[5-(aminocarbonyl)-2-methylphenyl]azo]-3-hydroxy-N-phenyl-"
+False,True,True,True,Hexahydro-1H-azepine-1-ethanol
+False,True,False,False,"1H-Pyrrolizine-1-methanol, hexahydro-, (1S-cis)- (Laburnine)"
+False,True,True,True,1-Pyrrolidineethanamine
+False,True,True,True,Cycloechinulin
+False,True,False,False,C-8 Ceramide-1-phosphate
+False,True,False,False,"2-Nonynoic acid, 2-propenyl ester"
+False,True,True,True,(2-Chloro-1-ethoxyethyl)benzene
+False,True,False,False,Benzyl L-prolinate
+False,True,False,False,"2,3-Pyridinedicarboximide"
+False,True,False,False,"4-[4-[[4-(Dimethylamino)phenyl]methylene]-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-1-yl]benzenesulphonic acid"
+False,True,True,True,NS00050550
+False,True,True,True,Tridecylamine
+False,True,True,True,"TP3/Nonanoic acid, 2,2-bis[[(1-oxononyl)oxy]methyl]-1,3-propanediyl ester"
+False,True,False,False,(S)-4-amino-5-[(2-(1H-imidazol-4-yl)ethyl)amino]-5-oxopentanoic acid
+False,True,False,False,N-hex-5-enyladipamide
+False,True,False,False,"6-Chloro-1,3,5-triazine-2,4-diamine"
+False,True,True,True,"1,2-Diphenylethanone"
+False,True,True,True,Ethyl L-lysinate monohydrochloride
 False,True,False,False,NS00023551
+False,True,False,False,Methacholine chloride
+False,True,False,False,Acid Black 52
+False,True,False,False,"2-Butenoic acid, 2-phenylethyl ester, (2E)-"
+False,True,True,True,5-(Diethylamino)pent-3-yn-2-ol
+False,True,True,True,Cefroxadine
+False,True,False,False,Ipronidazole
+False,True,True,True,2-Methyl-4-nitrosoresorcinol
+False,True,False,False,"Ethyl (3aa,4ÃŸ, 7ÃŸ,7aa)-Octahydro-4,7-methano-3aH-indene-3a-carboxylate."
+False,True,True,True,2-(2-Ethoxyethoxy)ethyl acetate
+False,True,True,True,Phenylphosphinic acid
+False,True,True,True,Bis(2-ethylhexyl) isophthalate
+False,True,True,True,2-Dodecyl-9H-thioxanthen-9-one
+False,True,True,True,Formanilide
+False,True,False,False,Bis(oxiranylmethyl) p-phenylenebiscarbamate
+False,True,True,True,Isobutylparaben
+False,True,True,True,N-[2-(diethylamino)ethyl]-5-(ethylsulphonyl)-2-methoxybenzamide monohydrochloride
+False,True,False,False,"N,N'-Dimethyl-p-phenylenediamine"
+False,True,False,False,4-Methoxychalcone
+False,True,True,True,N-(4-Trifluoromethylnicotinoyl)glycine (TFNG)
+False,True,True,True,TP2/N-Methyldioctylamine
+False,True,False,False,Thio-Atpa
+False,True,False,False,NOA 435343
+False,True,True,True,"Trans-2,3,4-trimethoxycinnamic acid"
+False,True,False,False,"2'-[(2-Chlorophenyl)amino]-6'-(diethylamino)spiro[isobenzofuran-1(3H),9'-[9H]xanthene]-3-one"
+False,True,True,True,"2-Amino-6,6,7,7,8,8,8-heptafluorooctanoic acid"
+False,True,False,False,2-Methylbutyl acetate
+False,True,True,True,"2,4-Dichlorobenzamide"
+False,True,False,False,"2,4(1H,3H)-Pyrimidinedione, 1,3-dimethyl-"
+False,True,False,False,Abbott 29590
+False,True,False,False,Nandrolone decanoate
+False,True,False,False,5-[(1-Ethylpyrrolidin-2-ylidene)ethylidene]-4-oxo-2-thioxothiazolidin-3-ethanesulphonic acid
+False,True,True,True,4-Isopropylcyclohexyl methacrylate
+False,True,True,True,Ethyl ß-hydroxyfuran-2-propionate
+False,True,True,True,"2,5-Cyclohexadien-1-one, 4-(3,5-dimethyl-4-oxo-2,5-cyclohexadien-1-ylidene)-2,6-dimethyl-"
+False,True,False,False,Methyl(6-methyl-2-pyridylmethyl)amine
+False,True,True,True,"3-Heptanone, 2-methyl-"
+False,True,True,True,"(3,7,7-Trimethylbicyclo[4.1.0]hept-3-en-2-yl)methyl acetate"
+False,True,True,True,NS00028921
+False,True,False,False,"2-[[4-(Dimethylamino)-2,5-dimethoxyphenyl]azo]-1,3-dimethyl-1H-imidazolium methyl sulphate"
+False,True,False,False,NS00091707
+False,True,True,True,"Disodium 3-[2-(2-carboxylatoethoxy)ethyl]-2-heptyl-2,3-dihydro-1H-imidazole-1-propionate"
+False,True,False,False,"TP1/Dipropyl 2,5-pyridinedicarboxylate"
+False,True,False,False,"4,5,6,7-Tetrahydro-3-(4-methoxyphenyl)-1H-indazole"
+False,True,True,True,"6-(Methoxymethyl)-2-(4-pyridyl)pyrimidin-4-yl N,N-dimethylcarbamate"
+False,True,False,False,2-Ethyl-2-(3-methoxyphenyl)-butanenitrile
+False,True,True,True,Sodium 5-aminonaphthalene-2-sulphonate
+False,True,True,True,Nipecotic acid
+False,True,False,False,"2-Aminononane-1,9-dioic acid"
+False,True,False,False,FDU-NNEI
+False,True,True,True,Sodium 3-(4-aminophenoxy)propanesulphonate
+False,True,True,True,"Carbonic acid, butyl phenyl ester"
+False,True,True,True,2-Hydroxypropyl valerate
+False,True,True,True,2-[4-(Cyclopropylcarbonyl)phenyl]-2-methylpropanoic acid - cyclohexanamine (1:1)
+False,True,True,True,1-Methyl-4-[(methylphenylhydrazono)methyl]pyridinium acetate
+False,True,False,False,8-Methyl-8-azabicyclo[3.2.1]octan-3-ol
+False,True,True,True,"(7E,13E)-9,15-Dihydroxy-4,10,16-trimethyl-1,5,11-trioxacyclohexadeca-7,13-diene-2,6,12-trione"
+False,True,False,False,"1-Tert-Butyl-3-(4-methylphenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine"
+False,True,False,False,"Methyl (19a)-16,17-didehydro-19-methyl-11-[(1-phenyl-1H-tetrazol-5-yl)oxy]oxayohimban-16-carboxylate"
+False,True,True,True,"2-Piperidinone, 1-methyl-"
+False,True,False,False,"3-([1,1'-Biphenyl]-4-yloxy)propane-1,2-diol"
+False,True,True,True,"Nona-2,6-dienal"
+False,True,True,True,Bis(2-methylbutan-2-yl) peroxide
+False,True,False,False,Ethyl 4-piperidinecarboxylate
+False,True,True,True,"2,2,6,6-Tetramethylpiperidin-4-amine"
+False,True,False,False,N-(3-phenyl-2-sulfanylpropanoyl)phenylalanylalanine
+False,True,False,False,Thiophene-2-carbaldehyde oxime
+False,True,True,True,NS00084300
+False,True,True,True,"4,5-Bis(acetoxymethyl)-2-methyl-3-pyridyl laurate hydrochloride"
+False,True,False,False,Terbumeton
+False,True,True,True,"5-(4-Methoxyanilino)-5-oxo-3-(3,4,5-trimethoxyphenyl)pentanoic acid"
+False,True,False,False,"N'-(4-Cyano-3-methylpyrido[1,2-a]benzimidazol-1-yl)-N,N-dimethyliminoformamide"
+False,True,False,False,"4-(Trifluoromethyl)benzaldehyde 1-[2,6-dichloro-4-(trifluoromethyl)phenyl]hydrazone"
+False,True,True,True,3-[(2-Hydroxyethoxy)methyl]heptanoic acid
+False,True,True,True,5-{[4-(4-Fluorophenyl)piperidin-3-yl]methoxy}-2-methoxyphenol
+False,True,True,True,Metolcarb
+False,True,True,True,Nordihydrocapsaicin
+False,True,True,True,"N,2-Dimethyl-N-(4-methylphenyl)propanamide"
+False,True,False,False,Methyl phenylacetate
+False,True,True,True,"Pentane-1,4-diol"
+False,True,True,True,"1,3-Dioxolane-2-propiononitrile"
+False,True,True,True,Ethyl (S)-(3-methyl-4-oxo-5-piperidin-1-ylthiazolidin-2-ylidene)acetate
+False,True,False,False,"Benzenamine, 4-butyl-2-nitro-"
+False,True,False,False,"N-(1,1-dimethylethyl)formamide"
+False,True,False,False,Phendimetrazine hydrogen tartrate
+False,True,True,True,Euphroside
+False,True,True,True,"(2-Hydroxy-1,1-dimethylethyl)ammonium myristate"
+False,True,False,False,2-(5-Chloro-2-methylanilino)-2-phenylacetonitrile
+False,True,True,True,"2-[(1R,3S,4S)-4-Ethenyl-4-methyl-3-(prop-1-en-2-yl)cyclohexyl]propan-2-ol"
+False,True,True,True,Myristoleic acid methyl ester
+False,True,True,True,Bis[2-(2-hydroxymethylethoxy)methylethyl] phosphonate
+False,True,True,True,"2,2-Dimethoxyethanol"
+False,True,False,False,TP1/Tridemorph
+False,True,False,False,"1-(2,4-Dihydroxyphenyl)undecanone"
+False,True,True,True,2-Methoxy-1-[(1-methoxypropan-2-yl)oxy]propane
+False,True,True,True,Mono(2-ethylhexyl) phthalate (MEHP)
+False,True,True,True,N-Ethylvaleramide
+False,True,False,False,"Acetamide, N-[3-(cyclohexylamino)-4-methoxyphenyl]-"
+False,True,False,False,"N,1-dimethylpropylamine"
+False,True,True,True,"6,7,8,9-Tetrahydro-9-methyl-4-(trifluoromethyl)-2H-pyrano[3,2-g]quinolin-2-one"
+False,True,True,True,"1-Propanesulfonic acid, 3-[[(dimethylamino)thioxomethyl]thio]-"
+False,True,False,False,"Dodecanamide, N-(2-hydroxypropyl)-"
+False,True,False,False,Cobalt dinicotinate
+False,True,False,False,Dioxo-acetildenafil
+False,True,True,True,Veratronitrile
 False,True,False,False,NS00080928
-False,True,True,True,NS00021764
-False,True,True,True,NS00050421
-False,True,True,True,NS00040340
-False,True,True,True,NS00028941
-False,True,True,True,NS00070860
-False,True,True,True,NS00045385
-False,True,True,True,NS00080207
-False,True,True,True,NS00039534
-False,True,True,True,NS00094821
-False,True,True,True,NS00078145
-False,True,True,True,NS00071784
-False,True,True,True,NS00025277
-False,True,True,True,NS00110330
-False,True,False,False,NS00006018
-False,True,True,True,NS00066541
-False,True,False,False,NS00058158
-False,True,True,True,NS00094171
-False,True,True,True,NS00021795
-False,True,True,True,NS00012985
-False,True,False,False,NS00082478
-False,True,True,True,NS00014736
-False,True,True,True,NS00023256
-False,True,False,False,NS00004522
-False,True,True,True,NS00003410
-False,True,False,False,NS00020886
-False,True,True,True,NS00001469
-False,True,True,True,NS00005371
-False,True,True,True,NS00010576
-False,True,True,True,NS00009063
-False,True,True,True,NS00010606
-False,True,False,False,NS00033746
-False,True,True,True,NS00076534
-False,True,False,False,NS00080753
-False,True,True,True,NS00070663
-False,True,False,False,NS00032539
-False,True,False,False,NS00058299
-False,True,False,False,NS00016773
-False,True,True,True,NS00050946
-False,True,False,False,NS00088134
-False,True,True,True,NS00103397
-False,True,True,True,NS00089335
-False,True,True,True,NS00032683
-False,True,False,False,NS00102666
-False,True,False,False,NS00026939
-False,True,True,True,NS00039525
-False,True,True,True,NS00010621
-False,True,True,True,NS00070158
-False,True,False,False,NS00076962
-False,True,False,False,NS00020765
-False,True,True,True,NS00057829
-False,True,False,False,NS00079647
-False,True,True,True,NS00036949
-False,True,False,False,NS00062794
-False,True,True,True,NS00008914
-False,True,False,False,NS00036333
-False,True,False,False,NS00093128
-False,True,True,True,NS00050362
-False,True,True,True,NS00003291
-False,True,False,False,NS00019686
-False,True,True,True,NS00044915
-False,True,True,True,NS00065754
-False,True,False,False,NS00029165
-False,True,True,True,NS00042507
-False,True,False,False,NS00069462
-False,True,False,False,NS00063187
-False,True,False,False,NS00049489
-False,True,True,True,NS00023457
-False,True,True,True,NS00051384
-False,True,True,True,NS00062035
-False,True,True,True,NS00023542
-False,True,True,True,NS00104144
-False,True,True,True,NS00047003
-False,True,False,False,NS00056340
-False,True,False,False,NS00026402
-False,True,True,True,NS00073945
-False,True,True,True,NS00027056
-False,True,False,False,NS00014752
-False,True,False,False,NS00015140
-False,True,False,False,NS00051054
-False,True,True,True,NS00055701
-False,True,False,False,NS00068427
-False,True,False,False,NS00001938
-False,True,False,False,NS00011457
-False,True,False,False,NS00022433
-False,True,False,False,NS00092348
-False,True,True,True,NS00033373
-False,True,True,True,NS00068721
-False,True,False,False,NS00103064
-False,True,True,True,NS00065005
-False,True,True,True,NS00041350
-False,True,False,False,NS00036928
-False,True,False,False,NS00063307
-False,True,True,True,NS00020309
-False,True,False,False,NS00051861
-False,True,False,False,NS00005728
-False,True,True,True,NS00044094
-False,True,True,True,NS00093142
-False,True,False,False,NS00058126
-False,True,True,True,NS00069171
-False,True,False,False,NS00032359
-False,True,True,True,NS00062200
-False,True,False,False,NS00007092
-False,True,False,False,NS00030321
-False,True,True,True,NS00058541
-False,True,False,False,NS00077538
-False,True,False,False,NS00032786
-False,True,False,False,NS00009931
-False,True,False,False,NS00001643
-False,True,True,True,NS00029400
-False,True,True,True,NS00103944
-False,True,True,True,NS00081755
-False,True,True,True,NS00031341
-False,True,False,False,NS00008036
-False,True,False,False,NS00046935
-False,True,False,False,NS00015958
-False,True,True,True,NS00035967
-False,True,True,True,NS00021873
-False,True,True,True,NS00096329
-False,True,True,True,NS00021103
-False,True,False,False,NS00004830
-False,True,True,True,NS00040068
-False,True,True,True,NS00046488
-False,True,True,True,NS00000395
-False,True,False,False,NS00003589
-False,True,True,True,NS00032253
-False,True,True,True,NS00010605
-False,True,False,False,NS00052033
-False,True,True,True,NS00079789
-False,True,True,True,NS00076877
-False,True,False,False,NS00045638
-False,True,True,True,NS00036229
-False,True,False,False,NS00016761
-False,True,True,True,NS00024431
-False,True,False,False,NS00006048
-False,True,True,True,NS00069446
-False,True,False,False,NS00048442
-False,True,True,True,NS00060406
-False,True,True,True,NS00050658
-False,True,False,False,NS00081262
-False,True,False,False,NS00009956
-False,True,False,False,NS00035054
-False,True,True,True,NS00045207
-False,True,False,False,NS00070029
-False,True,True,True,NS00026701
-False,True,True,True,NS00007746
-False,True,True,True,NS00024697
-False,True,False,False,NS00038665
-False,True,False,False,NS00053933
-False,True,False,False,NS00063360
-False,True,False,False,NS00024353
-False,True,True,True,NS00073946
-False,True,True,True,NS00025843
+False,True,True,True,"Ethanol, 2-(octylamino)-"
+False,True,True,True,Tris(2-chloropropyl) phosphate
+False,True,True,True,3-Vinyloxazolidin-2-one
+False,True,True,True,Methyl aminolevulinate
+False,True,True,True,Sodium 1-acetoxytetradecanol sulphate
+False,True,False,False,"3,4-Dihydro-4,4-dimethyl-2H-pyran-2-one"
+False,True,False,False,Phenylethylhydrazine sulfate
+False,True,False,False,"1-Pentofuranosyl-1H-pyrazolo[3,4-d]pyrimidin-4-ol"
+False,True,False,False,"2,3,3-Trimethyl-5-(phenylsulphonyl)-3H-indole"
 False,True,True,True,NS00055045
-False,True,False,False,NS00048825
-False,True,False,False,NS00080066
-False,True,False,False,NS00026430
-False,True,True,True,NS00048546
-False,True,True,True,NS00102751
-False,True,True,True,NS00039519
-False,True,False,False,NS00021069
-False,True,True,True,NS00103320
-False,True,False,False,NS00014428
-False,True,True,True,NS00031813
-False,True,False,False,NS00046524
-False,True,True,True,NS00083259
-False,True,True,True,NS00059530
-False,True,False,False,NS00023412
-False,True,True,True,NS00015339
-False,True,True,True,NS00079923
-False,True,False,False,NS00057545
-False,True,False,False,NS00021021
-False,True,True,True,NS00056014
-False,True,True,True,NS00022549
-False,True,True,True,NS00064247
-False,True,True,True,NS00010095
-False,True,False,False,NS00083771
-False,True,False,False,NS00078840
-False,True,False,False,NS00056626
-False,True,False,False,NS00031273
-False,True,False,False,NS00023861
-False,True,True,True,NS00042977
-False,True,False,False,NS00050107
-False,True,True,True,NS00038822
-False,True,True,True,NS00021348
-False,True,True,True,NS00030787
-False,True,False,False,NS00064377
-False,True,False,False,NS00073250
-False,True,True,True,NS00054092
-False,True,True,True,NS00029300
-False,True,False,False,NS00083227
-False,True,True,True,NS00103523
-False,True,True,True,NS00002166
-False,True,True,True,NS00031650
-False,True,True,True,NS00003157
-False,True,True,True,NS00025468
-False,True,False,False,NS00027350
-False,True,True,True,NS00012347
-False,True,True,True,NS00095873
-False,True,False,False,NS00019859
-False,True,True,True,NS00005988
-False,True,False,False,NS00041311
-False,True,False,False,NS00064003
-False,True,False,False,NS00037945
-False,True,True,True,NS00034278
-False,True,False,False,NS00020241
-False,True,False,False,NS00002788
-False,True,False,False,NS00003147
-False,True,True,True,NS00031373
-False,True,True,True,NS00045279
-False,True,False,False,NS00022610
-False,True,True,True,NS00040070
-False,True,True,True,NS00060649
-False,True,True,True,NS00009950
-False,True,False,False,NS00036358
-False,True,False,False,NS00041947
-False,True,False,False,NS00056998
-False,True,False,False,NS00049782
-False,True,False,False,NS00050874
-False,True,True,True,NS00103464
-False,True,True,True,NS00005874
-False,True,False,False,NS00014568
-False,True,True,True,NS00057418
-False,True,False,False,NS00029485
-False,True,False,False,NS00081999
-False,True,False,False,NS00045565
-False,True,True,True,NS00035810
-False,True,True,True,NS00034676
-False,True,True,True,NS00019711
-False,True,False,False,NS00009558
-False,True,False,False,NS00076951
-False,True,True,True,NS00018664
-False,True,False,False,NS00102670
-False,True,True,True,NS00007256
-False,True,False,False,NS00096141
-False,True,False,False,NS00011448
-False,True,True,True,NS00035152
-False,True,True,True,NS00073203
-False,True,True,True,NS00043001
-False,True,True,True,NS00025712
-False,True,False,False,NS00050024
-False,True,True,True,NS00023621
-False,True,True,True,NS00058381
-False,True,True,True,NS00091126
-False,True,False,False,NS00024358
-False,True,True,True,NS00009285
-False,True,False,False,NS00063772
-False,True,True,True,NS00020553
-False,True,True,True,NS00084745
-False,True,True,True,NS00069948
-False,True,False,False,NS00023120
-False,True,False,False,NS00002500
-False,True,False,False,NS00007831
-False,True,True,True,NS00083382
-False,True,True,True,NS00025075
-False,True,False,False,NS00090553
-False,True,True,True,NS00015522
-False,True,True,True,NS00093502
-False,True,True,True,NS00049032
-False,True,False,False,NS00113928
-False,True,True,True,NS00103163
-False,True,True,True,NS00026114
-False,True,True,True,NS00050149
-False,True,False,False,NS00037643
-False,True,True,True,NS00004273
-False,True,True,True,NS00046627
-False,True,False,False,NS00050728
-False,True,True,True,NS00000678
-False,True,True,True,NS00098831
-False,True,True,True,NS00031777
-False,True,False,False,NS00065141
-False,True,False,False,NS00103234
-False,True,True,True,NS00013353
-False,True,True,True,NS00023617
-False,True,True,True,NS00021798
-False,True,False,False,NS00083957
-False,True,False,False,NS00001182
-False,True,False,False,NS00091599
-False,True,False,False,NS00103063
-False,True,True,True,NS00073863
-False,True,True,True,NS00009822
-False,True,True,True,NS00019078
-False,True,False,False,NS00027948
-False,True,False,False,NS00076950
-False,True,True,True,NS00027626
-False,True,True,True,NS00031211
-False,True,True,True,NS00045227
-False,True,False,False,NS00073856
-False,True,False,False,NS00089824
-False,True,True,True,NS00102621
-False,True,False,False,NS00028600
-False,True,True,True,NS00007962
-False,True,False,False,NS00045008
-False,True,True,True,NS00032880
-False,True,True,True,NS00018665
-False,True,True,True,NS00023209
-False,True,False,False,NS00020835
-False,True,True,True,NS00056522
-False,True,False,False,NS00026044
-False,True,True,True,NS00093489
-False,True,False,False,NS00004733
-False,True,False,False,NS00037383
-False,True,False,False,NS00031382
-False,True,True,True,NS00037050
-False,True,False,False,NS00030792
-False,True,True,True,NS00024130
-False,True,False,False,NS00029831
-False,True,False,False,NS00080182
-False,True,True,True,NS00021605
-False,True,False,False,NS00070451
-False,True,True,True,NS00005434
-False,True,False,False,NS00001454
-False,True,False,False,NS00008501
-False,True,True,True,NS00083536
-False,True,True,True,NS00095796
-False,True,True,True,NS00087969
-False,True,True,True,NS00054039
-False,True,True,True,NS00038392
-False,True,True,True,NS00028218
-False,True,True,True,NS00083859
-False,True,False,False,NS00048033
-False,True,False,False,NS00103421
-False,True,True,True,NS00009993
-False,True,False,False,NS00006480
-False,True,False,False,NS00070155
-False,True,False,False,NS00028476
-False,True,True,True,NS00048572
-False,True,False,False,NS00056194
-False,True,True,True,NS00035661
-False,True,True,True,NS00005889
-False,True,False,False,NS00021601
-False,True,False,False,NS00104011
-False,True,False,False,NS00058710
-False,True,True,True,NS00059323
-False,True,True,True,NS00039544
-False,True,True,True,NS00036692
-False,True,False,False,NS00064674
-False,True,False,False,NS00045621
-False,True,True,True,NS00055714
-False,True,False,False,NS00073198
-False,True,False,False,NS00082050
-False,True,False,False,NS00094151
-False,True,True,True,NS00003040
-False,True,False,False,NS00070222
-False,True,True,True,NS00048111
-False,True,True,True,NS00022329
-False,True,True,True,NS00041869
-False,True,False,False,NS00067613
-False,True,True,True,NS00005826
-False,True,True,True,NS00073334
-False,True,True,True,NS00007218
-False,True,False,False,NS00028652
+False,True,True,True,1-Methyl-3-phenylpiperazine
+False,True,True,True,Butaperazine
+False,True,True,True,4'-Ethyl-4-biphenylcarboxylic acid
+False,True,True,True,"1-(2,2,6-Trimethylcyclohexyl)pentan-3-one"
+False,True,False,False,TP3/N-lauryl iminodipropionate
+False,True,False,False,Ethyloctanedioyl dichloride
+False,True,True,True,Cyclohexylammonium stearate
+False,True,True,True,"5-Oxo-L-proline, compound with methyl (2S-trans)-6,8-dideoxy-6-[[(1-methyl-4-propyl-2-pyrrolidinyl)carbonyl]amino]-1-thio-D-erythro-a-D-galacto-octopyranoside (1:1)"
+False,True,False,False,"2,4-Di-tert-pentylphenol"
+False,True,False,False,"TP1/3,3,5-Trimethylcyclohexyl salicylate"
+False,True,False,False,4-Methyl-2-phenyl-2-pentenal
+False,True,True,True,Sedridine
+False,True,True,True,3-Bromophenylhydrazine hydrochloride
+False,True,True,True,3-Phenyl-2-propen-1-yl 3-phenylacrylate
+False,True,False,False,Calcium bis[N2-(hydroxymethyl)-L-lysinate]
+False,True,False,False,L-Norvaline
+False,True,True,True,"N,N-dimethyl-2-furfurylamine"
+False,True,True,True,"3-Amino-2,4,6-triiodobenzoic acid"
+False,True,False,False,"1,1-Dimethyl-3-oxobutylammonium hydrogen oxalate"
+False,True,False,False,Chlorphenesin
+False,True,True,True,(4-Methylphenoxy) acetic acid ethyl ester
+False,True,False,False,"(E)-3,7-dimethyloct-2-enyl acetate"
+False,True,False,False,"Ethyl 3-ethyl-7-methyl-2,6-octadienoate"
+False,True,False,False,"N4-Benzoyl-2',3'-dideoxycytidine"
+False,True,False,False,"1-(2-Hydroxyethyl)-2,2,6,6-tetramethyl-4-piperidinol"
+False,True,False,False,Menthyl butyrate
+False,True,False,False,"N-(a,a-dimethylphenethyl)formamide"
+False,True,True,True,2-Methyl-3-(methylthio)-5-(1-methylvinyl)cyclohexyl acetate
+False,True,False,False,2-Aminohexanal
+False,True,True,True,"2-Amino-1,4-dihydro-4-oxopteridine-6-carboxylic acid"
+False,True,True,True,2-Methylbutanedioyl dichloride
+False,True,False,False,1-Phenylethenyl acetate
+False,True,True,True,1-Propyl-4-piperidone
+False,True,False,False,(1-Ethoxyethyl)benzene
+False,True,False,False,Phenyloctadecanoic acid
+False,True,True,True,"2,2-Dimethyl-4,7-dihydro-1,3-dioxepine"
+False,True,True,True,"A-methyl-N,N-diphenylbenzylamine"
+False,True,False,False,"2,3-Dihydrobenzofuran-6,7-diol diacetate"
+False,True,True,True,"1-Methoxy-3,7,11-trimethyldodeca-2,6,10-triene"
+False,True,False,False,Carpronium chloride
+False,True,True,True,"1,1,2-Triethoxyethane"
+False,True,True,True,5'-Cytidylic acid
+False,True,True,True,Disodium 3-(2-hydroxyphenyl)-8-sulphonatobenzo[f]quinoline-1-carboxylate
 False,True,True,True,NS00100442
-False,True,True,True,NS00034251
-False,True,True,True,NS00013576
-False,True,True,True,NS00103401
-False,True,False,False,NS00100395
-False,True,False,False,NS00065861
-False,True,False,False,NS00102569
-False,True,False,False,NS00053310
-False,True,False,False,NS00083027
-False,True,False,False,NS00011714
-False,True,True,True,NS00020632
-False,True,False,False,NS00092718
-False,True,True,True,NS00029275
-False,True,True,True,NS00028996
-False,True,False,False,NS00049029
-False,True,False,False,NS00047221
-False,False,True,True,NS00002964
-False,False,True,True,NS00028217
-False,False,True,True,NS00002558
-False,False,True,True,NS00039332
-False,False,True,True,NS00012900
-False,False,True,True,NS00023357
-False,False,True,True,NS00046652
-False,False,True,True,NS00000335
-False,False,True,True,NS00066262
-False,False,True,True,NS00026856
-False,False,True,True,NS00014749
-False,False,True,True,NS00014888
-False,False,True,True,NS00036883
-False,False,True,True,NS00012102
-False,False,True,True,NS00021540
-False,False,True,True,NS00027699
-False,False,True,True,NS00093965
-False,False,True,True,NS00113403
-False,False,True,True,NS00049885
-False,False,True,True,NS00028304
-False,False,True,True,NS00048813
-False,False,True,True,NS00006073
-False,False,True,True,NS00065576
-False,False,True,True,NS00068717
-False,False,True,True,NS00058950
-False,False,True,True,NS00076527
-False,False,True,True,NS00008151
-False,False,True,True,NS00082993
-False,False,True,True,NS00066263
-False,False,True,True,NS00030294
-False,False,True,True,NS00008384
-False,False,True,True,NS00032674
-False,False,True,True,NS00022353
-False,False,True,True,NS00037203
-False,False,True,True,NS00013404
-False,False,True,True,NS00020859
-False,False,True,True,NS00008110
-False,False,True,True,NS00025914
-False,False,True,True,NS00103573
-False,False,True,True,NS00034947
-False,False,True,True,NS00080227
-False,False,True,True,NS00030279
-False,False,True,True,NS00114027
-False,False,True,True,NS00002001
-False,False,True,True,NS00028929
-False,False,True,True,NS00037875
-False,False,True,True,NS00010802
-False,False,True,True,NS00025791
-False,False,True,True,NS00103849
-False,False,True,True,NS00089562
-False,False,True,True,NS00049154
-False,False,True,True,NS00064753
-False,False,True,True,NS00030158
-False,False,True,True,NS00001325
-False,False,True,True,NS00066153
-False,False,True,True,NS00061447
-False,False,True,True,NS00068807
-False,False,True,True,NS00033899
-False,False,True,True,NS00037844
-False,False,True,True,NS00028296
-False,False,True,True,NS00070496
-False,False,True,True,NS00048027
-False,False,True,True,NS00015344
-False,False,True,True,NS00048316
-False,False,True,True,NS00047171
-False,False,True,True,NS00021495
-False,False,True,True,NS00056757
-False,False,True,True,NS00037452
-False,False,True,True,NS00019586
-False,False,True,True,NS00005091
-False,False,True,True,NS00069954
-False,False,True,True,NS00003780
-False,False,True,True,NS00046862
-False,False,True,True,NS00069711
-False,False,True,True,NS00018065
-False,False,True,True,NS00001778
-False,False,True,True,NS00095845
-False,False,True,True,NS00033026
-False,False,True,True,NS00042472
-False,False,True,True,NS00028501
-False,False,True,True,NS00097077
-False,False,True,True,NS00026302
-False,False,True,True,NS00036904
-False,False,True,True,NS00100374
-False,False,True,True,NS00033216
-False,False,True,True,NS00035348
-False,False,True,True,NS00051491
-False,False,True,True,NS00103148
-False,False,True,True,NS00034876
-False,False,True,True,NS00019724
-False,False,True,True,NS00006947
-False,False,True,True,NS00060628
-False,False,True,True,NS00103973
-False,False,True,True,NS00071932
-False,False,True,True,NS00033908
-False,False,True,True,NS00011495
-False,False,True,True,NS00022957
-False,False,True,True,NS00023105
-False,False,True,True,NS00051843
-False,False,True,True,NS00021124
-False,False,True,True,NS00003039
-False,False,True,True,NS00008374
-False,False,True,True,NS00102594
-False,False,True,True,NS00042517
-False,False,True,True,NS00037026
-False,False,True,True,NS00027846
-False,False,True,True,NS00055434
-False,False,True,True,NS00029849
-False,False,True,True,NS00045334
-False,False,True,True,NS00056506
-False,False,True,True,NS00002569
-False,False,True,True,NS00084247
-False,False,True,True,NS00054051
-False,False,True,True,NS00023504
-False,False,True,True,NS00036117
-False,False,True,True,NS00104176
-False,False,True,True,NS00013741
-False,False,True,True,NS00045618
-False,False,True,True,NS00049417
-False,False,True,True,NS00013558
-False,False,True,True,NS00028985
-False,False,True,True,NS00042619
-False,False,True,True,NS00076665
-False,False,True,True,NS00010899
-False,False,True,True,NS00093925
-False,False,True,True,NS00023255
-False,False,True,True,NS00022365
-False,False,True,True,NS00028114
-False,False,True,True,NS00062963
-False,False,True,True,NS00025556
-False,False,True,True,NS00038095
-False,False,True,True,NS00067711
-False,False,True,True,NS00034680
-False,False,True,True,NS00070098
-False,False,True,True,NS00015197
-False,False,True,True,NS00073566
-False,False,True,True,NS00031852
-False,False,True,True,NS00014636
-False,False,True,True,NS00100967
-False,False,True,True,NS00005375
+False,True,False,False,"2,4,5-Triphenylimidazole"
+False,True,True,True,Calcium bis[4-[[3-[[2-hydroxy-3-[[(4-methoxyphenyl)amino]carbonyl]-1-naphthyl]azo]benzoyl]amino]benzenesulphonate]
+False,True,False,False,"4H-3,1-Benzoxazin-2-one, 1,2-dihydro-"
+False,True,False,False,"Benzenamine, N,4-dimethyl-"
+False,True,True,True,2-Cyanoacetamide
+False,True,True,True,"Phosphoric acid, 2-chloro-1-methylethyl bis(3-chloropropyl) ester"
+False,True,False,False,Methyl L-norvalinate--hydrogen chloride (1/1)
+False,True,False,False,10-Hydroxy-2-decenoic acid
+False,True,True,True,(2-Benzoyloxyethyl)trimethylammonium iodide
+False,True,True,True,"1-(4,5-Dihydrooxazol-2-yl)acetone"
+False,True,True,True,Benzidine
+False,True,False,False,"TP1/5,8,11,13,16,19-Hexaoxatricosane"
+False,True,True,True,NS00077563
+False,True,True,True,1-(Allyl)pyrrolidin-2-one
+False,True,True,True,Endo-8-isopropyl-8-azabicyclo[3.2.1]octan-3-ol
+False,True,True,True,4-Ammonio-1-benzylpiperidinium dichloride
+False,True,True,True,NS00027298
+False,True,False,False,Methenamine camphorate
+False,True,True,True,"Butane, 1-(2-propenyloxy)-2,2-bis[(2-propenyloxy)methyl]-"
+False,True,True,True,"N,N-bis(2-hydroxyethyl)cinnamamide"
+False,True,True,True,Ethylaceturate
+False,True,True,True,"(6R-(6alpha,7beta(R*)))-3-(Acetoxymethyl)-7-((formyloxy)phenylacetamido)-8-oxo-5-thia-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylic acid"
+False,True,True,True,"Ethanol, 2-[ethyl(4-nitrosophenyl)amino]-"
+False,True,True,True,Phenoxyethyl propionate
+False,True,True,True,5:2 Fluorotelomer carboxylic acid
+False,True,True,True,"(1,5-Dimethylhex-4-enyl)methylammonium chloride"
+False,True,False,False,"1-Deoxy-1-(ethylamino)-D-glucitol, compound with 4-hydroxy-3-iodo-5-nitrobenzonitrile (1:1)"
+False,True,False,False,"5,A-dimethyloxazolidine-3-ethanol"
+False,True,True,True,TP1/Ethyl acetoacetate
+False,True,True,True,"1-Phenyl-2,5,8,11,14-pentaoxahexadecan-16-yl dihydrogen phosphate, compound with 2,2',2''-nitrilotri[ethanol] (1:1)"
+False,True,True,True,Napropamide Isomer 2
+False,True,False,False,"2,4,5-Trichlorophenyl N-[(benzyloxy)carbonyl]-L-valinate"
+False,True,False,False,"Thiazole, 4-butyl-5-methyl-"
+False,True,True,True,Acetyl fentanyl 4-methylphenethyl analogue
+False,True,False,False,"2,6-Dichloro-4-hydroquinone"
+False,True,False,False,2-Ethylhexenal
+False,True,True,True,3-Acetylpyridine
+False,True,True,True,"11-ß-Hydroxypregn-4-ene-3,20-dione"
+False,True,True,True,2-Methylquinolin-8-ol hydrochloride
+False,True,False,False,"5-(Methoxymethyl)-2-methylpyrazolo[1,5-a]pyrimidin-7-ol"
+False,True,False,False,"2,2-Bis[(prop-2-en-1-yloxy)methyl]butan-1-ol"
+False,True,False,False,"Benzenemethanamine, 4-amino-N-methyl-"
+False,True,False,False,N-(N-((Phenylmethoxy)carbonyl)-L-phenylalanyl)-L-glutamic acid
+False,True,True,True,TP1/Bis(1-methylheptyl) phthalate
+False,True,False,False,"Cyclohexanecarboxylic acid, 2,2-dimethyl-6-methylene-, methyl ester"
+False,True,True,True,"3A,4,5,6,7,7a-Hexahydro-4,7-methano-1H-inden-5-yl propionate"
+False,True,False,False,4-(2-Hydroxypropyl)morpholine
+False,True,True,True,Sodium N-dodecyl-ß-alaninate
+False,True,True,True,[1-(4-Ethoxyphenyl)butyl]diethylammonium chloride
+False,True,False,False,4-Amino-2-pyrazin-2-ylpyrimidine-5-carbonitrile
+False,True,False,False,3-Methoxy-4-nitrobenzoic acid
+False,True,True,True,Trisodium hydrogen [(dimethylamino)methylene]bisphosphonate
+False,True,False,False,Cis-propenylphosphonic acid
+False,True,False,False,"Benzenesulfonic acid, 3-hydrazino-"
+False,True,False,False,4-Amino-4-methylpentan-2-one
+False,True,False,False,P-cyanocinnamic acid
+False,True,False,False,Pinidinone
+False,True,False,False,Tetrahydrofurfuryl-2-methylamine
+False,True,True,True,"TP1/2-Propenoic acid, 2-methyl-, hexadecyl ester"
+False,True,False,False,Bis(2-pyridyl) ketone
+False,True,True,True,NS00103638
+False,True,True,True,"Tetrahydro-a,a,5-trimethyl-5-vinylfurfuryl acetate"
+False,True,True,True,TP1/N-Methylpyrrolidine
+False,True,True,True,"2,2-Dimethylaziridine"
+False,True,True,True,2-[(2-Ethylhexyl)amino]ethanol
+False,True,False,False,1-Hexadecylpyridinium
+False,True,True,True,"6,7-Diamino-1,4-dihydroquinoxaline-2,3-dione hydrochloride"
+False,True,True,True,TP2/2-(Propan-2-yloxy)ethyl 2-hydroxybenzoate
+False,True,False,False,"9-(2-Carboxylatophenyl)-3,6-bis(diethylamino)xanthylium"
+False,True,False,False,"2,2,6,6-Tetramethyl-4-piperidone"
+False,True,False,False,2-(Dimethylamino)ethyl propionate
+False,True,True,True,"1H-Inden-1-one, 2,3-dihydro-"
+False,True,False,False,"TP1/2,2'-[(3-Aminopropyl)imino]diethanol"
+False,True,False,False,P-Cymene
+False,True,True,True,N-(1-oxododecyl)-L-serine
+False,True,False,False,"Tetradecanamide, N-(3-aminopropyl)-"
+False,True,False,False,NS00014231
+False,True,False,False,"2-{[2-(4-Amino-3,5-dichlorophenyl)-2-hydroxyethyl]amino}-2-methylpropan-1-olH (Hydroxymethyl clenbuterol)"
+False,True,True,True,2-Naphthyl lactate
+False,True,True,True,"3H-Pyrazolo[4,3-D]pyrimidin-7-Ol"
+False,True,True,True,N-Isopropylacrylamide
+False,True,True,True,"3-(Octadecylamino)propane-1,2-diol"
+False,True,True,True,Isopropyl formate
+False,True,True,True,2-(2-(2-Hydroxyethoxy)ethoxy)ethyl benzoate
+False,True,True,True,Butyl perbenzoate
+False,True,False,False,Pyridine-2-carboxylic acid 1-oxide
+False,True,True,True,(4E)-4-Aminohex-4-Enoic Acid
+False,True,True,True,Ethyl 2-oxopyrrolidin-2-ylacetate
+False,True,False,False,1-(2-Benzylphenoxy)propan-2-ol
+False,True,True,True,Trans-3'-Hydroxycotinine
+False,True,False,False,NS00084736
+False,True,False,False,"3,4-Dimethoxyaniline"
+False,True,True,True,"2,2,3,3,4,4,4-Heptafluoro-1-(piperazin-1-yl)butan-1-one"
+False,True,True,True,O1-Methyl-4-Deoxy-4-Thio-Beta-D-Glucose
+False,True,False,False,N-Methylleucine
+False,True,True,True,"1-(2,2-Dimethoxyethoxy)butane"
+False,True,False,False,Methyl L-leucinate
+False,True,False,False,"Oxazolidine, 2-ethyl-3-methyl-"
+False,True,False,False,Trans-2-tert-butylcyclohexan-1-ol
+False,True,True,True,1-Ethyl-1-methylheptyl formate
+False,True,False,False,Methyl 11-methoxy-19a-methyl-2-oxoformosanan-16-carboxylate
+False,True,False,False,"4-Piperidinol, 1-methyl-"
+False,True,False,False,(4-Amino-2-chlorophenyl)(4-chlorophenyl)acetonitrile
+False,True,True,True,TP4/3-[(3Z)-Hex-3-en-1-yloxy]propanenitrile
+False,True,True,True,1-Phenylcyclopropanecarbonitrile
+False,True,True,True,"4,5,5,5-Tetrafluoro-4-(heptafluoropropoxy)pentan-1-ol"
+False,True,False,False,Carbenicillin
+False,True,True,True,"1,5,5-Trimethylimidazolidine-2,4-dione"
+False,True,False,False,Pencycuron
+False,True,False,False,"3,4-Dihydro-2,2,5-trimethyl-2H-pyrrole 1-oxide"
+False,True,False,False,"N-[1,2-dihydroxy-2-[[1-oxo-3-[[2-(2-oxoimidazolidin-1-yl)ethyl]amino]propyl]amino]ethyl]acrylamide"
+False,True,False,False,Tert-Butyl L-alaninate
+False,True,False,False,"1-Methyl-3,5,7-triaza-1-azoniatricyclo[3.3.1.13,7]decane iodide"
+False,True,True,True,Levodropropizine
+False,True,True,True,2'-O-Methyladenosine
+False,True,False,False,NS00021069
+False,True,True,True,"Cyclopropanecarboxylic acid, 3-(2,2-dichloroethenyl)-2,2-dimethyl-, methyl ester"
+False,True,True,True,5-Methyl-N-(pyridin-3-ylmethyl)isoxazol-3-amine
+False,True,True,True,Maltodextrin
+False,True,False,False,2-Methylquinoline-4-carboxamide
+False,True,False,False,"2-Naphthalenesulfonamide, 6-hydroxy-N-(2-hydroxyethyl)-N-methyl-"
+False,True,False,False,Viminol
+False,True,False,False,CPMC
+False,True,False,False,"1,4-Anhydro-D-glucitol 3,5,6-triacetate"
+False,True,False,False,"A,2-dimethylcyclohexanemethanol"
+False,True,True,True,"3A,4,5,6,7,7a-Hexahydro-4,7-methano-1H-indenyl Formate."
+False,True,True,True,3-Ethyl-4-methyl-3-pyrrolin-2-one
+False,True,True,True,"2,2'-Azobis[2,4-dimethylvaleronitrile]"
+False,False,True,True,"1,4-Diethylbenzene"
+False,False,True,True,"Acetic acid, (dodecylthio)-"
+False,False,True,True,N-(2-Methylbutyl)-N'-(6-{4-[5-(trifluoromethyl)pyridin-2-yl]piperazino}pyridin-3-yl)thiourea
+False,False,True,True,Methyl 3-amino-4-methylbenzoate
+False,False,True,True,1-(Tetrahydro-4-methyl-2H-pyran-2-yl)acetone
+False,False,True,True,"TP1/1,2-Epoxyhexadecane"
+False,False,True,True,"2H-Azepin-2-one, hexahydro-1-methyl-"
+False,False,True,True,"Propanamide, 3-methoxy-N,N-dimethyl-"
+False,False,True,True,Atisine
+False,False,True,True,Spirotetramat-di-hydroxy
+False,False,True,True,(-)-Isopulegol
+False,False,True,True,"9-Bromo-6a-fluoro-11ß,17,21-trihydroxy-16a-methylpregna-1,4-diene-3,20-dione 21-acetate"
+False,False,True,True,Bradanicline
+False,False,True,True,Fludarabine phosphate
+False,False,True,True,2-Chloro-4-(methanesulfonyl)-3-methylbenzoic acid
+False,False,True,True,Famotidine
+False,False,True,True,Calcium a-ethyl-1-hydroxycyclohexaneacetate (1:2)
+False,False,True,True,2(1H)-Quinolinone
+False,False,True,True,"2-[2-(2,4-Difluorophenyl)prop-2-en-1-yl]propane-1,3-diol"
+False,False,True,True,N-(5-Methyl-3-heptanylidene)hydroxylamine
+False,False,True,True,GW-9508
+False,False,True,True,"N-[2-(3,5-Di-tert-butyl-4-hydroxyphenyl)ethyl]-5-{[3-(3,5-di-tert-butyl-4-hydroxyphenyl)propanoyl]amino}pentanamide"
+False,False,True,True,Tert-butyl hydrogen carbonate
+False,False,True,True,3-Amino-3-(4-hydroxyphenyl)propanoic acid
+False,False,True,True,(+/-)-Threo-Methylnaphthidate
+False,False,True,True,NS00084713
+False,False,True,True,Methyl (R)-amino(4-hydroxyphenyl)acetate
+False,False,True,True,4-Methoxymethylpyridoxine
+False,False,True,True,N-acetyl-L-isoleucine
+False,False,True,True,NS00100390
+False,False,True,True,N-Dodecylacrylamide
+False,False,True,True,Methyl N2-[(p-tolyl)sulphonyl]-L-argininate monohydrochloride
+False,False,True,True,"(9Z,12Z)-octadeca-9,12-dien-1-amide"
+False,False,True,True,Ethyl L-ornithine dihydrochloride
+False,False,True,True,"Anthranilic acid, N-(o-tolyl)-"
+False,False,True,True,"3-Methyl-N-(5,8,13,14-tetrahydro-5,8,14-trioxonaphth[2,3-c]acridin-6-yl)benzamide"
+False,False,True,True,Tris(2-hydroxyethyl)ammonium hexyl sulphate
+False,False,True,True,Flutolanil
+False,False,True,True,"Cis-4-hydroxy-a,a,4-trimethylcyclohexanemethanol"
+False,False,True,True,MDA 2-amido analog
+False,False,True,True,"4,5,6,7-Tetrachloro-3,3-bis(1-ethyl-2-methyl-1H-indol-3-yl)phthalide"
+False,False,True,True,1-(2-Hydroxyethyl)-5-oxopyrrolidine-3-carboxylic acid
+False,False,True,True,(+)-Cannabidiol
+False,False,True,True,Benperidol hydrochloride
+False,False,True,True,"Ethyl 3-(3,4-dihydroxyphenyl)propionate"
+False,False,True,True,"1,4,7,10,13,16-Hexaoxacyclooctadecane-2-methanol"
+False,False,True,True,"2-Propenoic acid, 4-[methyl[(tridecafluorohexyl)sulfonyl]amino]butyl ester"
+False,False,True,True,Benzyl L-histidinate dihydrochloride
+False,False,True,True,Deoxycholic acid
+False,False,True,True,TP1/Resorcinol monoacetate
+False,False,True,True,Prostaglandin A1
+False,False,True,True,"5,6-Diacetoxy-L-ascorbic acid"
+False,False,True,True,Gp3g
+False,False,True,True,1H-Indole-3-carboxaldehyde
+False,False,True,True,"Benzene, 1,3-dichloro-5-nitro-"
+False,False,True,True,P-Cumenyl acetate
+False,False,True,True,3-(M-hydroxyphenyl)-DL-alanine
+False,False,True,True,Rhodium acetate
+False,False,True,True,"Butyric acid, 4-(pyrrolidin-1-yl)-, methyl ester"
+False,False,True,True,4-Hydroxyquinoline
+False,False,True,True,2-Methyl-5-(prop-1-en-2-yl)pyridine
+False,False,True,True,4-Cyclodecen-1-one
+False,False,True,True,Arecoline
+False,False,True,True,Octadecenol
+False,False,True,True,"N-(4-Chlorophenyl)benzene-1,2-diamine"
+False,False,True,True,P-methoxyphenyl acrylate
+False,False,True,True,(3-Chloropropyl)oxirane
+False,False,True,True,Methyl N-benzoyl-L-alaninate
+False,False,True,True,"Acetonitrile, [[(4-methylphenyl)sulfonyl]oxy]-"
+False,False,True,True,"Acetic acid, 1-cyanovinyl ester"
+False,False,True,True,"5-[(2Z,8Z)-2,8-Pentadecadien-1-yl]-1,3-benzenediol"
+False,False,True,True,5-Pregnen-3β-ol-20-one
+False,False,True,True,Methyl a-methylpyrrolidine-1-propionate
+False,False,True,True,"Benzenemethanol, .alpha.-(aminomethyl)-"
+False,False,True,True,"Ethyl (2S)-2-[(4S)-4-methyl-2,5-dioxo-1,3-oxazolidin-3-yl]pentanoate"
+False,False,True,True,2-[[4-[Ethyl(2-hydroxyethyl)amino]phenyl]azo]-6-methoxy-3-methylbenzothiazolium hydroxide
+False,False,True,True,Pp2 (kinase inhibitor)
+False,False,True,True,7-Ketooctanoic acid
+False,False,True,True,[[(Aminocyclohexyl)amino]methyl]phenol
+False,False,True,True,"2-Isobutyl-3,6-dimethyl-pyrazine"
+False,False,True,True,"2-Chloro-4,6-dimethoxy-1,3,5-triazine"
+False,False,True,True,3-(3-Pyridyl)-1-propanol
+False,False,True,True,"(-)-2,3-Dimethoxy-5-[(methylamino)sulphonyl]-N-[(1-methyl-2-pyrrolidinyl)methyl]benzamide"
+False,False,True,True,3-Quinolinamine
+False,False,True,True,4-Isopropenylcyclohex-1-en-1-ylmethanol
+False,False,True,True,Tridecylbenzenesulphonic acid (C13-LAS)
+False,False,True,True,"N-[[5-(dimethylamino)-1-naphthyl]sulphonyl]-L-valine, compound with piperidine (1:1)"
+False,False,True,True,Acetone azine
+False,False,True,True,"5,6-Dihydro-1,4-dithiin-2,3-dicarbonitrile"
+False,False,True,True,Phosphoglycerate
+False,False,True,True,"N,N-Bis(2-methylpropyl)formamide"
+False,False,True,True,"Methyl 5-({[3-(2,6-dichlorophenyl)-5-methylisoxazol-4-yl]carbonyl}amino)-2-morpholinobenzoate"
+False,False,True,True,Ethyl 2-(phenylazo)acetoacetate
+False,False,True,True,Methyl 2-cyano-3-hydroxyacrylate
+False,False,True,True,3-[[4-[(2-Propynyloxy)methoxy]but-2-ynyl]oxy]propiononitrile
+False,False,True,True,(R)-Imazaquin
+False,False,True,True,Chenodeoxycholic acid
+False,False,True,True,Albendazole oxide
+False,False,True,True,N-Methyl-N-vinylacetamide
+False,False,True,True,Nialamide
+False,False,True,True,"Tetrahydro-1,3,5,5-tetramethyl-1H-pyrimidin-2-one"
+False,False,True,True,"Dibenz[a,j]anthracene"
+False,False,True,True,N-{3-[5-(tert-Butyl)-2-methyl-3-furyl]-1-methyl-1H-pyrazol-5-yl}-2-methylbenzamide
+False,False,True,True,7-Hydroxyisoflavone
+False,False,True,True,Decamethylene diacetate
+False,False,True,True,Dodecylamine acetate
+False,False,True,True,"Sodium 1,2,4-triazole"
+False,False,True,True,"(S)-2,3',8',8'a-tetrahydro-6'-hydroxy-5'-methoxy-1'-methylspiro[cyclohexa-2,5-diene-1,7'(1'H)-cyclopent[ij]isoquinolin]-4-one"
+False,False,True,True,"5-Oxo-DL-proline, compound with dodecyl 2-methylalaninate (1:1)"
+False,False,True,True,Disodium L-aspartate
+False,False,True,True,"Dicobalt(2+) nickel(2+) bis[2-hydroxypropane-1,2,3-tricarboxylate]"
+False,False,True,True,Diisopropyl fluorophosphate
+False,False,True,True,6-Morpholinopurine
+False,False,True,True,Tuliposide D
+False,False,True,True,"1,3-Diisocyanatobenzene"
+False,False,True,True,N-Acetylnorcocaine
+False,False,True,True,"3-Carboxy-2,2,5,5-tetramethylpyrrolidin-1-yloxy"
+False,False,True,True,"2-Chloro-11(10H)-one-dibenzo[b,f][1,4]thiazepin"
+False,False,True,True,"Sulfuric acid--ethyl (1R,2S)-1-amino-2-ethenylcyclopropane-1-carboxylate (1/2)"
+False,False,True,True,(Z)-hex-3-enyl undec-10-enoate
+False,False,True,True,Bardoxolone methyl
+False,False,True,True,Ethyl 2-pyridylacetate
+False,False,True,True,"5-Oxo-L-proline, compound with N-(2-hydroxyethyl)-N-methylguanidine (1:1)"
+False,False,True,True,Ethyl 2-aminocyclohex-1-ene-1-carboxylate
+False,False,True,True,"Endo-1,7,7-trimethylbicyclo[2.2.1]heptan-2-amine"
+False,False,True,True,Phentolamine mesilate
+False,False,True,True,Butanoic anhydride
+False,False,True,True,"Benzenamine, 4-ethoxy-N-phenyl-"
+False,False,True,True,Ethylphenidate
+False,False,True,True,Bis(isopropylphenyl) phenyl phosphate
+False,False,True,True,2-Formamidothiazol-4-acetic acid
+False,False,True,True,1-(4-(Trans-4-ethylcyclohexyl)phenyl)ethanone
+False,False,True,True,2-Amino-5-({1-[(1-carboxyprop-2-en-1-yl)carbamoyl]-2-sulfanylethyl}carbamoyl)pentanoic acid
+False,False,True,True,"(S)-3-(1,1-dimethylethyl)oxazolidine-5-methanol"
+False,False,True,True,Dicyclohexyloctylphosphine
+False,False,True,True,"8-[(2,5-Dimethoxyphenyl)methyl]-2-fluoro-9-(pent-4-yn-1-yl)-9h-purin-6-amine"
+False,False,True,True,(S)-Trihexyphenidyl
+False,False,True,True,1-Methyl-3-(2-(4-pyridyl)ethyl)-1H-indole
+False,False,True,True,"4,4-Dimethoxypiperidin-3-ol"
+False,False,True,True,2-Hexenyl 2-propylhept-2-enoate
+False,False,True,True,3-Methylbutyl (2E)-2-butenoate
+False,False,True,True,Decyl 2-cyanoacrylate
+False,False,True,True,Allyl decanoate
+False,False,True,True,"1-Butene, 2-methyl-4-[(3-methyl-2-butenyl)oxy]-"
+False,False,True,True,Carbenoxolone
+False,False,True,True,"1,2,3,4-Tetrahydro-1,1,6-trimethylnaphthalene"
+False,False,True,True,Bis[(5-amino-2-methoxyphenyl)bis(2-hydroxyethyl)ammonium] sulphate
+False,False,True,True,D-Carvon
+False,False,True,True,"(Z)-9,9-dimethoxynon-3-ene"
+False,False,True,True,Dexpanthenol (Panthenol)
+False,False,True,True,"1,3-Dioxolane-2-propylamine"
+False,False,True,True,L-Tyrosine
+False,False,True,True,1-Octanesulfonyl fluoride
+False,False,True,True,"6,9,10-Trimethylundeca-3,5,9-trien-2-one"
+False,False,True,True,Calcium L-leucinate
+False,False,True,True,"1,2,3,4,5,6-Hexahydro-6,11-dimethyl-3-(3-methylbut-2-enyl)-2,6-methano-3-benzazocin-8-ol hydrochloride"
+False,False,True,True,3-[3-Hydroxy(2-methylpropoxy)phenyl]acrylic acid
+False,False,True,True,"4-(Dimethylamino)-1,2-dihydro-1,5-dimethyl-2-phenyl-3H-pyrazol-3-one, compound with 2,2,2-trichloroethyl carbamate (1:1)"
+False,False,True,True,2-(M-benzoylphenyl)propionitrile
+False,False,True,True,8-Epiloganic acid
+False,False,True,True,4-Morpholineacetonitrile
+False,False,True,True,4-Hydroxybutyl 3-amino-2-butenoate
+False,False,True,True,"Phosphine, 1,2-ethanediylbis[diphenyl-"
+False,False,True,True,Ethyl L-leucinate
+False,False,True,True,NS00088541
+False,False,True,True,Dimethyl adipimidate dihydrochloride
+False,False,True,True,Ammonium hexadecyl hydrogen phosphate
+False,False,True,True,(2-Hydroxyethyl)trimethylammonium 5-oxoprolinate
+False,False,True,True,(Z)-pent-2-en-1-yl acetate
+False,False,True,True,"2,3-Dimethyl-2-(propan-2-yl)butanoic acid"
+False,False,True,True,1-Pentyl-1H-indole-3-carboxylic acid
+False,False,True,True,"11-Hydroxy-9,15-dioxoprosta-5,13-dien-1-oic acid"
+False,False,True,True,P-Formylphenyl methacrylate
+False,False,True,True,Dnc009614
+False,False,True,True,2-(4-Morpholinyl)benzothiazole
+False,False,True,True,NS00100350
+False,False,True,True,2-Ethyltridecanoic acid
+False,False,True,True,"2,4,6-Trimethylpyridine"
+False,False,True,True,Ethyl ethoxyhydroxyacetate
+False,False,True,True,"1,3,3-Trimethyl-2-[[methyl[4-(phenylazo)phenyl]hydrazono]methyl]-3H-indolium methyl sulphate"
+False,False,True,True,Acetaldehyde dimethylhydrazone
+False,False,True,True,"Bis(3,4,5-trimethoxyphenethylammonium) sulphate"
+False,False,True,True,Cyclohexylammonium acetate
+False,False,True,True,8-Quinolyl acrylate
+False,False,True,True,"A,a'-dimethylpiperazine-1,4-diethanol"
+False,False,True,True,Epi-inositol
+False,False,True,True,Butanimidamide
+False,False,True,True,Su-11652
+False,False,True,True,Decyl acetate
+False,False,True,True,"1-(2,4-Dinitrophenyl)azepane"
+False,False,True,True,"Estra-3,5-dien-17-one, 3-ethoxy-"
+False,False,True,True,4-Methyl-2-(15-methylhexadecyl)-2-oxazoline-4-methanol
+False,False,True,True,N-(2-aminoethyl)octadec-9-enamide monoacetate
+False,False,True,True,"12-Methyl-2,5,8,11-tetraoxatridecane"
+False,False,True,True,"Dodecanedioic acid, dimethyl ester"
+False,False,True,True,"Tert-Butyl (3S)-3-{[(2-morpholinoethyl)amino]carbonyl}-3,4-dihydroisoquinoline-2(1H)-carboxylate"
+False,False,True,True,Itopride
+False,False,True,True,Phenyl 3-ethoxy-3-iminopropionate
+False,False,True,True,"3,4-Dihydro-5-methyl-6-pentyl-2H-pyran-2-one"
+False,False,True,True,"5-(Phenylazo)toluene-2,4-diamine"
+False,False,True,True,"1-Pyrrolidinepropionic acid, ethyl ester"
+False,False,True,True,Diphenylcyclopropenone
+False,False,True,True,NS00045264
+False,False,True,True,"1-[(2E)-3,7-dimethylocta-2,6-dien-1-yl]pyrrolidine-2,5-dione"
+False,False,True,True,"2-Naphthalenecarboxamide, 3-hydroxy-N-(3-hydroxyphenyl)-"
+False,False,True,True,"TP1/Butanoic acid, 1-methylethyl ester"
+False,False,True,True,Riboflavin
+False,False,True,True,Nonyl diphenyl phosphite
+False,False,True,True,Dipentyl succinate
+False,False,True,True,N-(4-Hydroxy-1-naphthyl)acrylamide
+False,False,True,True,Methyl propanoate
+False,False,True,True,(5-Methoxy-1-methylenepentyl)cyclohexane
+False,False,True,True,"1,1'-(Ethane-1,2-diyl)bisimidazolidine-2,4-dione"
+False,False,True,True,NS00013493
+False,False,True,True,"2-Acetyl-5,6,7,8-tetrahydroquinoxaline"
+False,False,True,True,2-[2-(2-Butoxyethoxy)ethoxy]ethanol
+False,False,True,True,1-(3-(Phenylmethoxy)phenyl)ethan-1-one
+False,False,True,True,NS00082354
+False,False,True,True,Embutramide
+False,False,True,True,"2-Buten-1-one, 1-(2,6,6-trimethyl-3-cyclohexen-1-yl)-"
+False,False,True,True,Lithium 1H-indole-3-acetate
+False,False,True,True,Ethyl 3-[2-bromo-4-(trifluoromethyl)phenyl]-2-cyanoacrylate
+False,False,True,True,1-Ethyl-3-methylimidazolium iodide
+False,False,True,True,"Propanedioic acid, methyl-, dimethyl ester"
+False,False,True,True,"1-Bromo-3-[4'-bromo(1,1'-biphenyl)-4-yl]-1,2,3,4-tetrahydronaphthalene"
+False,False,True,True,4-Ethoxyphenoxyacetic acid
+False,False,True,True,Parbenate
+False,False,True,True,1-Methyl-4-(1-methylethylidene)cyclohexyl propionate
+False,False,True,True,Lithium 1-(2-aminoethyl) 2-dodecenylsuccinate
+False,False,True,True,P-nitrophenyl ß-D-xylopyranoside
+False,False,True,True,"1,1,6,6-Tetramethoxyhexane"
+False,False,True,True,"Benzenesulfonic acid, 4-[(2,4-diamino-5-methylphenyl)azo]-"
+False,False,True,True,2-(Acetylamino)-3-pyridyl acetate
+False,False,True,True,"2',3'-Dideoxyinosine"
+False,False,True,True,Dicyclanil
+False,False,True,True,"2,2'-(Ethylenebis(oxy))bis(2-methylpropane)"
+False,False,True,True,"2,5-Dimethoxy-4-morpholinobenzenediazonium chloride, compound with zinc chloride"
+False,False,True,True,"(S)-1-Benzoyl-N,N-diethyl-5-oxopyrrolidine-2-carboxamide"
+False,False,True,True,"9,10-Epoxyoctadecanamide"
+False,False,True,True,IN-MM991
+False,False,True,True,"N-(2,3,4-trimethoxybenzylidene)aniline"
+False,False,True,True,"Carbamic acid, (3-hydroxyphenyl)-, methyl ester (9CI)"
+False,False,True,True,NS00077152
+False,False,True,True,"N-(2,2-Dimethoxyethyl)methacrylamide"
+False,False,True,True,2-(2-Iminothiazolidin-3-yl)-1-phenylethan-1-one monohydrochloride
+False,False,True,True,N-(2-Methoxyphenyl)acetamide
+False,False,True,True,Disodium mercaptosuccinate
+False,False,True,True,Pivagabine
+False,False,True,True,Benzocaine
+False,False,True,True,"N,N'-dicyanosebacamide"
+False,False,True,True,2-Methyltridecane
+False,False,True,True,L(-)-2-Amino-3-phenyl-1-propanol
+False,False,True,True,DL-tryptophan
+False,False,True,True,2-Phenyl ethyl cyanoacrylate_x000D_2-phenylethyl 2-cyanoprop-2-enoate
+False,False,True,True,Ethyl 5-oxodecanoate
+False,False,True,True,"Benzaldehyde, 2,5-dihydroxy-"
+False,False,True,True,"3-(2,6-Dioxocyclohexyl)propanenitrile"
+False,False,True,True,TP1/Dihydronootkatone
+False,False,True,True,Pregnandiol
+False,False,True,True,"1,2,4-Triazine, 5,6-diphenyl-3-(2-pyridinyl)-"
+False,False,True,True,1-(2-Cyanoethyl)-5-oxo-L-proline
+False,False,True,True,Tert-butyl L-prolinate
+False,False,True,True,"L-a-(aminomethyl)-3,4-dihydroxybenzyl alcohol hydrochloride"
+False,False,True,True,"2-(1-Chlorocyclopropyl)-1-(2-chlorophenyl)-3-(1H-1,2,4-triazol-1-yl)-2-propanol"
+False,False,True,True,"TP1/3,3'-[Oxybis(ethane-2,1-diyloxy)]dipropan-1-amine"
+False,False,True,True,O-Diethylbenzene
+False,False,True,True,"Benzoic acid, 3,5-diamino-4-chloro-, 2-methylpropyl ester"
+False,False,True,True,"1-Propanesulfonic acid, 3-[ethyl[(heptadecafluorooctyl)sulfonyl]amino]-, sodium salt"
+False,False,True,True,3-Methyl-4-nitrobenzoic acid
+False,False,True,True,3-Amino-4-methylphenol
+False,False,True,True,2-(4-Methoxyphenyl)acetaldehyde oxime
+False,False,True,True,N-((3E)-5-Methyl-3-heptanylidene)hydroxylamine
+False,False,True,True,4-Cyclopentylpiperazin-1-amine
+False,False,True,True,"3,6,9,12-Tetraoxaeicosan-1-ol"
+False,False,True,True,"1,2,3,6-Tetrahydro-N-methylphthalimide"
+False,False,True,True,NS00113740
+False,False,True,True,"2,2,4-Trimethylpentane-1,3-diyl dipropionate"
+False,False,True,True,Metominostrobin
+False,False,True,True,"6a,12a-Dihydro-6H,9H-[1,3]dioxolo[5,6][1]benzofuro[3,2-c][1]benzopyran-3-ol"
+False,False,True,True,Isoquinolin-N-oxide
+False,False,True,True,"2-Aminonaphthalene-1,5-disulfonic acid"
+False,False,True,True,Gacyclidine
+False,False,True,True,"3,4-Hexanedione"
+False,False,True,True,"2-Amino-1,4-dihydro-4-oxopteridine-7-carboxylic acid"
+False,False,True,True,Terbutylazin GS 16984
+False,False,True,True,[2-Hydroxy-3-[[(1-oxoallyl)amino]methoxy]propyl]trimethylammonium chloride
+False,False,True,True,2-Amino-6H-purin-6-one 3-oxide
+False,False,True,True,"2-(Heptadeca-8,11-dienyl)-4,5-dihydro-1-(2-hydroxyethyl)-1H-imidazolium acetate"
+False,False,True,True,"Oxazolidine, 4-ethyl-2-methyl-2-(3-methylbutyl)-"
+False,False,True,True,2-(1-Aziridinyl)ethyl methacrylate
+False,False,True,True,Leucogentian violet
+False,False,True,True,"Carbonic acid, 2-hydroxypropyl 5-methyl-2-(1-methylethyl)cyclohexyl ester"
+False,False,True,True,TP2/N-Oleyl diethanolamide
+False,False,True,True,"TP1/1-Propanamine, 3-ethoxy-"
+False,False,True,True,"4-(1-Ethoxyethenyl)-3,3,5,5-tetramethylcyclohexanone"
+False,False,True,True,4-Nitrophenyl N-acetyl-3-phenyl-DL-alaninate
+False,False,True,True,Ferimzone
+False,False,True,True,"TP1/Morpholine, 4,4'-(1,2-ethanediyl)bis-"
+False,False,True,True,"8-(1,1-Dimethylethyl)-3-methyl-1-oxaspiro[4.5]decane"
+False,False,True,True,2-Butylidenecyclohexanone
+False,False,True,True,Doramapimod
+False,False,True,True,Ethyl oxo((phenylmethyl)amino)acetate
+False,False,True,True,Maleamide
+False,False,True,True,Clinafloxacin
+False,False,True,True,"3,5,6,16-Tetrahydroxygrayanotox-10-en-14-yl propanoate (Asebotoxin II)"
+False,False,True,True,"2,2'-Methylenebis[6-cyclopentyl-4-isopropylphenol]"
+False,False,True,True,Methyldesphenylchloridazon
+False,False,True,True,Diethyl ethylisopentylmalonate
+False,False,True,True,"5-Deoxy-1,2,3-tri-o-acetyl-d-ribofuranoside"
+False,False,True,True,"[[4-(A,a-dimethylbenzyl)phenoxy]methyl]oxirane"
+False,False,True,True,"Neoheptaneperoxoic acid, 1,1-dimethylethyl ester"
+False,False,True,True,1-(4-Methoxyphenyl)cyclopentanecarbonitrile
+False,False,True,True,Benazolin
+False,False,True,True,Analogue of pterin substrate
+False,False,True,True,"Barium 4,4-diethoxy-2,3-dihydroxybutyl phosphate"
+False,False,True,True,1-Hydroxybenzotriazole
+False,False,True,True,"Butanoic acid, 3-phenyl-2-propenyl ester"
+False,False,True,True,Diethyl isopropylidenemalonate
+False,False,True,True,"1,7-Dioxaspiro[5.5]undecane"
+False,False,True,True,Armodafinil
+False,False,True,True,3-{[2-(Carboxymethoxy)ethoxy]methyl}heptanoic acid
+False,False,True,True,Cyperquat chloride
+False,False,True,True,3-[Ethyl(phenyl)amino]propanenitrile
+False,False,True,True,"9H-Thioxanthene-3,6-diamine, 10,10-dioxide"
+False,False,True,True,2-Isopropoxyethyl bis[hydroxymethyl]carbamate
+False,False,True,True,"Tetrahydro-2,5-dimethoxyfuran-3-carbaldehyde"
+False,False,True,True,"2-Hydroxybenzene-1,3,5-triyltriammonium trichloride"
+False,False,True,True,"4,4'(5')-Dihydroxydibenzo-15-crown-5"
+False,False,True,True,Potassium p-chloro-m-cresolate
+False,False,True,True,"4'-Amino-2',5'-dimethoxybenzanilide"
+False,False,True,True,Oxycinchophen
+False,False,True,True,"Urea, 1-(p-ethoxyphenyl)-2-thio-"
+False,False,True,True,3-[4-Hydroxy(2-methylpropoxy)phenyl]acrylic acid
 False,False,True,True,NS00080669
-False,False,True,True,NS00022190
-False,False,True,True,NS00002587
-False,False,True,True,NS00071941
-False,False,True,True,NS00054757
-False,False,True,True,NS00007714
-False,False,True,True,NS00103181
-False,False,True,True,NS00049739
-False,False,True,True,NS00089561
-False,False,True,True,NS00034811
-False,False,True,True,NS00002730
-False,False,True,True,NS00044062
-False,False,True,True,NS00068586
-False,False,True,True,NS00018448
-False,False,True,True,NS00057232
-False,False,True,True,NS00014711
-False,False,True,True,NS00102195
-False,False,True,True,NS00000985
-False,False,True,True,NS00079448
-False,False,True,True,NS00039539
-False,False,True,True,NS00033605
-False,False,True,True,NS00089348
-False,False,True,True,NS00045481
-False,False,True,True,NS00044475
-False,False,True,True,NS00018618
-False,False,True,True,NS00002087
-False,False,True,True,NS00021718
-False,False,True,True,NS00032225
-False,False,True,True,NS00065909
-False,False,True,True,NS00048329
-False,False,True,True,NS00035413
-False,False,True,True,NS00001482
-False,False,True,True,NS00069502
-False,False,True,True,NS00011517
-False,False,True,True,NS00079449
-False,False,True,True,NS00050648
-False,False,True,True,NS00024284
-False,False,True,True,NS00057995
-False,False,True,True,NS00083760
-False,False,True,True,NS00050875
-False,False,True,True,NS00011516
-False,False,True,True,NS00042249
-False,False,True,True,NS00052418
-False,False,True,True,NS00049390
-False,False,True,True,NS00056144
-False,False,True,True,NS00007128
-False,False,True,True,NS00062534
-False,False,True,True,NS00025758
-False,False,True,True,NS00047741
-False,False,True,True,NS00050524
-False,False,True,True,NS00094546
-False,False,True,True,NS00013557
-False,False,True,True,NS00046129
-False,False,True,True,NS00026985
-False,False,True,True,NS00082254
-False,False,True,True,NS00079760
-False,False,True,True,NS00104147
-False,False,True,True,NS00005235
-False,False,True,True,NS00035288
-False,False,True,True,NS00077810
-False,False,True,True,NS00067601
-False,False,True,True,NS00028853
-False,False,True,True,NS00080446
-False,False,True,True,NS00068687
-False,False,True,True,NS00003726
-False,False,True,True,NS00054763
-False,False,True,True,NS00002763
-False,False,True,True,NS00064197
-False,False,True,True,NS00029857
-False,False,True,True,NS00006305
-False,False,True,True,NS00007684
-False,False,True,True,NS00088441
-False,False,True,True,NS00012225
-False,False,True,True,NS00052403
-False,False,True,True,NS00103974
-False,False,True,True,NS00038923
-False,False,True,True,NS00083210
-False,False,True,True,NS00070549
-False,False,True,True,NS00049449
-False,False,True,True,NS00041032
-False,False,True,True,NS00039193
-False,False,True,True,NS00057655
-False,False,True,True,NS00068931
-False,False,True,True,NS00103949
-False,False,True,True,NS00044332
-False,False,True,True,NS00059889
-False,False,True,True,NS00093963
-False,False,True,True,NS00039561
-False,False,True,True,NS00004400
-False,False,True,True,NS00038371
-False,False,True,True,NS00102630
-False,False,True,True,NS00094707
-False,False,True,True,NS00102722
-False,False,True,True,NS00033287
-False,False,True,True,NS00055791
-False,False,True,True,NS00061123
-False,False,True,True,NS00024988
-False,False,True,True,NS00047774
-False,False,True,True,NS00086872
-False,False,True,True,NS00102579
-False,False,True,True,NS00034131
-False,False,True,True,NS00008462
-False,False,True,True,NS00050318
-False,False,True,True,NS00087135
-False,False,True,True,NS00067741
-False,False,True,True,NS00041163
-False,False,True,True,NS00001622
-False,False,True,True,NS00029114
-False,False,True,True,NS00033834
-False,False,True,True,NS00045493
-False,False,True,True,NS00014904
-False,False,True,True,NS00044727
-False,False,True,True,NS00089164
-False,False,True,True,NS00005792
-False,False,True,True,NS00035770
-False,False,True,True,NS00063872
-False,False,True,True,NS00049241
-False,False,True,True,NS00000226
-False,False,True,True,NS00083231
-False,False,True,True,NS00035727
-False,False,True,True,NS00006334
-False,False,True,True,NS00025774
-False,False,True,True,NS00004684
-False,False,True,True,NS00104101
-False,False,True,True,NS00021494
-False,False,True,True,NS00008246
-False,False,True,True,NS00031825
-False,False,True,True,NS00009452
-False,False,True,True,NS00000537
-False,False,True,True,NS00024156
-False,False,True,True,NS00075367
-False,False,True,True,NS00012842
-False,False,True,True,NS00079978
-False,False,True,True,NS00049052
-False,False,True,True,NS00069379
-False,False,True,True,NS00059502
-False,False,True,True,NS00034525
-False,False,True,True,NS00023577
-False,False,True,True,NS00030962
-False,False,True,True,NS00060551
-False,False,True,True,NS00030930
-False,False,True,True,NS00056803
-False,False,True,True,NS00098451
-False,False,True,True,NS00065575
-False,False,True,True,NS00045946
-False,False,True,True,NS00049075
-False,False,True,True,NS00086838
-False,False,True,True,NS00056432
-False,False,True,True,NS00051256
-False,False,True,True,NS00051867
-False,False,True,True,NS00014941
-False,False,True,True,NS00094547
-False,False,True,True,NS00054536
-False,False,True,True,NS00004369
-False,False,True,True,NS00015502
-False,False,True,True,NS00015166
-False,False,True,True,NS00043076
-False,False,True,True,NS00025002
-False,False,True,True,NS00037328
-False,False,True,True,NS00040467
-False,False,True,True,NS00082947
-False,False,True,True,NS00020834
-False,False,True,True,NS00021794
-False,False,True,True,NS00029058
-False,False,True,True,NS00102924
-False,False,True,True,NS00044608
-False,False,True,True,NS00077858
-False,False,True,True,NS00024991
-False,False,True,True,NS00001680
-False,False,True,True,NS00006225
-False,False,True,True,NS00102089
-False,False,True,True,NS00073598
-False,False,True,True,NS00013870
-False,False,True,True,NS00067382
-False,False,True,True,NS00069214
-False,False,True,True,NS00023168
-False,False,True,True,NS00027033
-False,False,True,True,NS00013941
-False,False,True,True,NS00089473
-False,False,True,True,NS00033835
-False,False,True,True,NS00035214
-False,False,True,True,NS00053291
-False,False,True,True,NS00070126
-False,False,True,True,NS00034659
-False,False,True,True,NS00060307
-False,False,True,True,NS00104162
-False,False,True,True,NS00056712
-False,False,True,True,NS00060528
-False,False,True,True,NS00083444
-False,False,True,True,NS00016400
-False,False,True,True,NS00008328
-False,False,True,True,NS00057356
-False,False,True,True,NS00005233
-False,False,True,True,NS00042904
-False,False,True,True,NS00033889
-False,False,True,True,NS00010086
-False,False,True,True,NS00053365
-False,False,True,True,NS00094736
-False,False,True,True,NS00029948
-False,False,True,True,NS00037914
-False,False,True,True,NS00051386
-False,False,True,True,NS00009298
-False,False,True,True,NS00022521
-False,False,True,True,NS00103605
-False,False,True,True,NS00021496
-False,False,True,True,NS00061301
-False,False,True,True,NS00034582
-False,False,True,True,NS00022015
-False,False,True,True,NS00114091
-False,False,True,True,NS00038393
-False,False,True,True,NS00103431
-False,False,True,True,NS00089569
-False,False,True,True,NS00025014
-False,False,True,True,NS00001390
-False,False,True,True,NS00025673
-False,False,True,True,NS00021200
-False,False,True,True,NS00001775
-False,False,True,True,NS00046812
-False,False,True,True,NS00005154
-False,False,True,True,NS00050527
-False,False,True,True,NS00045176
-False,False,True,True,NS00003497
-False,False,True,True,NS00033640
-False,False,True,True,NS00055573
-False,False,True,True,NS00070468
-False,False,True,True,NS00062211
-False,False,True,True,NS00043601
-False,False,True,True,NS00046366
-False,False,True,True,NS00077153
-False,False,True,True,NS00014789
-False,False,True,True,NS00076591
-False,False,True,True,NS00030420
-False,False,True,True,NS00044394
-False,False,True,True,NS00044583
-False,False,True,True,NS00002617
-False,False,True,True,NS00046098
-False,False,True,True,NS00012015
-False,False,True,True,NS00047289
-False,False,True,True,NS00060341
-False,False,True,True,NS00010316
-False,False,True,True,NS00035742
-False,False,True,True,NS00024691
-False,False,True,True,NS00000308
-False,False,True,True,NS00081974
-False,False,True,True,NS00053739
-False,False,True,True,NS00026936
-False,False,True,True,NS00092618
-False,False,True,True,NS00007954
-False,False,True,True,NS00012993
-False,False,True,True,NS00015775
-False,False,True,True,NS00023041
-False,False,True,True,NS00035547
-False,False,True,True,NS00071046
-False,False,True,True,NS00081258
-False,False,True,True,NS00017947
-False,False,True,True,NS00039081
-False,False,True,True,NS00036592
-False,False,True,True,NS00027908
-False,False,True,True,NS00080506
-False,False,True,True,NS00009847
-False,False,True,True,NS00053110
-False,False,True,True,NS00025262
-False,False,True,True,NS00001880
-False,False,True,True,NS00001814
-False,False,True,True,NS00048903
-False,False,True,True,NS00016779
-False,False,True,True,NS00101107
-False,False,True,True,NS00015304
-False,False,True,True,NS00035718
-False,False,True,True,NS00009976
-False,False,True,True,NS00030587
-False,False,True,True,NS00017925
-False,False,True,True,NS00056293
-False,False,True,True,NS00055694
-False,False,True,True,NS00035843
-False,False,True,True,NS00010088
-False,False,True,True,NS00102427
-False,False,True,True,NS00027810
-False,False,True,True,NS00043257
-False,False,True,True,NS00064840
-False,False,True,True,NS00049181
-False,False,True,True,NS00054241
-False,False,True,True,NS00061813
-False,False,True,True,NS00022774
-False,False,True,True,NS00095904
-False,False,True,True,NS00077409
-False,False,True,True,NS00029884
+False,False,True,True,2-(4-(Aminomethyl)piperidin-1-yl)-n-(3_cyclohexyl-4-oxo-2
+False,False,True,True,"Disodium 1,5-dibenzamidoanthracene-9,10-diyl bis(sulphate)"
+False,False,True,True,TP1/Epichlorohydrin
+False,False,True,True,"3,4-Dihydro-2H-pyrrole-2-carboxylic acid"
+False,False,True,True,Methyl 3-methylbenzothiazolium sulphate
+False,False,True,True,"Pyridine, 2-ethenyl-6-methyl-"
+False,False,True,True,TP1/Dimethyl succinylsuccinate
+False,False,True,True,Ethyl N5-(aminocarbonyl)L-ornithine monohydrochloride
+False,False,True,True,Hopantenic acid
+False,False,True,True,3-(Benzylamino)propanol
+False,False,True,True,TP2/Glutathione
+False,False,True,True,Methyl 5-amino-4-cyano-3-(2-methoxy-2-oxoethyl)thiophene-2-carboxylate
+False,False,True,True,THJ 018
+False,False,True,True,"Ethanol, 2-[2-(4-methylphenoxy)ethoxy]-"
+False,False,True,True,"N,N-bis(3-methoxy-3-oxopropyl)-N-methylanilinium bromide"
+False,False,True,True,"N,N-Dimethyl-1-tetradecanamine N-oxide"
+False,False,True,True,[1-Methyl-2-[(2-methyl-1-oxoallyl)oxy]ethyl] hydrogen maleate
+False,False,True,True,"2,4-Dinitro-6-(octan-2-yl)phenol (2,4-DNOP)"
+False,False,True,True,6-Hydroxyquinoline
+False,False,True,True,"2,5-Diisopropyl-3,4-xylenol"
+False,False,True,True,"N,N-diethyl-N'-(3-phenyl-1,2,4-oxadiazol-5-yl)ethylenediamine monohydrochloride"
+False,False,True,True,"16,16-Dimethyl prostaglandin A1"
+False,False,True,True,Tert-Butyl (3S)-3-hydroxypyrrolidine-1-carboxylate
+False,False,True,True,"3A,21-dihydroxy-5a-pregnan-20-one"
+False,False,True,True,Aprindine
+False,False,True,True,"Pregna-1,4-diene-3,20-dione, 6-fluoro-11-hydroxy-16-methyl-21-[(1-oxopentyl)oxy]-, (6a,11ÃŸ,16a)-"
+False,False,True,True,"2,6-Dichlorophenoxyacetic acid"
+False,False,True,True,1-(Benzyl)-2-(2-sulphonatoethyl)pyridinium
+False,False,True,True,"Benzaldehyde, 4-butyl-"
+False,False,True,True,"4-Chloro-1,2-diaminobenzene"
+False,False,True,True,3-[({[5-Methyl-2-(trifluoromethyl)-3-furyl]amino}carbonyl)amino]benzenesulfonamide
+False,False,True,True,Galanthamine
+False,False,True,True,"1-(5,6,7,8-Tetrahydro-3-methoxy-5,5,8,8-tetramethyl-2-naphthyl)ethan-1-one"
+False,False,True,True,"3,4,5-Trimethoxyphenylacetonitrile"
+False,False,True,True,[(Pentadecyloxy)methyl]oxirane
+False,False,True,True,Doxylamine
+False,False,True,True,Ethyl 3-aminobenzoate
+False,False,True,True,2-[2-(2-Hydroxyethoxy)ethoxy]ethyl 2-ethylhexanoate
+False,False,True,True,1-Phenylaziridine
+False,False,True,True,Cannabichromene
+False,False,True,True,2-[[2-[(2-Furylmethyl)thio]ethyl]amino]-5-[(6-methyl-3-pyridyl)methyl]-1H-pyrimidin-4-one
+False,False,True,True,2-Acrylamido-2-methyl-1-propanesulfonic acid
+False,False,True,True,"1-Acetyl-3-(pyridin-3-ylmethylene)tetrahydropyrazine-2,5-dione"
+False,False,True,True,"(1S)-1,3,3-trimethylbicyclo[2.2.1]heptan-2-one"
+False,False,True,True,"9-Fluoro-11ß,17,21-trihydroxy-16ß-methylpregna-1,4-diene-3,20-dione 21-nonanoate"
+False,False,True,True,5-Furfuryl-5-isopropylbarbituric acid
+False,False,True,True,"2,2-Diethoxyethanol"
+False,False,True,True,Isolongifolanone- parent
+False,False,True,True,Sodium N-methyl-N-(1-oxotetradecyl)-ß-alaninate
+False,False,True,True,N-(1-Methyl-4-piperidylidene)aniline
+False,False,True,True,Spiro(2.5)octane
+False,False,True,True,"4-Hydroxy-1-[2-(propan-2-yloxy)ethyl]-1h,2h,5h-pyrrolo[3,2-d]pyrimidine-2-thione"
+False,False,True,True,"1,2,3,5-Tetramethylbenzene"
+False,False,True,True,NS00044764
+False,False,True,True,"3-(Decenyl)dihydrofuran-2,5-dione"
+False,False,True,True,2-Acetamido-4-cresol
+False,False,True,True,"4-[(5-Cyano-1,6-dihydro-2-hydroxy-1,4-dimethyl-6-oxopyridin-3-yl)azo]benzoic acid"
+False,False,True,True,N-ethyl-2-methyl-1-(1-methylethyl)cyclopentanecarboxamide
+False,False,True,True,Sodium 1-butyl-5-oxopyrrolidine-3-carboxylate
+False,False,True,True,Isopropyl lauroyl sarcosinate
+False,False,True,True,Doxercalciferol
+False,False,True,True,"1-Phenyl-3,3-dimethyltriazene"
+False,False,True,True,2-Hydroxypropyl phenylacetate
+False,False,True,True,"3,4-Dihydro-2H-pyran-2-carboxylic acid"
+False,False,True,True,"2,4-Difluorobenzamide"
+False,False,True,True,Diethylene glycol dibutyl ether
+False,False,True,True,3-Pentyn-1-ol
+False,False,True,True,Benzoin
+False,False,True,True,Methyl a-oxofuran-2-acetate
+False,False,True,True,4-(2-Methyl-1-oxoallyl)morpholine
+False,False,True,True,"Sodium 2-amino-6-methyl-[1,2,4]triazolo[1,5-a]pyrimidin-5-olate"
+False,False,True,True,"6,6'-Methylenebis(4-tert-butyl-o-cresol)"
+False,False,True,True,N-heptylformamide
+False,False,True,True,A-cyclopropyl-a-methylbenzyl alcohol
+False,False,True,True,"(-)-2,3-Dihydro-5,7-dihydroxy-2-methyl-4-quinolone"
+False,False,True,True,Diethyl decanedioate
+False,False,True,True,"N,N-diethyl-2-methoxypropionamide"
+False,False,True,True,"2-(2-Heptadec-8-enyl-4,5-dihydro-1H-imidazol-1-yl)ethylamine hydroxyacetate"
+False,False,True,True,4-Guanidinobenzoic acid hydrochloride
+False,False,True,True,"2-Naphthalenesulfonamide, 4-hydroxy-"
+False,False,True,True,TP1/Phorone
+False,False,True,True,"1-Amino-4-(3-(((3,6-dichloropyridazin-4-yl)carbonyl)amino)-2,4,6-trimethyl-5-sulphoanilino)-9,10-dihydro-9,10-dioxoanthracene-2-sulphonic acid"
+False,False,True,True,1-[2-(2-Methoxy-1-methylethoxy)-1-methylethoxy]-2-propanol
+False,False,True,True,3-Butenoic acid
+False,False,True,True,"9ß,10A-pregn-4-ene-3,20-dione"
+False,False,True,True,Picric acid
+False,False,True,True,Bis(4-hydroxybutyl) adipate
+False,False,True,True,"Benzeneacetic acid, 4-hydroxy-.alpha.-(4-hydroxyphenyl)-"
+False,False,True,True,"1-Tert-butyl-3-[(2,5-dimethylphenyl)methyl]-1h-pyrazolo[3,4-d]pyrimidin-4-amine"
+False,False,True,True,Ethyl 1-methylpiperidine-3-carboxylate
+False,False,True,True,"2,5-Di(1-naphthyl)-1,3,4-oxadiazole"
+False,False,True,True,2-Methylbenzyl alcohol
+False,False,True,True,Ergocristine
