@@ -10,6 +10,7 @@ NS_MAX: 120000
 
 #metadata
 METAPATH: "metadata/"
+METACACHE: True
 
 #data processing 
 SUBSET: False

@@ -1,0 +1,27 @@
+ID,Collection,Sample type,Short name for contribution,Sampling date,Analysis date,Instrument setup used,Monitored City,Monitored country,Latitude,Longitude,Sample Matrix,Location,Category,Category.1,Category.2,Proxy pressures,Proxy pressures.1,Proxy pressures.2,matrix
+25083,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Blank Sample,Field Blank experiment 2 (FB_2) pos,,,25085,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25086,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Blank Sample,Field Blank experiment 3 (FB_3) pos,,,25085,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25087,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Blank Sample,Field Blank experiment 4A (FB_4A) pos,,,25085,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25088,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Blank Sample,Field Blank experiment 4B (FB_4B) pos,,,25085,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25089,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,QC Sample,LC Internal Standard Mix (LC IS MIX) pos,,,25085,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25090,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,QC Sample,Retention Time Index 1 (RTI_1) pos,,,25085,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25091,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,QC Sample,Retention Time Index 2 (RTI_2) pos,,,25085,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25092,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Real Sample,Sample Experiment 2A pos,,,25085,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25093,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Real Sample,Sample Experiment 2B pos,,,25085,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25094,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Real Sample,Sample Experiment 3A pos,,,25085,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25095,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Real Sample,Sample Experiment 3B pos,,,25085,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25096,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Real Sample,Sample Experiment 4A pos,,,25085,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25097,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Real Sample,Sample Experiment 4B pos,,,25085,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25098,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Blank Sample,Field Blank experiment 2 (FB_2) neg,,,24298,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25099,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Blank Sample,Field Blank experiment 3 (FB_3) neg,,,24298,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25100,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Blank Sample,Field Blank experiment 4A (FB_4A) neg,,,24298,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25101,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Blank Sample,Field Blank experiment 4B (FB_4B) neg,,,24298,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25102,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,QC Sample,LC Internal Standard Mix (LC IS MIX) neg,,,24298,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25103,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,QC Sample,Retention Time Index 1 (RTI_1) neg,,,24298,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25104,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,QC Sample,Retention Time Index 2 (RTI_2) neg,,,24298,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25105,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Real Sample,Sample Experiment 2A neg,,,24298,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25106,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Real Sample,Sample Experiment 2B neg,,,24298,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25107,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Real Sample,Sample Experiment 3A neg,,,24298,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25108,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Real Sample,Sample Experiment 3B neg,,,24298,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25109,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Real Sample,Sample Experiment 4A neg,,,24298,,,,,Indoor air - Office,Urban,,,,,,,indoor-air
+25110,NTS of airborne organic substances in PDMS-foam samplers LCMS LCSB BTA,Real Sample,Sample Experiment 4B neg,,,24298,,,,,Indoor air - Office,Urban,,,,,,,indoor-air

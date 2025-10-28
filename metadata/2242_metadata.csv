@@ -1,0 +1,18 @@
+ID,Collection,Sample type,Short name for contribution,Sampling date,Analysis date,Instrument setup used,Monitored City,Monitored country,Latitude,Longitude,Weight (kg),Height (m),Ethnicity,Birth place,Address/Region,Level of education,Gender,Occupation,Family annual income bracket,Medical History,Diseases,Diet,Lifestyle,matrix
+23122,HERMES,Real Sample,test_EC040,"Fri, 06/02/2023 - 12:09","Wed, 06/19/2024 - 16:09",LC-Orbitrap Q-Exactive: Submission #50,,Spain,,,,,,,Spain,,,,,,,,,urine
+23539,HERMES,Real Sample,THS_EC270,"Fri, 06/02/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.114,1.2456,,,,,Spain,,,,,,,,,urine
+23540,HERMES,Real Sample,NoExp_EC040,,,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.25,,,,,Spain,,,,,,,,,urine
+23541,HERMES,Real Sample,NoExp_EC204,"Thu, 06/01/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.25,,,,,Spain,,,,,,,,,urine
+23542,HERMES,Real Sample,SHS_EC222,"Thu, 06/01/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.25,,,,,Spain,,,,,,,,,urine
+23543,HERMES,Real Sample,NoExp_EC067,"Thu, 06/01/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.25,,,,,Spain,,,,,,,,,urine
+23544,HERMES,Real Sample,NoExp_EC218,"Thu, 06/01/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.25,,,,,Spain,,,,,,,,,urine
+23545,HERMES,Real Sample,NoExp_EC275,"Thu, 06/01/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.24999996,,,,,Spain,,,,,,,,,urine
+23546,HERMES,Real Sample,SHS_EC029,"Thu, 06/01/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.24999999,,,,,Spain,,,,,,,,,urine
+23548,HERMES,Real Sample,SHS_EC085,"Thu, 06/01/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.25,,,,,Spain,,,,,,,,,urine
+23549,HERMES,Real Sample,SHS_EC245,"Thu, 06/01/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.25,,,,,Spain,,,,,,,,,urine
+23550,HERMES,Real Sample,SHS_EC269,"Thu, 06/01/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.25,,,,,Spain,,,,,,,,,urine
+23551,HERMES,Real Sample,THS_EC011,"Thu, 06/01/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.25,,,,,Spain,,,,,,,,,urine
+23552,HERMES,Real Sample,THS_EC082,"Thu, 06/01/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.25,,,,,Spain,,,,,,,,,urine
+23553,HERMES,Real Sample,THS_EC199,"Thu, 06/01/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.25,,,,,Spain,,,,,,,,,urine
+23554,HERMES,Real Sample,THS_EC205,"Thu, 06/01/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.25,,,,,Spain,,,,,,,,,urine
+23555,HERMES,Blank Sample,Blank,"Thu, 06/01/2023 - 13:00",,LC-Orbitrap Q-Exactive: Submission #50,,,41.115,1.25,,,,,Spain,,,,,,,,,urine

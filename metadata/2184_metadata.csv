@@ -1,0 +1,15 @@
+ID,Collection,Sample type,Short name for contribution,Sampling date,Analysis date,Instrument setup used,Monitored City,Monitored country,Latitude,Longitude,Sample Matrix,Location,Category,Category.1,Category.2,Proxy pressures,Proxy pressures.1,Proxy pressures.2,matrix
+22893,INQUIRE PDMS initial test LC,Real Sample,PDMS_Sample_Positive_1,"Fri, 03/31/2023 - 11:00","Sun, 09/10/2023 - 11:00",22889,Stockholm,Sweden,59.36513,18.05903,Indoor air - Office,Urban,,,,,,,indoor-air
+22898,INQUIRE PDMS initial test LC,Real Sample,PDMS_Sample_Positive_2,"Fri, 03/31/2023 - 11:00","Sun, 09/10/2023 - 11:00",22889,Stockholm,Sweden,59.36513,18.05903,Indoor air - Office,Urban,,,,,,,indoor-air
+22899,INQUIRE PDMS initial test LC,Real Sample,PDMS_Sample_Positive_3,"Fri, 03/31/2023 - 11:00","Sun, 09/10/2023 - 11:00",22889,Stockholm,Sweden,59.36513,18.05903,Indoor air - Office,Urban,,,,,,,indoor-air
+22900,INQUIRE PDMS initial test LC,Blank Sample,PDMS field blank,"Fri, 03/31/2023 - 11:00","Sun, 09/10/2023 - 11:00",22889,Stockholm,Sweden,59.36513,18.05903,Indoor air - Office,Urban,,,,,,,indoor-air
+22901,INQUIRE PDMS initial test LC,Blank Sample,Method_Blank,"Fri, 03/31/2023 - 11:00","Sun, 09/10/2023 - 11:00",22889,Stockholm,Sweden,59.36513,18.05903,Indoor air - Office,Urban,,,,,,,indoor-air
+22904,INQUIRE PDMS initial test LC,QC Sample,QC_Sample_1,"Fri, 03/31/2023 - 11:00","Sun, 09/10/2023 - 11:00",22889,Stockholm,Sweden,59.36513,18.05903,Indoor air - Office,Urban,,,,,,,indoor-air
+22905,INQUIRE PDMS initial test LC,QC Sample,QC_Sample_2,"Fri, 03/31/2023 - 11:00","Sun, 09/10/2023 - 11:00",22889,Stockholm,Sweden,59.36513,18.06903,Indoor air - Office,Urban,,,,,,,indoor-air
+22906,INQUIRE PDMS initial test LC,Real Sample,PDMS_Sample_Negative_1,"Fri, 03/31/2023 - 11:00","Sun, 09/10/2023 - 11:00",22890,Stockholm,Sweden,59.36513,18.05903,Indoor air - Office,Urban,,,,,,,indoor-air
+22907,INQUIRE PDMS initial test LC,Real Sample,PDMS_Sample_Negative_2,"Fri, 03/31/2023 - 11:00","Sun, 09/10/2023 - 11:00",22890,Stockholm,Sweden,59.36513,18.05903,Indoor air - Office,Urban,,,,,,,indoor-air
+22908,INQUIRE PDMS initial test LC,Real Sample,PDMS_Sample_Negative_3,"Fri, 03/31/2023 - 11:00","Sun, 09/10/2023 - 11:00",22890,Stockholm,Sweden,59.36513,18.05903,Indoor air - Office,Urban,,,,,,,indoor-air
+22909,INQUIRE PDMS initial test LC,Blank Sample,Field_Blank_Negative,"Fri, 03/31/2023 - 11:00","Sun, 09/10/2023 - 11:00",22890,Stockholm,Sweden,59.36513,18.05903,Indoor air - Office,Urban,,,,,,,indoor-air
+22910,INQUIRE PDMS initial test LC,Blank Sample,Method_Blank_Negative,"Fri, 03/31/2023 - 11:00","Sun, 09/10/2023 - 11:00",22890,Stockholm,Sweden,59.36513,18.05903,Indoor air - Office,Urban,,,,,,,indoor-air
+22911,INQUIRE PDMS initial test LC,QC Sample,QC_Sample_Negative_1,"Fri, 03/31/2023 - 11:00","Sun, 09/10/2023 - 11:00",22890,Stockholm,Sweden,59.36513,18.05903,Indoor air - Office,Urban,,,,,,,indoor-air
+22912,INQUIRE PDMS initial test LC,QC Sample,QC_Sample_Negative_2,"Fri, 03/31/2023 - 11:00","Sun, 09/10/2023 - 11:00",22890,Stockholm,Sweden,59.36513,18.05903,Indoor air - Office,Urban,,,,,,,indoor-air

@@ -1,9 +1,3 @@
-,"<!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN"">"
-0,<html><head>
-1,<title>503 Service Unavailable</title>
-2,</head><body>
-3,<h1>Service Unavailable</h1>
-4,<p>The server is temporarily unable to service your
-5,request due to maintenance downtime or capacity
-6,problems. Please try again later.</p>
-7,</body></html>
+ID,Collection,Sample type,Short name for contribution,Sampling date,Analysis date,Instrument setup used,Monitored City,Monitored country,Latitude,Longitude,Capacity population equivalent,Daily flow m^3/day,Dissolved organic carbon (mg/L),MES Dry matter content (mg/L),pH,Proxy pressures,River basin,Sludge retention time (days),Temperature (°C),Type of industry,Type of tertiary treatment,Type of treatment plant,Type of wastewater,Type of wastewater sample,Volume of the reactor (m^3),Wastewater fraction,Latitude.1,matrix
+21615,New Isotopic Fit System,Real Sample,New Isotopic Fit System,"Tue, 04/02/2019 - 22:00","Tue, 02/26/2019 - 22:00",11,Rome,Italy,41.89,12.5,5200000,703586,35,,7.5,,,,19.4,,C.1. Chlorination,Primary sedimentation + activated sludge (including SBR) - C+N+DN+P,Waste water - Municipal,Effluent wastewater,,Dissolved fraction,41.89,wastewater
+21616,New Isotopic Fit System,Real Sample,New Isotopic Fit System,"Tue, 04/02/2019 - 22:00","Tue, 02/26/2019 - 22:00",10,Rome,Italy,41.89,12.5,5200000,703586,35,,7.5,,,,19.4,,C.1. Chlorination,Primary sedimentation + activated sludge (including SBR) - C+N+DN+P,Waste water - Municipal,Effluent wastewater,,Dissolved fraction,41.89,wastewater

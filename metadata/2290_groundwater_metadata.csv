@@ -1,0 +1,13 @@
+ID,Collection,Sample type,Short name for contribution,Sampling date,Analysis date,Instrument setup used,Monitored City,Monitored country,Latitude,Longitude,Groundwater fraction,River basin name,Proxy pressures,Type of sampling depth,Depth (m),pH,Temperature (°C),Dissolved organic carbon (mg/L)
+23773,CLEANWATER,Real Sample,KINCHIL 1,,,23172,,,37.181685,-3.6082474,Whole water with no separation of liquid and SPM phases,,,,,,,
+23774,CLEANWATER,Real Sample,KINCHIL2,,,23172,,,,,Whole water with no separation of liquid and SPM phases,,,,,,,
+23775,CLEANWATER,Blank Sample,SILTITECH-1-1,,,23172,,,37.181685,-3.6082474,Whole water with no separation of liquid and SPM phases,,,,,,,
+23776,CLEANWATER,Real Sample,SILTITECH-1-2,,,23172,,,,,Whole water with no separation of liquid and SPM phases,,,,,,,
+23777,CLEANWATER,Real Sample,SILTITECH-2-1,,,23172,,,,,Whole water with no separation of liquid and SPM phases,,,,,,,
+23778,CLEANWATER,Real Sample,SILTITECH-2-2,,,23172,,,,,Whole water with no separation of liquid and SPM phases,,,,,,,
+23779,CLEANWATER,Real Sample,N-KINCHIL 1,,,23559,,,,,Whole water with no separation of liquid and SPM phases,,,,,,,
+23780,CLEANWATER,Real Sample,N-KINCHIL 2,,,23559,,,,,Whole water with no separation of liquid and SPM phases,,,,,,,
+23781,CLEANWATER,Real Sample,N-SILTITECH-1-1,,,23559,,,,,Whole water with no separation of liquid and SPM phases,,,,,,,
+23782,CLEANWATER,Real Sample,N-SILTITECH-1-2,,,23559,,,37.181685,-3.6082474,Whole water with no separation of liquid and SPM phases,,,,,,,
+23783,CLEANWATER,Real Sample,N-SILTITECH-2-1,,,23559,,,,,Whole water with no separation of liquid and SPM phases,,,,,,,
+23784,CLEANWATER,Real Sample,N-SILTITECH-2-2,,,23559,,,,,Whole water with no separation of liquid and SPM phases,,,,,,,

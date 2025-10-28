@@ -1,0 +1,11 @@
+ID,Collection,Sample type,Short name for contribution,Sampling date,Analysis date,Instrument setup used,Monitored City,Monitored country,Latitude,Longitude,Type of Surface water,Surface water fraction,Surface of the area (km^2),SPM concentration (mg/L),Depth (m),pH,Temperature (°C),Dissolved organic carbon (mg/L),"Name of river, estuary, lake, reservoir or sea",River basin name,Distance from the river source (km),Proxy pressures,Type of sampling depth,matrix
+23530,"Microplastics, leaching of additives and non-intentionally added substances IDAEA-CSIC",Blank Sample,Blank 1,,,119,,,,,,,,,,,,,,,,,,surface-water
+23533,"Microplastics, leaching of additives and non-intentionally added substances IDAEA-CSIC",Real Sample,Polyamide,,,119,,,,,,,,,,,,,,,,,,surface-water
+23534,"Microplastics, leaching of additives and non-intentionally added substances IDAEA-CSIC",Real Sample,Polystyrene,,,119,,,,,,,,,,,,,,,,,,surface-water
+23535,"Microplastics, leaching of additives and non-intentionally added substances IDAEA-CSIC",Real Sample,PP,,,119,,,,,,,,,,,,,,,,,,surface-water
+23536,"Microplastics, leaching of additives and non-intentionally added substances IDAEA-CSIC",Real Sample,PVC_pos,,,119,,,,,,,,,,,,,,,,,,surface-water
+23537,"Microplastics, leaching of additives and non-intentionally added substances IDAEA-CSIC",Blank Sample,Blank1_neg,,,120,,,,,,,,,,,,,,,,,,surface-water
+23538,"Microplastics, leaching of additives and non-intentionally added substances IDAEA-CSIC",Real Sample,Polyamide_neg,,,120,,,,,,,,,,,,,,,,,,surface-water
+23556,"Microplastics, leaching of additives and non-intentionally added substances IDAEA-CSIC",Real Sample,PVC_neg,,,120,,,,,,,,,,,,,,,,,,surface-water
+23557,"Microplastics, leaching of additives and non-intentionally added substances IDAEA-CSIC",Real Sample,Polystyrene_neg,,,120,,,,,,,,,,,,,,,,,,surface-water
+23558,"Microplastics, leaching of additives and non-intentionally added substances IDAEA-CSIC",Real Sample,PP_neg,,,120,,,,,,,,,,,,,,,,,,surface-water

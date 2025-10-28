@@ -1,0 +1,76 @@
+ID,Collection,Sample type,Short name for contribution,Sampling date,Analysis date,Instrument setup used,Monitored City,Monitored country,Latitude,Longitude,Type of Surface water,Surface water fraction,Surface of the area (km^2),SPM concentration (mg/L),Depth (m),pH,Temperature (°C),Dissolved organic carbon (mg/L),"Name of river, estuary, lake, reservoir or sea",River basin name,Distance from the river source (km),Proxy pressures,Type of sampling depth,matrix
+22454,NORMAN Semiquantitative trial,Real Sample,University of Athens B1_1,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.9826248,23.7721931,,,,,,,,,,,,,,surface-water
+22455,NORMAN Semiquantitative trial,Real Sample,University of Athens Β1_2,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.9826248,23.7721931,,,,,,,,,,,,,,surface-water
+22456,NORMAN Semiquantitative trial,Real Sample,University of Athens B2_1,,"Fri, 11/12/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22457,NORMAN Semiquantitative trial,Real Sample,University of Athens B2_2,,"Fri, 11/12/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22458,NORMAN Semiquantitative trial,Real Sample,University of Athens B3_1,,"Fri, 11/12/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22459,NORMAN Semiquantitative trial,Real Sample,University of Athens B3_2,,"Fri, 11/12/2021 - 00:00",10,Athens,,37.98262453,23.77220369,,,,,,,,,,,,,,surface-water
+22460,NORMAN Semiquantitative trial,Real Sample,University of Athens Cal1_1,,"Fri, 11/12/2021 - 00:00",10,Athens,,37.98261999,23.7721999,,,,,,,,,,,,,,surface-water
+22461,NORMAN Semiquantitative trial,Real Sample,University of Athens Cal1_2,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.971558,23.773184,,,,,,,,,,,,,,surface-water
+22462,NORMAN Semiquantitative trial,Real Sample,University of Athens Cal2_1,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.982624,23.7721976,,,,,,,,,,,,,,surface-water
+22463,NORMAN Semiquantitative trial,Real Sample,University of Athens Cal2_2,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.971558,23.773184,,,,,,,,,,,,,,surface-water
+22464,NORMAN Semiquantitative trial,Real Sample,University of Athens Cal3_1,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.98262,23.7721991,,,,,,,,,,,,,,surface-water
+22465,NORMAN Semiquantitative trial,Real Sample,University of Athens Cal3_2,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.971,23.773,,,,,,,,,,,,,,surface-water
+22466,NORMAN Semiquantitative trial,Real Sample,University of Athens Cal4_1,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22467,NORMAN Semiquantitative trial,Real Sample,University of Athens Cal4_2,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22468,NORMAN Semiquantitative trial,Real Sample,University of Athens Cal5_1,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22469,NORMAN Semiquantitative trial,Real Sample,University of Athens Cal5_2,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22470,NORMAN Semiquantitative trial,Real Sample,University of Athens Cal6_1,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22471,NORMAN Semiquantitative trial,Real Sample,University of Athens Cal6_2,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.98262,23.7722014,,,,,,,,,,,,,,surface-water
+22472,NORMAN Semiquantitative trial,Real Sample,University of Athens S1a_1,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22473,NORMAN Semiquantitative trial,Real Sample,University of Athens S1a_2,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22474,NORMAN Semiquantitative trial,Real Sample,University of Athens S1b_1,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22475,NORMAN Semiquantitative trial,Real Sample,University of Athens S1b_2,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22476,NORMAN Semiquantitative trial,Real Sample,University of Athens S2a_1,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22477,NORMAN Semiquantitative trial,Real Sample,University of Athens S2a_2,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.98262,23.7722064,,,,,,,,,,,,,,surface-water
+22478,NORMAN Semiquantitative trial,Real Sample,University of Athens S2b_1,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22479,NORMAN Semiquantitative trial,Real Sample,University of Athens S2b_2,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22480,NORMAN Semiquantitative trial,Real Sample,University of Athens S3a_1,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22481,NORMAN Semiquantitative trial,Real Sample,University of Athens S3a_2,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.98262,23.772,,,,,,,,,,,,,,surface-water
+22482,NORMAN Semiquantitative trial,Real Sample,University of Athens S3b_1,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.97155,23.773184,,,,,,,,,,,,,,surface-water
+22483,NORMAN Semiquantitative trial,Real Sample,University of Athens S3b_2,,"Sat, 12/11/2021 - 00:00",10,Athens,,37.98262,23.7721938,,,,,,,,,,,,,,surface-water
+22802,NORMAN Semiquantitative trial,Real Sample,University of Bath B1_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22803,NORMAN Semiquantitative trial,Real Sample,University of Bath B1_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22804,NORMAN Semiquantitative trial,Real Sample,University of Bath B1_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22805,NORMAN Semiquantitative trial,Real Sample,University of Bath B2_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22806,NORMAN Semiquantitative trial,Real Sample,University of Bath B2_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22807,NORMAN Semiquantitative trial,Real Sample,University of Bath B2_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22808,NORMAN Semiquantitative trial,Real Sample,University of Bath B3_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22809,NORMAN Semiquantitative trial,Real Sample,University of Bath B3_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22810,NORMAN Semiquantitative trial,Real Sample,University of Bath B3_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22811,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal1_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22812,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal1_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22813,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal1_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22814,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal2_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22815,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal2_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22816,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal2_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22817,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal3_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22818,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal3_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22819,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal3_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22820,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal4_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22821,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal4_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22822,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal4_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22823,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal5_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22824,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal5_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22825,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal5_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22826,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal6_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22827,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal6_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22828,NORMAN Semiquantitative trial,Real Sample,University of Bath Cal6_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22829,NORMAN Semiquantitative trial,Real Sample,University of Bath S1a_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22830,NORMAN Semiquantitative trial,Real Sample,University of Bath S1a_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22831,NORMAN Semiquantitative trial,Real Sample,University of Bath S1a_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22832,NORMAN Semiquantitative trial,Real Sample,University of Bath S1b_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22833,NORMAN Semiquantitative trial,Real Sample,University of Bath S1b_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22834,NORMAN Semiquantitative trial,Real Sample,University of Bath S1b_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22835,NORMAN Semiquantitative trial,Real Sample,University of Bath S2a_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22836,NORMAN Semiquantitative trial,Real Sample,University of Bath S2a_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22837,NORMAN Semiquantitative trial,Real Sample,University of Bath S2a_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22838,NORMAN Semiquantitative trial,Real Sample,University of Bath S2b_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22839,NORMAN Semiquantitative trial,Real Sample,University of Bath S2b_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22840,NORMAN Semiquantitative trial,Real Sample,University of Bath S2b_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22841,NORMAN Semiquantitative trial,Real Sample,University of Bath S3a_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22842,NORMAN Semiquantitative trial,Real Sample,University of Bath S3a_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22843,NORMAN Semiquantitative trial,Real Sample,University of Bath S3a_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22844,NORMAN Semiquantitative trial,Real Sample,University of Bath S3b_1,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22845,NORMAN Semiquantitative trial,Real Sample,University of Bath S3b_2,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water
+22846,NORMAN Semiquantitative trial,Real Sample,University of Bath S3b_3,"Wed, 11/03/2021 - 00:00","Tue, 11/23/2021 - 00:00",22801,Bath,,51.378156,-2.326425,,,,,,,,,,,,,,surface-water

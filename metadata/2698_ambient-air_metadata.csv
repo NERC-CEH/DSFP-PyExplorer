@@ -1,0 +1,5 @@
+ID,Collection,Sample type,Short name for contribution,Sampling date,Analysis date,Instrument setup used,Monitored City,Monitored country,Latitude,Longitude,Barometric pressure (kPa),Name of wider sapling area,Relative humidity (%),Sample Matrix,Sampling height above sea level (m),Temperature,Wind direction,Wind speed (km/h)
+25127,NTS of airborne organic substances in PDMS-foam samplers LC-MS DTU Hansen,Blank Sample,Exp 2A Field blank Neg,,,25126,,,55.7940736,12.5239296,,,,,,,,
+25128,NTS of airborne organic substances in PDMS-foam samplers LC-MS DTU Hansen,Blank Sample,Exp 2B Field blank Neg,,,25126,,,55.7940736,12.5239296,,,,,,,,
+25129,NTS of airborne organic substances in PDMS-foam samplers LC-MS DTU Hansen,Blank Sample,Exp 2A Field blank Pos,,,25126,,,55.7940736,12.5239296,,,,,,,,
+25130,NTS of airborne organic substances in PDMS-foam samplers LC-MS DTU Hansen,Blank Sample,Exp 2B Field blank Pos,,,25126,,,55.7940736,12.5239296,,,,,,,,
