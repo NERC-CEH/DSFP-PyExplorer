@@ -144,7 +144,7 @@ def main(config):
     #subset the data 
     if SUBSET:
         #read the metadata
-        metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0)
+        metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0).reset_index()
         #determine the groupings
         groups = set(metaData[SUBSET])
         for g in groups:
@@ -153,7 +153,7 @@ def main(config):
             #read the ordination data 
             ordinationData = pd.read_csv(f"{ORDPATH}/{COLLECTION_ID}_ordination.csv",index_col=0)
             #re-read the metadata
-            metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0)
+            metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0).reset_index()
             #subset the metadata
             metaData = metaData[metaData[SUBSET] == g]
             #subset the ordination data 
@@ -163,7 +163,7 @@ def main(config):
     
     else: 
         #read the metadata
-        metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0)
+        metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0).reset_index()
         #read the ordination data 
         ordinationData = pd.read_csv(f"{ORDPATH}/{COLLECTION_ID}_ordination.csv",index_col=0)
         #do the kmeans

@@ -94,7 +94,7 @@ def main(config):
     #subset the data 
     if SUBSET:
         #read the metadata
-        metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0)
+        metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0).reset_index()
         #determine the groupings
         groups = set(metaData[SUBSET])
         for g in groups:
@@ -103,7 +103,7 @@ def main(config):
             #read the ordination data 
             ordinationData = pd.read_csv(f"{ORDPATH}/{COLLECTION_ID}_ordination.csv",index_col=0)
             #re-read the metadata
-            metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0)
+            metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0).reset_index()
             #ensure there are no nans in the ldalabel column
             metaData = metaData[metaData[LABEL].notnull()]
             #subset the metadata
@@ -130,7 +130,7 @@ def main(config):
 
     else: 
         #read the metadata
-        metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0)
+        metaData = pd.read_csv(f"{METAPATH}/{COLLECTION_ID}_metadata.csv",index_col=0).reset_index()
         #ensure there are no nans in the ldalabel column
         metaData = metaData[metaData[LABEL].notnull()]
         #read the ordination data 

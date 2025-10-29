@@ -34,7 +34,7 @@ def main(config):
         #create an empty dataframe to make the pca plots in
         plotData = pd.DataFrame()
         plotData['sample_id'] = ordinationData.index
-        plotData = pd.merge(plotData,metaData, how='left', left_on='sample_id', right_on='ID')
+        plotData = pd.merge(plotData,metaData, how='left', left_on='sample_id', right_index=True)
 
         #do the PCA
         PCA = decomposition.PCA()
@@ -109,7 +109,7 @@ def main(config):
             #subset the metadata
             metaData = metaData[metaData[SUBSET] == g]
             #subset the ordination data 
-            ordinationData = ordinationData[ordinationData.index.isin(metaData["ID"])]
+            ordinationData = ordinationData[ordinationData.index.isin(metaData.index)]
             #zero-fill the ordination data 
             zeroFill = ordinationData.fillna(0)
             #normalise the ordination data
