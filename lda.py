@@ -98,8 +98,9 @@ def main(config):
         #determine the groupings
         groups = set(metaData[SUBSET])
         for g in groups:
+            gs = g.replace(":","").replace("#","")
             #make dirs
-            os.makedirs(f"{FILEPATH}/{g}/", exist_ok=True)
+            os.makedirs(f"{FILEPATH}/{gs}/", exist_ok=True)
             #read the ordination data 
             ordinationData = pd.read_csv(f"{ORDPATH}/{COLLECTION_ID}_ordination.csv",index_col=0)
             #re-read the metadata
@@ -126,7 +127,7 @@ def main(config):
                 normalise = pk.normalise_intensity(zeroFill,norm_method=COL_METHOD,norm_transform=COL_TRANSFORM,norm_direction='columns')
                 normalise = pk.normalise_intensity(zeroFill,norm_method=ROW_METHOD,norm_transform=ROW_TRANSFORM,norm_direction='rows')
             #do the lda
-            lda_ROUTINE(g=f"{g}/")
+            lda_ROUTINE(g=f"{gs}/")
 
     else: 
         #read the metadata

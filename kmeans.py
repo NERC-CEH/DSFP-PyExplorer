@@ -148,8 +148,9 @@ def main(config):
         #determine the groupings
         groups = set(metaData[SUBSET])
         for g in groups:
+            gs = g.replace(":","").replace("#","")
             #make dirs
-            os.makedirs(f"{FILEPATH}/{g}/", exist_ok=True)
+            os.makedirs(f"{FILEPATH}/{gs}/", exist_ok=True)
             #read the ordination data 
             ordinationData = pd.read_csv(f"{ORDPATH}/{COLLECTION_ID}_ordination.csv",index_col=0)
             #re-read the metadata
@@ -159,7 +160,7 @@ def main(config):
             #subset the ordination data 
             ordinationData = ordinationData[ordinationData.index.isin(metaData["ID"])]
             #do the kmeans
-            kmeans_ROUTINE(g=f"{g}/")
+            kmeans_ROUTINE(g=f"{gs}/")
     
     else: 
         #read the metadata
