@@ -3,6 +3,8 @@ A Python package for doing exploratory data analysis of collections on the [NORM
 
 ![logo](dsfp-pylogo.png)
 
+[![DOI](https://zenodo.org/badge/963809411.svg)](https://doi.org/10.5281/zenodo.19329948)
+
 ## ``config.yaml``
 
 The parameters for the scripts are all contained in the config.yaml file. A description of some generic parameters used by most scripts is given here:
