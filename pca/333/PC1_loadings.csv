@@ -1,21 +1,21 @@
-,scores,mols
-0,-0.023440103821683926,Tropolone
-1,-0.023289283072304073,Ethyl vinyl sulfone
-2,-0.022891648101878076,NS00102699
-3,-0.02287139421133723,"TP3/Phosphorotrithious acid, tridodecyl ester"
-4,-0.022735348027808983,"TP1/Ethanol, 2-(ethylthio)-"
-5,-0.021682054711503664,"5-(3,5-Di-sec-butylcyclopent-1-enyl)-2,3,5-trihydroxyvaleric acid"
-6,-0.021391698786540486,Isododecyl methacrylate
-7,-0.021235628154695308,2-Butyloctyl methacrylate
-8,-0.021235628154695308,1-Methylundecyl methacrylate
-9,-0.021235628154695308,2-(Methylamino)butan-1-ol
-10,0.04715672372331086,"Methanol, (diethylamino)-"
-11,0.04715672372331086,4-Mercaptobutyric acid
-12,0.04715672372331086,L-valinol | L-(+)-valinol
-13,0.04715672372331086,(R)-1-(methoxymethyl)propylamine
-14,0.04715672372331086,2-(Dimethylamino)propan-1-ol
-15,0.04715672372331086,"1-Amino-2,2-dimethylpropan-1-ol"
-16,0.04715672372331086,4-Aminopentan-1-ol
-17,0.04715672372331086,"1-Propanol, 3-(dimethylamino)-"
-18,0.04715672372331086,"1-Propanamine, 3-ethoxy-"
-19,0.04715672372331086,1-Amino-2-methylbutan-2-ol
+,scores,mols,sus
+0,-0.02344010382168384,Tropolone,NS00032738
+1,-0.02328928307230403,Ethyl vinyl sulfone,NS00026184
+2,-0.022891648101877986,"TP3/Phosphorotrithious acid, tridodecyl ester",NS00102699
+3,-0.022871394211337128,NS00102699,NS00103450
+4,-0.022735348027808914,4-Mercaptobutyric acid,NS00103666
+5,-0.021682054711503605,"5-(3,5-Di-sec-butylcyclopent-1-enyl)-2,3,5-trihydroxyvaleric acid",NS00024137
+6,-0.021391698786540403,"10-Undecenoic acid, pentyl ester",NS00042461
+7,-0.021235628154695263,"TP1/Ethanol, 2-(ethylthio)-",NS00066700
+8,-0.021235628154695253,1-Methylundecyl methacrylate,NS00026057
+9,-0.021235628154695253,2-(Dimethylamino)propan-1-ol,NS00066538
+10,0.047156723723310714,2-Methylundecyl methacrylate,NS00051748
+11,0.047156723723310714,"Methanol, (diethylamino)-",NS00025185
+12,0.047156723723310714,1-Amino-2-methylbutan-2-ol,NS00056967
+13,0.047156723723310714,"1-Amino-2,2-dimethylpropan-1-ol",NS00087463
+14,0.047156723723310714,Dimepranol,NS00056605
+15,0.047156723723310714,1-(Methoxymethyl)propylamine,NS00008981
+16,0.047156723723310714,2-(Isopropylamino)ethanol,NS00021506
+17,0.047156723723310714,Choline,NS00099790
+18,0.047156723723310714,L-2-amino-3-methylbutan-1-ol,NS00025345
+19,0.047156723723310714,"Ethanol, 2-(propylamino)-",NS00046367

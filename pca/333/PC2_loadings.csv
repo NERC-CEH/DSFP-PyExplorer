@@ -1,21 +1,21 @@
-,scores,mols
-0,-0.047113978641953165,"3-(P-nonylphenoxy)propane-1,2-diol"
-1,-0.047100851739957185,"Dihydro-3-tetradecylfuran-2,5-dione"
-2,-0.04705344750560586,"9-Oxo-10(E),12(E)-octadecadienoic acid"
-3,-0.04703501290361597,"Dihydro-3-(2-tetradecenyl)furan-2,5-dione"
-4,-0.04703501290361597,Octylphenol diethoxylates (OP2EO)
-5,-0.04703501290361597,"3,7-Dimethyl-1-(2-phenylethoxy)octane-1,7-diol"
-6,-0.04703501290361597,"2-[2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy]ethanol"
-7,-0.0461603849400876,"8-Hydroxy-6-oxooctadeca-9,12-dienoic acid"
-8,-0.046141701468194476,"(9Z,11E,15Z)-13-Hydroperoxy-9,11,15-octadecatrienoic acid"
-9,-0.045700576970218273,"10-Hydroxy-6-oxooctadeca-8,12-dienoic acid"
-10,0.026141067834744645,Phytosphingosine
-11,0.029722877477209707,"N,N-Dimethyldodecylamine-N-oxide"
-12,0.032113334716299,"1,1'-(Octylimino)dipropan-2-ol"
-13,0.034360240224670484,Decylammonium acetate
-14,0.0353811049987598,2-(Methylamino)butan-1-ol
-15,0.035410751982579154,Dibutylammonium isobutyrate
-16,0.03623514693023377,"Ethanol, 2,2'-(octylimino)bis-"
-17,0.03672768256620807,"Lauric acid, compound with diethylamine (1:1)"
-18,0.03994326312423943,NS00014224
-19,0.03994326312423943,"Ethane, nitroso-"
+,scores,mols,sus
+0,-0.04711397864195312,"Dihydro-3-tetradecylfuran-2,5-dione",NS00047264
+1,-0.047100851739957116,"3-(P-nonylphenoxy)propane-1,2-diol",NS00059215
+2,-0.04705344750560581,"9-Oxo-10(E),12(E)-octadecadienoic acid",NS00018018
+3,-0.04703501290361593,"Dihydro-3-(2-tetradecenyl)furan-2,5-dione",NS00056124
+4,-0.04703501290361593,Octylphenol diethoxylates (OP2EO),NS00010302
+5,-0.04703501290361593,"3,7-Dimethyl-1-(2-phenylethoxy)octane-1,7-diol",NS00064578
+6,-0.04703501290361593,"2-[2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy]ethanol",NS00101016
+7,-0.04616038494008758,1-(Methoxymethyl)propylamine,NS00096626
+8,-0.04614170146819451,"8-Hydroxy-6-oxooctadeca-9,12-dienoic acid",NS00072646
+9,-0.04570057697021831,"(9Z,11E,15Z)-13-Hydroperoxy-9,11,15-octadecatrienoic acid",NS00072645
+10,0.02614106783474476,"10-Hydroxy-6-oxooctadeca-8,12-dienoic acid",NS00087463
+11,0.0297228774772097,"N,N-Dimethyldodecylamine-N-oxide",NS00009822
+12,0.032113334716299034,Phytosphingosine,NS00001592
+13,0.03436024022467049,"1,1'-(Octylimino)dipropan-2-ol",NS00047131
+14,0.03538110499875973,Decylammonium acetate,NS00081944
+15,0.0354107519825791,Dibutylammonium isobutyrate,NS00091206
+16,0.03623514693023374,"Ethanol, 2,2'-(octylimino)bis-",NS00019705
+17,0.036727682566208064,"Ethane, nitroso-",NS00093370
+18,0.03994326312423939,"Lauric acid, compound with diethylamine (1:1)",NS00071557
+19,0.03994326312423939,NS00014224,NS00014224

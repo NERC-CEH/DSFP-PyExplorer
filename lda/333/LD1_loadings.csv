@@ -1,21 +1,21 @@
 ,scores,mols
-0,-0.2887255074627168,"Diindolo[3,2,1-de:3',2',1'-ij][1,5]naphthyridine-6,13-dione, 7,14-diphenyl-"
-1,-0.19604901803741281,"6-Allyl-6,7-dihydro-5H-dibenz[c,e]azepinium dihydrogen phosphate"
-2,-0.19604901803741281,N-(3-Chloro-4-fluorophenyl)-N'-(3-morpholinopropyl)thiourea
-3,-0.19604901803741281,6-[Methyl[(3-nitrophenyl)sulphonyl]amino]hexanoic acid
-4,-0.1856358818288671,"Di[1,3,5-triazine-2,4,6-triamine] oxalate"
-5,-0.16312702054475134,Benzethonium chloride
-6,-0.16073574915515546,"4-[2-(2-Methoxyethoxy)ethoxy]benzene-1,3-diamine dihydrochloride"
-7,-0.1469689788341535,"2,5-Bis(benzyloxy)-3,4-dihydroxy-n-(2-hydroxy-2,3-dihydro-1h-inden-1-yl)-n'-[2-methyl-1-(methylcarbamoyl)propyl]hexanediamide"
-8,-0.14476373829936737,"[2-[4-[(4-Amino-9,10-dihydro-9,10-dioxo-1-anthryl)amino]phenoxy]ethyl]trimethylammonium methyl sulphate"
-9,-0.14300609275232484,Fisetin
-10,0.31050224262727666,"4,4',4'',4'''-(Oxydimethylidyne)tetrakis(N,N-dimethylaniline)"
-11,0.32865462390809685,"(4-((4-(Diethylamino)phenyl)phenylmethylene)-2,5-cyclohexadien-1-ylidene)diethylammonium acetate"
-12,0.36295370643582786,"Tetradecanamide, N-[3-(dimethylamino)propyl]-"
-13,0.3911896749641081,"[2,3-Dichloro-4-(1H-tetrazol-5-ylmethoxy)phenyl] 2-thienyl ketone"
-14,0.45185176068282595,"5-[3-(3-Hydroxyphenoxy)azetidin-1-yl]-5-methyl-2,2-diphenylhexanamide"
-15,0.47663642086650304,"Phosphoric acid, decyl ester, compd. with 2,2',2''-nitrilotris[ethanol]"
-16,0.5695217198592035,Menichlopholan
-17,0.9226670999388346,Azosemide
-18,1.0364719061081613,2-Amino-6-fluorobenzonitrile
-19,1.068738422153087,"4-{[4-Amino-6-(2,6-dichlorophenoxy)-1,3,5-triazin-2-yl]amino}benzonitrile"
+0,-0.2887255074627185,"6-Allyl-6,7-dihydro-5H-dibenz[c,e]azepinium dihydrogen phosphate"
+1,-0.19604901803741157,"Diindolo[3,2,1-de:3',2',1'-ij][1,5]naphthyridine-6,13-dione, 7,14-diphenyl-"
+2,-0.19604901803741157,"Di[1,3,5-triazine-2,4,6-triamine] oxalate"
+3,-0.19604901803741157,6-[Methyl[(3-nitrophenyl)sulphonyl]amino]hexanoic acid
+4,-0.18563588182886653,Benzethonium chloride
+5,-0.16312702054474953,N-(3-Chloro-4-fluorophenyl)-N'-(3-morpholinopropyl)thiourea
+6,-0.1607357491551539,"4-[2-(2-Methoxyethoxy)ethoxy]benzene-1,3-diamine dihydrochloride"
+7,-0.14696897883415314,"2,5-Bis(benzyloxy)-3,4-dihydroxy-n-(2-hydroxy-2,3-dihydro-1h-inden-1-yl)-n'-[2-methyl-1-(methylcarbamoyl)propyl]hexanediamide"
+8,-0.14476373829936806,"[2-[4-[(4-Amino-9,10-dihydro-9,10-dioxo-1-anthryl)amino]phenoxy]ethyl]trimethylammonium methyl sulphate"
+9,-0.14300609275232387,"4,4',4'',4'''-(Oxydimethylidyne)tetrakis(N,N-dimethylaniline)"
+10,0.31050224262727694,"(4-((4-(Diethylamino)phenyl)phenylmethylene)-2,5-cyclohexadien-1-ylidene)diethylammonium acetate"
+11,0.32865462390809547,"5-[3-(3-Hydroxyphenoxy)azetidin-1-yl]-5-methyl-2,2-diphenylhexanamide"
+12,0.3629537064358255,"Phosphoric acid, decyl ester, compd. with 2,2',2''-nitrilotris[ethanol]"
+13,0.3911896749641061,"Tetradecanamide, N-[3-(dimethylamino)propyl]-"
+14,0.451851760682823,"[2,3-Dichloro-4-(1H-tetrazol-5-ylmethoxy)phenyl] 2-thienyl ketone"
+15,0.4766364208664997,Fisetin
+16,0.5695217198591997,Menichlopholan
+17,0.9226670999388312,Azosemide
+18,1.036471906108157,"4-{[4-Amino-6-(2,6-dichlorophenoxy)-1,3,5-triazin-2-yl]amino}benzonitrile"
+19,1.0687384221530816,2-Amino-6-fluorobenzonitrile
